@@ -1,0 +1,1064 @@
+﻿Log file open, 03/29/19 20:06:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GoTLegends
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413158
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin GameSparks
+LogStreaming: Display: Took  0.035s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  /Game/Core/Maps/TopDownExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -featureleveles2 -faketouches -MultiprocessSaveConfig -windowed
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.03.30-00.06.53:656][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.30-00.06.53:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:657][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:660][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.30-00.06.53:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.30-00.06.53:661][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.30-00.06.53:661][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.30-00.06.53:661][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.30-00.06.53:664][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.30-00.06.53:664][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.30-00.06.53:664][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.30-00.06.53:664][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.30-00.06.53:665][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.30-00.06.53:665][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GoTLegends-Updated-/GoTLegends 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.30-00.06.53:665][  0]LogInit: Computer: LAPTOP-LG71H09L
+[2019.03.30-00.06.53:665][  0]LogInit: User: ArchlichStudios
+[2019.03.30-00.06.53:665][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.30-00.06.53:665][  0]LogInit: High frequency timer resolution =2.156251 MHz
+[2019.03.30-00.06.53:665][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.03.30-00.06.53:665][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.30-00.06.53:665][  0]LogMemory: Process Physical Memory: 103.53 MB used, 103.53 MB peak
+[2019.03.30-00.06.53:665][  0]LogMemory: Process Virtual Memory: 94.32 MB used, 94.32 MB peak
+[2019.03.30-00.06.53:665][  0]LogMemory: Physical Memory: 8194.04 MB used,  8032.26 MB free, 16226.30 MB total
+[2019.03.30-00.06.53:665][  0]LogMemory: Virtual Memory: 576.61 MB used,  134217152.00 MB free, 134217728.00 MB total
+[2019.03.30-00.06.53:684][  0]LogInit: Using OS detected language (en-US).
+[2019.03.30-00.06.53:684][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.30-00.06.53:684][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.30-00.06.54:005][  0]LogStreaming: Display: Took  0.322s to InitEngineTextLocalization.
+[2019.03.30-00.06.54:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.30-00.06.54:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.30-00.06.54:057][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.30-00.06.54:057][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.30-00.06.54:133][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.03.30-00.06.54:133][  0]LogD3D11RHI:       6052/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.30-00.06.54:147][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.30-00.06.54:147][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.30-00.06.54:149][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.30-00.06.54:149][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.30-00.06.54:149][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.30-00.06.54:157][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.30-00.06.54:157][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.30-00.06.54:157][  0]LogWindows: EnumDisplayDevices:
+[2019.03.30-00.06.54:158][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.30-00.06.54:158][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.30-00.06.54:159][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.30-00.06.54:159][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.30-00.06.54:159][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.03.30-00.06.54:159][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.03.30-00.06.54:159][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.03.30-00.06.54:159][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.03.30-00.06.54:159][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.03.30-00.06.54:194][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.30-00.06.54:217][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.30-00.06.54:446][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.30-00.06.54:456][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.30-00.06.54:466][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.30-00.06.54:477][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.30-00.06.54:477][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.30-00.06.54:509][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Intermediate/Shaders/WorkingDirectory/1528/).
+[2019.03.30-00.06.54:509][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Archlich Studios/AppData/Local/Temp/UnrealShaderWorkingDir/8DD59B6642F18B0B520D77A0792F7C57/'.
+[2019.03.30-00.06.54:510][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.30-00.06.54:510][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.30-00.06.54:510][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.30-00.06.54:890][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Archlich Studios/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Archlich Studios/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GoTLegends-Updated-/GoTLegends 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GoTLegends-Updated-/GoTLegends 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.30-00.06.54:927][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.30-00.06.54:940][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.30-00.06.54:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.30-00.06.54:940][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.30-00.06.54:952][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Archlich Studios/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.30-00.06.54:952][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.30-00.06.54:952][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.30-00.06.54:961][  0]LogMaterial: Verifying Global Shaders for PCD3D_ES2
+[2019.03.30-00.06.54:962][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.30-00.06.54:962][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.30-00.06.55:044][  0]LogInit: Using OS detected language (en-US).
+[2019.03.30-00.06.55:044][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.30-00.06.55:044][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.03.30-00.06.55:044][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.03.30-00.06.55:045][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.03.30-00.06.55:045][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.03.30-00.06.55:341][  0]LogStreaming: Display: Took  0.297s to InitGameTextLocalization.
+[2019.03.30-00.06.55:346][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2019.03.30-00.06.55:512][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.009786 seconds
+[2019.03.30-00.06.55:595][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.30-00.06.55:705][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.30-00.06.55:707][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.30-00.06.55:707][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.30-00.06.55:707][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.30-00.06.55:707][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.30-00.06.55:717][  0]LogNetVersion: GoTLegends 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3814131638)
+[2019.03.30-00.06.56:143][  0]LogMoviePlayer: Initializing movie player
+[2019.03.30-00.06.56:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.30-00.06.56:382][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.30-00.06.56:478][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2019.03.30-00.06.56:487][  0]SourceControl: Source control is disabled
+[2019.03.30-00.06.56:487][  0]SourceControl: Source control is disabled
+[2019.03.30-00.06.56:488][  0]SourceControl: Source control is disabled
+[2019.03.30-00.06.56:600][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.30-00.06.56:623][  0]LogOcInput: OculusInput pre-init called
+[2019.03.30-00.06.56:631][  0]LogUObjectArray: 48731 objects as part of root set at end of initial load.
+[2019.03.30-00.06.56:631][  0]LogUObjectAllocator: 8466312 out of 0 bytes used by permanent object pool.
+[2019.03.30-00.06.56:631][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency1 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency2 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency3 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency4 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency5 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSAccountDetailsResponse::Currency6 is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSLocation::Latitide is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSLocation::Longditute is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency1Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency2Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency3Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency4Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency5Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::Currency6Added is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::CurrencyConsumed is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBuyVirtualGoodResponse::CurrencyType is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBoughtitem::Quantity is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: BoolProperty FGSAuthenticationResponse::NewPlayer is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: BoolProperty FGSPlayer::Online is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: BoolProperty FGSAroundMeLeaderboardResponse::Social is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSLeaderboardData::Rank is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBulkJob::ActualCount is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBulkJob::DoneCount is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBulkJob::ErrorCount is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSBulkJob::EstimatedCount is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSDismissMultipleMessagesResponse::MessagesDismissed is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSEndSessionResponse::SessionDuration is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency1Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency2Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency3Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency4Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency5Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::Currency6Wager is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSChallenge::MaxTurns is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSFindMatchResponse::PeerId is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSFindMatchResponse::Port is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSPendingMatch::Skill is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSMatchedPlayer::Skill is not initialized properly
+[2019.03.30-00.06.56:758][  0]LogClass: Warning: FGSGetDownloadableResponse::Size is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSGetUploadedResponse::Size is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSJoinChallengeResponse::Joined is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSAchievement::Earned is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSPlayerMessage::Seen is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSPlayerTransaction::Revoked is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSPlayerTransactionItem::Amount is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSPlayerTransactionItem::NewValue is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency1Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency2Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency3Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency4Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency5Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::BaseCurrency6Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency1Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency2Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency3Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency4Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency5Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::Currency6Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSVirtualGood::Disabled is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::MaxQuantity is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency1Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency2Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency3Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency4Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency5Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSVirtualGood::SegmentedCurrency6Cost is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSBundledGood::Qty is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSMatchDetailsResponse::PeerId is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSMatchDetailsResponse::Port is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSRegistrationResponse::NewPlayer is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSScheduleBulkJobAdminResponse::EstimatedCount is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSSocialStatus::Active is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSAchievementEarnedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeAcceptedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeChatMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeDeclinedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeDrawnMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeExpiredMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeIssuedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeJoinedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeLapsedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeLostMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeStartedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeTurnTakenMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeWaitingMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeWithdrawnMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency1Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency2Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency3Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency4Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency5Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSChallengeWonMessage::Currency6Won is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSChallengeWonMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSFriendMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSGlobalRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSGlobalRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSMatchFoundMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSMatchFoundMessage::Port is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSParticipant::Online is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: FGSParticipant::PeerId is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSMatchNotFoundMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:759][  0]LogClass: Warning: BoolProperty FGSMatchUpdatedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSNewHighScoreMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::GlobalCount is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::GlobalFrom is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::GlobalFromPercent is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::GlobalTo is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::GlobalToPercent is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::SocialCount is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::SocialFrom is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::SocialFromPercent is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::SocialTo is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSLeaderboardRankDetails::SocialToPercent is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSNewTeamScoreMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSScriptMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSSocialRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSSocialRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSTeamChatMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: FGSTeamRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSTeamRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Warning: BoolProperty FGSUploadCompleteMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogClass: Display: 122 Uninitialized script stuct members found
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency1 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency2 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency3 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency4 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency5 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSAccountDetailsResponse::Currency6 is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSLocation::Latitide is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSLocation::Longditute is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency1Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency2Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency3Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency4Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency5Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::Currency6Added is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::CurrencyConsumed is not initialized properly
+[2019.03.30-00.06.56:760][  0]LogAutomationTest: Warning: FGSBuyVirtualGoodResponse::CurrencyType is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBoughtitem::Quantity is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSAuthenticationResponse::NewPlayer is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSPlayer::Online is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSAroundMeLeaderboardResponse::Social is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardData::Rank is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBulkJob::ActualCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBulkJob::DoneCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBulkJob::ErrorCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBulkJob::EstimatedCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSDismissMultipleMessagesResponse::MessagesDismissed is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSEndSessionResponse::SessionDuration is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency1Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency2Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency3Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency4Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency5Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::Currency6Wager is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallenge::MaxTurns is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSFindMatchResponse::PeerId is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSFindMatchResponse::Port is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSPendingMatch::Skill is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSMatchedPlayer::Skill is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSGetDownloadableResponse::Size is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSGetUploadedResponse::Size is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSJoinChallengeResponse::Joined is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSAchievement::Earned is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSPlayerMessage::Seen is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSPlayerTransaction::Revoked is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSPlayerTransactionItem::Amount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSPlayerTransactionItem::NewValue is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency1Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency2Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency3Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency4Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency5Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::BaseCurrency6Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency1Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency2Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency3Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency4Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency5Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::Currency6Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSVirtualGood::Disabled is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::MaxQuantity is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency1Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency2Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency3Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency4Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency5Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSVirtualGood::SegmentedCurrency6Cost is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSBundledGood::Qty is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSMatchDetailsResponse::PeerId is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSMatchDetailsResponse::Port is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSRegistrationResponse::NewPlayer is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSScheduleBulkJobAdminResponse::EstimatedCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSSocialStatus::Active is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSAchievementEarnedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeAcceptedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeChatMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeDeclinedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeDrawnMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeExpiredMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeIssuedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeJoinedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeLapsedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeLostMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeStartedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeTurnTakenMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeWaitingMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeWithdrawnMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency1Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency2Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency3Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency4Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency5Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSChallengeWonMessage::Currency6Won is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSChallengeWonMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSFriendMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSGlobalRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSGlobalRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSMatchFoundMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSMatchFoundMessage::Port is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSParticipant::Online is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSParticipant::PeerId is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSMatchNotFoundMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSMatchUpdatedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSNewHighScoreMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::GlobalCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::GlobalFrom is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::GlobalFromPercent is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::GlobalTo is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::GlobalToPercent is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::SocialCount is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::SocialFrom is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::SocialFromPercent is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::SocialTo is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSLeaderboardRankDetails::SocialToPercent is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSNewTeamScoreMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSScriptMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSSocialRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSSocialRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: BoolProperty FGSTeamChatMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:761][  0]LogAutomationTest: Warning: FGSTeamRankChangedMessage::GameId is not initialized properly
+[2019.03.30-00.06.56:762][  0]LogAutomationTest: Warning: BoolProperty FGSTeamRankChangedMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:762][  0]LogAutomationTest: Warning: BoolProperty FGSUploadCompleteMessage::Notification is not initialized properly
+[2019.03.30-00.06.56:762][  0]LogEngine: Initializing Engine...
+[2019.03.30-00.06.56:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.30-00.06.56:774][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.30-00.06.56:774][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.30-00.06.56:774][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.30-00.06.56:774][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.30-00.06.56:785][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2019.03.30-00.06.57:107][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 604
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 594
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 584
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 574
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 564
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 554
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 544
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 534
+[2019.03.30-00.06.57:134][  0]LogShaderCompilers: Display: Shaders left to compile 524
+[2019.03.30-00.06.57:134][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2019.03.30-00.06.57:419][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2019.03.30-00.06.57:793][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2019.03.30-00.06.57:849][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2019.03.30-00.06.57:951][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2019.03.30-00.06.57:980][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2019.03.30-00.06.57:998][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2019.03.30-00.06.58:014][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2019.03.30-00.06.58:030][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2019.03.30-00.06.58:047][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2019.03.30-00.06.58:057][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2019.03.30-00.06.58:084][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2019.03.30-00.06.58:155][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2019.03.30-00.06.58:175][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2019.03.30-00.06.58:285][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.30-00.06.58:306][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.30-00.06.58:333][  0]LogInit: FAudioDevice initialized.
+[2019.03.30-00.06.58:349][  0]LogNetVersion: Set ProjectVersion to 0.0.0.1. Version Checksum will be recalculated on next use.
+[2019.03.30-00.06.58:358][  0]LogInit: Texture streaming: Enabled
+[2019.03.30-00.06.58:365][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.03.30-00.06.58:384][  0]LogMaterial: Display: Missing cached shader map for material CustomDepth, compiling. 
+[2019.03.30-00.06.58:413][  0]LogMaterial: Display: Missing cached shader map for material CustomStencil, compiling. 
+[2019.03.30-00.06.58:427][  0]LogMaterial: Display: Missing cached shader map for material FinalImage, compiling. 
+[2019.03.30-00.06.58:444][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.03.30-00.06.58:458][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.03.30-00.06.58:469][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.03.30-00.06.58:483][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.03.30-00.06.58:496][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.03.30-00.06.58:510][  0]LogMaterial: Display: Missing cached shader map for material SceneColor, compiling. 
+[2019.03.30-00.06.58:524][  0]LogMaterial: Display: Missing cached shader map for material SceneDepth, compiling. 
+[2019.03.30-00.06.58:538][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2019.03.30-00.06.58:549][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2019.03.30-00.06.58:562][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.03.30-00.06.58:574][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.03.30-00.06.58:586][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.03.30-00.06.58:602][  0]LogMaterial: Display: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2019.03.30-00.06.58:619][  0]LogMaterial: Display: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2019.03.30-00.06.58:630][  0]LogMaterial: Display: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2019.03.30-00.06.58:643][  0]LogMaterial: Display: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2019.03.30-00.06.58:654][  0]LogMaterial: Display: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2019.03.30-00.06.58:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.30-00.06.58:708][  0]LogInit: Display: Game Engine Initialized.
+[2019.03.30-00.06.58:708][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.30-00.06.58:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.30-00.06.58:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.30-00.06.58:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.30-00.06.58:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.30-00.06.58:740][  0]LogInit: Display: Starting Game.
+[2019.03.30-00.06.58:740][  0]LogNet: Browse: /Game/Core/Maps/TopDownExampleMap?Name=Player
+[2019.03.30-00.06.58:747][  0]LogLoad: LoadMap: /Game/Core/Maps/TopDownExampleMap?Name=Player
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2251
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2241
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2231
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2221
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2211
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2201
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2191
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2181
+[2019.03.30-00.07.04:072][  0]LogShaderCompilers: Display: Shaders left to compile 2171
+[2019.03.30-00.07.04:072][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.03.30-00.07.04:148][  0]LogShaderCompilers: Display: Shaders left to compile 2161
+[2019.03.30-00.07.04:148][  0]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2019.03.30-00.07.04:179][  0]LogShaderCompilers: Display: Shaders left to compile 2239
+[2019.03.30-00.07.04:312][  0]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.03.30-00.07.04:379][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.03.30-00.07.04:446][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.03.30-00.07.04:528][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.30-00.07.04:529][  0]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.30-00.07.04:535][  0]LogWorld: Bringing World /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.29-20.07.04
+[2019.03.30-00.07.04:535][  0]LogWorld: Bringing up level for play took: 0.004104
+[2019.03.30-00.07.04:536][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.30-00.07.04:555][  0]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.30-00.07.04:561][  0]LogLoad: Took 5.813881 seconds to LoadMap(/Game/Core/Maps/TopDownExampleMap)
+[2019.03.30-00.07.04:773][  0]LogShaderCompilers: Display: Shaders left to compile 2414
+[2019.03.30-00.07.04:773][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.30-00.07.04:868][  0]LogShaderCompilers: Display: Shaders left to compile 2404
+[2019.03.30-00.07.04:965][  0]LogShaderCompilers: Display: Shaders left to compile 2394
+[2019.03.30-00.07.04:973][  0]LogShaderCompilers: Display: Shaders left to compile 2384
+[2019.03.30-00.07.05:319][  0]LogShaderCompilers: Display: Shaders left to compile 2374
+[2019.03.30-00.07.05:895][  0]LogShaderCompilers: Display: Shaders left to compile 2364
+[2019.03.30-00.07.05:922][  0]LogShaderCompilers: Display: Shaders left to compile 2354
+[2019.03.30-00.07.07:240][  0]LogShaderCompilers: Display: Shaders left to compile 2344
+[2019.03.30-00.07.08:720][  0]LogShaderCompilers: Display: Shaders left to compile 2334
+[2019.03.30-00.07.09:206][  0]LogLoad: (Engine Initialization) Total time: 17.03 seconds
+[2019.03.30-00.07.09:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.30-00.07.09:228][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.30-00.07.09:324][  1]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.03.30-00.07.09:744][ 25]LogShaderCompilers: Display: Shaders left to compile 2324
+[2019.03.30-00.07.09:792][ 28]LogShaderCompilers: Display: Shaders left to compile 2314
+[2019.03.30-00.07.09:841][ 31]LogShaderCompilers: Display: Shaders left to compile 2304
+[2019.03.30-00.07.09:970][ 39]LogShaderCompilers: Display: Shaders left to compile 2294
+[2019.03.30-00.07.10:003][ 41]LogShaderCompilers: Display: Shaders left to compile 2284
+[2019.03.30-00.07.10:583][ 77]LogShaderCompilers: Display: Shaders left to compile 2274
+[2019.03.30-00.07.10:615][ 79]LogShaderCompilers: Display: Shaders left to compile 2264
+[2019.03.30-00.07.11:986][164]LogShaderCompilers: Display: Shaders left to compile 2254
+[2019.03.30-00.07.12:357][187]LogShaderCompilers: Display: Shaders left to compile 2244
+[2019.03.30-00.07.12:599][202]LogShaderCompilers: Display: Shaders left to compile 2234
+[2019.03.30-00.07.12:647][205]LogShaderCompilers: Display: Shaders left to compile 2224
+[2019.03.30-00.07.12:905][221]LogShaderCompilers: Display: Shaders left to compile 2214
+[2019.03.30-00.07.13:051][230]LogShaderCompilers: Display: Shaders left to compile 2204
+[2019.03.30-00.07.13:309][246]LogShaderCompilers: Display: Shaders left to compile 2194
+[2019.03.30-00.07.14:034][291]LogShaderCompilers: Display: Shaders left to compile 2184
+[2019.03.30-00.07.14:436][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.30-00.07.15:499][379]LogShaderCompilers: Display: Shaders left to compile 2174
+[2019.03.30-00.07.15:531][381]LogShaderCompilers: Display: Shaders left to compile 2164
+[2019.03.30-00.07.15:613][386]LogShaderCompilers: Display: Shaders left to compile 2154
+[2019.03.30-00.07.15:678][390]LogShaderCompilers: Display: Shaders left to compile 2144
+[2019.03.30-00.07.16:144][419]LogShaderCompilers: Display: Shaders left to compile 2134
+[2019.03.30-00.07.16:227][424]LogShaderCompilers: Display: Shaders left to compile 2124
+[2019.03.30-00.07.16:760][457]LogShaderCompilers: Display: Shaders left to compile 2114
+[2019.03.30-00.07.17:065][476]LogShaderCompilers: Display: Shaders left to compile 2104
+[2019.03.30-00.07.17:661][513]LogShaderCompilers: Display: Shaders left to compile 2094
+[2019.03.30-00.07.18:468][563]LogShaderCompilers: Display: Shaders left to compile 2084
+[2019.03.30-00.07.18:757][581]LogShaderCompilers: Display: Shaders left to compile 2074
+[2019.03.30-00.07.19:291][614]LogShaderCompilers: Display: Shaders left to compile 2064
+[2019.03.30-00.07.19:484][626]LogShaderCompilers: Display: Shaders left to compile 2054
+[2019.03.30-00.07.19:791][645]LogShaderCompilers: Display: Shaders left to compile 2044
+[2019.03.30-00.07.20:097][664]LogShaderCompilers: Display: Shaders left to compile 2034
+[2019.03.30-00.07.20:550][692]LogShaderCompilers: Display: Shaders left to compile 2024
+[2019.03.30-00.07.20:597][695]LogShaderCompilers: Display: Shaders left to compile 2014
+[2019.03.30-00.07.20:776][706]LogShaderCompilers: Display: Shaders left to compile 2004
+[2019.03.30-00.07.21:385][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.30-00.07.22:161][792]LogShaderCompilers: Display: Shaders left to compile 1994
+[2019.03.30-00.07.22:419][808]LogShaderCompilers: Display: Shaders left to compile 1984
+[2019.03.30-00.07.22:742][825]LogShaderCompilers: Display: Shaders left to compile 1974
+[2019.03.30-00.07.22:742][825]LogShaderCompilers: Display: Shaders left to compile 1964
+[2019.03.30-00.07.23:052][845]LogShaderCompilers: Display: Shaders left to compile 1954
+[2019.03.30-00.07.23:455][870]LogShaderCompilers: Display: Shaders left to compile 1944
+[2019.03.30-00.07.23:504][873]LogShaderCompilers: Display: Shaders left to compile 1934
+[2019.03.30-00.07.23:772][883]LogShaderCompilers: Display: Shaders left to compile 1924
+[2019.03.30-00.07.23:881][890]LogShaderCompilers: Display: Shaders left to compile 1914
+[2019.03.30-00.07.23:897][891]LogShaderCompilers: Display: Shaders left to compile 1904
+[2019.03.30-00.07.24:278][910]LogShaderCompilers: Display: Shaders left to compile 1894
+[2019.03.30-00.07.24:895][949]LogShaderCompilers: Display: Shaders left to compile 1884
+[2019.03.30-00.07.25:347][977]LogShaderCompilers: Display: Shaders left to compile 1874
+[2019.03.30-00.07.25:444][983]LogShaderCompilers: Display: Shaders left to compile 1864
+[2019.03.30-00.07.25:694][998]LogShaderCompilers: Display: Shaders left to compile 1854
+[2019.03.30-00.07.26:311][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.30-00.07.26:315][ 37]LogShaderCompilers: Display: Shaders left to compile 1844
+[2019.03.30-00.07.26:653][ 58]LogShaderCompilers: Display: Shaders left to compile 1834
+[2019.03.30-00.07.26:766][ 65]LogShaderCompilers: Display: Shaders left to compile 1824
+[2019.03.30-00.07.27:380][103]LogShaderCompilers: Display: Shaders left to compile 1814
+[2019.03.30-00.07.27:945][138]LogShaderCompilers: Display: Shaders left to compile 1804
+[2019.03.30-00.07.28:089][147]LogShaderCompilers: Display: Shaders left to compile 1794
+[2019.03.30-00.07.28:396][166]LogShaderCompilers: Display: Shaders left to compile 1784
+[2019.03.30-00.07.28:748][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.30-00.07.29:090][209]LogShaderCompilers: Display: Shaders left to compile 1774
+[2019.03.30-00.07.29:654][244]LogShaderCompilers: Display: Shaders left to compile 1764
+[2019.03.30-00.07.29:783][252]LogShaderCompilers: Display: Shaders left to compile 1754
+[2019.03.30-00.07.29:898][259]LogShaderCompilers: Display: Shaders left to compile 1744
+[2019.03.30-00.07.30:767][313]LogShaderCompilers: Display: Shaders left to compile 1734
+[2019.03.30-00.07.31:090][333]LogShaderCompilers: Display: Shaders left to compile 1724
+[2019.03.30-00.07.31:203][340]LogShaderCompilers: Display: Shaders left to compile 1714
+[2019.03.30-00.07.31:284][345]LogShaderCompilers: Display: Shaders left to compile 1704
+[2019.03.30-00.07.31:619][365]LogBlueprintUserMessages: [Widget_MainMenu_CharScreen_C_0] Not Enough Shards
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:CompletionStars'!
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Widget_ShardFinderNode_C /Engine/Transient.GameEngine_0:GameInstance_0.Widget_ShardFinderNode_C_1
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:CompletionStars:008D
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script call stack:
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:Construct
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:CompletionStars
+
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode'!
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Widget_ShardFinderNode_C /Engine/Transient.GameEngine_0:GameInstance_0.Widget_ShardFinderNode_C_1
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode:00B3
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script call stack:
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:Construct
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode
+
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Widget_ShardFinderNode_C /Engine/Transient.GameEngine_0:GameInstance_0.Widget_ShardFinderNode_C_1
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode:00E8
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script call stack:
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:Construct
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode
+
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode'!
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Widget_ShardFinderNode_C /Engine/Transient.GameEngine_0:GameInstance_0.Widget_ShardFinderNode_C_1
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode:018E
+[2019.03.30-00.07.31:628][365]LogScript: Warning: Script call stack:
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:Construct
+	Function /Game/Core/UI/Widgets_Roster/Widget_ShardFinderNode.Widget_ShardFinderNode_C:ExecuteUbergraph_Widget_ShardFinderNode
+
+[2019.03.30-00.07.31:998][389]LogShaderCompilers: Display: Shaders left to compile 1694
+[2019.03.30-00.07.32:644][429]LogShaderCompilers: Display: Shaders left to compile 1684
+[2019.03.30-00.07.32:918][446]LogShaderCompilers: Display: Shaders left to compile 1674
+[2019.03.30-00.07.33:078][456]LogShaderCompilers: Display: Shaders left to compile 1664
+[2019.03.30-00.07.33:515][483]LogShaderCompilers: Display: Shaders left to compile 1654
+[2019.03.30-00.07.33:968][511]LogShaderCompilers: Display: Shaders left to compile 1644
+[2019.03.30-00.07.34:388][537]LogShaderCompilers: Display: Shaders left to compile 1634
+[2019.03.30-00.07.34:740][559]LogShaderCompilers: Display: Shaders left to compile 1624
+[2019.03.30-00.07.35:015][576]LogShaderCompilers: Display: Shaders left to compile 1614
+[2019.03.30-00.07.35:306][594]LogShaderCompilers: Display: Shaders left to compile 1604
+[2019.03.30-00.07.35:742][621]LogShaderCompilers: Display: Shaders left to compile 1594
+[2019.03.30-00.07.36:049][640]LogShaderCompilers: Display: Shaders left to compile 1584
+[2019.03.30-00.07.36:725][682]LogShaderCompilers: Display: Shaders left to compile 1574
+[2019.03.30-00.07.37:305][718]LogShaderCompilers: Display: Shaders left to compile 1564
+[2019.03.30-00.07.37:773][747]LogShaderCompilers: Display: Shaders left to compile 1554
+[2019.03.30-00.07.38:144][770]LogShaderCompilers: Display: Shaders left to compile 1544
+[2019.03.30-00.07.38:241][776]LogShaderCompilers: Display: Shaders left to compile 1534
+[2019.03.30-00.07.38:274][778]LogShaderCompilers: Display: Shaders left to compile 1524
+[2019.03.30-00.07.38:662][802]LogShaderCompilers: Display: Shaders left to compile 1514
+[2019.03.30-00.07.39:694][866]LogShaderCompilers: Display: Shaders left to compile 1504
+[2019.03.30-00.07.39:996][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.30-00.07.40:286][902]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.30-00.07.40:286][902]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1494
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1484
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1474
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1464
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1454
+[2019.03.30-00.07.41:959][902]LogShaderCompilers: Display: Shaders left to compile 1444
+[2019.03.30-00.07.41:959][902]LogWindows: Error: === Critical error: ===
+[2019.03.30-00.07.41:959][902]LogWindows: Error: 
+[2019.03.30-00.07.41:959][902]LogWindows: Error: Fatal error!
+[2019.03.30-00.07.41:959][902]LogWindows: Error: 
+[2019.03.30-00.07.41:959][902]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000000
+[2019.03.30-00.07.41:959][902]LogWindows: Error: 
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd32883f16 UE4Editor-GameSparks.dll!GameSparks::Core::GS::NewConnection() [d:\skit\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparks\gs.cpp:116]
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd328af660 UE4Editor-GameSparks.dll!GameSparks::Core::GS::Send() [d:\skit\plugins\gamesparks\source\gamesparksbasesdk\src\gamesparks\gs.cpp:296]
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd328a8fa3 UE4Editor-GameSparks.dll!GameSparks::Core::GSTypedRequest<GameSparks::Api::Requests::LogEventRequest,GameSparks::Api::Responses::LogEventResponse>::Send() [d:\skit\plugins\gamesparks\source\gamesparksbasesdk\include\gamesparks\gstypedrequest.h:85]
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd328473f2 UE4Editor-GameSparks.dll!UGSLogEventRequest::Activate() [d:\skit\plugins\gamesparks\source\gamesparks\private\gsapi.cpp:6204]
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd49454b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496bbc2a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4970add3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e56cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e7d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496bc5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e7d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496bc5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4970add3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e7d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496bc5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4970add3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e7d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd49454b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd496e73c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd450a3923 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd459db6f1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd459c0add UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd450c3906 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd450c405f UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4507f123 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd46324a2d UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd47d21798 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd47d21c56 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd47d35085 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4637bb64 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4638b9a2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd45a5b6e4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd45a674e2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffd4581f575 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ff6eed66225 UE4Editor.exe!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ff6eed7596c UE4Editor.exe!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ff6eed759ea UE4Editor.exe!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ff6eed848da UE4Editor.exe!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ff6eed8659a UE4Editor.exe!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffda2943574 KERNEL32.DLL!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: [Callstack] 0x00007ffda4ffcb81 ntdll.dll!UnknownFunction []
+[2019.03.30-00.07.41:959][902]LogWindows: Error: 
+[2019.03.30-00.07.41:983][902]LogExit: Executing StaticShutdownAfterError
+[2019.03.30-00.07.41:988][902]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.03.30-00.07.41:998][902]Log file closed, 03/29/19 20:07:41
