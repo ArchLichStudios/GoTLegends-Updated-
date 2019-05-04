@@ -1,4 +1,4 @@
-package com.YourCompany.GoTLegends;
+package com.ArchlichStudios.GoTLegends;
 
 public class OBBData
 {

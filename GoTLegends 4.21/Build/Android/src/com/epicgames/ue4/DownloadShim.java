@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.GoTLegends.OBBDownloaderService;
-import com.YourCompany.GoTLegends.DownloaderActivity;
+import com.ArchlichStudios.GoTLegends.OBBDownloaderService;
+import com.ArchlichStudios.GoTLegends.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.GoTLegends.OBBData;
+import com.ArchlichStudios.GoTLegends.OBBData;
 
 
 public class DownloadShim
