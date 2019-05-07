@@ -2,3 +2,6 @@
 *.bin
 *.ini
 GoTLegends 4.21/Saved/Logs/GoTLegends_2.log
+GoTLegends 4.21/Intermediate/CachedAssetRegistry.bin
+GoTLegends 4.21/Saved/Config/Windows/Engine.ini
+GoTLegends 4.21/Saved/Logs/GoTLegends.log
