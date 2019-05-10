@@ -168,813 +168,811 @@
 "../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 167
 "../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 168
 "../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 169
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 170
-"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 171
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 172
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 173
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 174
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 175
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 176
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 177
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 178
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 179
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 180
-"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 181
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 182
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 183
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 184
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 185
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 186
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 187
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 188
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 189
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 190
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 191
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 192
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 193
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 194
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 195
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 196
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 197
-"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 198
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 199
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 200
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 201
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 202
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 203
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 204
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 205
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 206
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 207
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 208
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 209
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 210
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 211
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 212
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 213
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 214
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 215
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 216
-"../../../Engine/Content/EngineFonts/SmallFont.uasset" 217
-"../../../Engine/Content/EngineFonts/TinyFont.uasset" 218
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 219
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 220
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 221
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 222
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 223
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 224
-"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 225
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 226
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 227
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 228
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 229
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 230
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 231
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 232
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 233
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 234
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 235
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 236
-"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 237
-"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 238
-"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 239
-"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 240
-"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 241
-"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 242
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 243
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 244
-"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 245
-"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 246
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 247
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 248
-"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 249
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 250
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 251
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 252
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 253
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 254
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 255
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 256
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 257
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 258
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 259
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 260
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 261
-"../../../Engine/Content/EngineResources/Black.uasset" 262
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 263
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 264
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 265
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 266
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 267
-"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 268
-"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 269
-"../../../Engine/Content/EngineSounds/Master.uasset" 270
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 271
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 272
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 273
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 274
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 275
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 276
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 277
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 278
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 279
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 280
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 281
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 282
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 283
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 284
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 285
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 286
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 287
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 288
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 289
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 290
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 291
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 292
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 293
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 294
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 295
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 296
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 299
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 300
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 301
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 302
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 303
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 304
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 305
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 306
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_AbilityRange.uasset" 307
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_Currencies.uasset" 308
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/Enum_AbilityType.uasset" 309
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilityRange.uasset" 310
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilitySlot.uasset" 311
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilityTargets.uasset" 312
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_ApplyBuff.uasset" 313
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/MediaPlayer.uasset" 314
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/MediaPlayer_Video.uasset" 315
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 316
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 317
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 318
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 319
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 320
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 321
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 322
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 323
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 324
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 325
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 326
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 327
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 328
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 329
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 330
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 331
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 332
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 333
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 334
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 335
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 336
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 337
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 338
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 339
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 340
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 341
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 342
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 343
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 344
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 345
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 346
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 347
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 348
-"../../../Engine/Content/Maps/Entry.umap" 349
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 350
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 351
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 352
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 353
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 354
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 355
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 356
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 357
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 358
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CharacterCamera.uasset" 359
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestCamera.uasset" 360
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignStars.uasset" 361
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharUnlocked.uasset" 362
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/MissionDataHolder_MasterClass.uasset" 363
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignChapters.uasset" 364
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignDifficulty.uasset" 365
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_Campaigns.uasset" 366
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_MissionNumbers.uasset" 367
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_WaveNumber.uasset" 368
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 369
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 370
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 371
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 372
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 373
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Idle2.uasset" 374
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_RunFwd.uasset" 375
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_WalkFwd.uasset" 376
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/SwordIdleRun2d.uasset" 377
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 378
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonRun.uasset" 379
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 380
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 381
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 382
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Attack_L3.uasset" 383
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/GameCamera.uasset" 384
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/Stats.uasset" 385
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/MainPlayerController.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 387
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 388
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 389
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 390
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 391
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 392
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 393
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 394
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 395
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 396
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 397
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 398
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 399
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 400
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 401
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 402
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 403
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 404
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CharScreenModel_MasterClass.uasset" 405
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/ShipDataHolder_MasterClass.uasset" 406
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharReleased.uasset" 407
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharStarLevel.uasset" 408
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTag_HeroVillain.uasset" 409
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_GreatHouses.uasset" 410
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Houses.uasset" 411
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Organizations.uasset" 412
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Regions.uasset" 413
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_HeroesList.uasset" 414
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_HeroType.uasset" 415
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_IsCaptain.uasset" 416
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_IsLeader.uasset" 417
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Structure_CharMultipliers.uasset" 418
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Struct_CharInfo.uasset" 419
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/LevelModifierCalc.uasset" 420
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/DataTable_LevelModifiers4PowerCalc.uasset" 421
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_GearTiers.uasset" 422
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BackgroundImage.uasset" 423
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Dragon_Back_Arrow.uasset" 424
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/HeartEmpty.uasset" 425
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/HeartFilled.uasset" 426
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Star1.uasset" 427
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Star2.uasset" 428
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/StatsIcon.uasset" 429
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Wolf_home.uasset" 430
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LCJonSnow.uasset" 431
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_campaign.uasset" 432
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_events.uasset" 433
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_experiencebar.uasset" 434
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_houses.uasset" 435
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_LevelBarBackground.uasset" 436
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_mainmenubackground.uasset" 437
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_mmheader.uasset" 438
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_PlayerLevel.uasset" 439
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_redbanner.uasset" 440
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedredbutton.uasset" 441
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_redbutton.uasset" 442
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/Enum_ChestType.uasset" 443
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Struct_LootChests.uasset" 444
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_RewardRarity.uasset" 445
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/EnumRewardTypes.uasset" 446
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/Struct_RewardStruct.uasset" 447
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_AlliserThorne.uasset" 448
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_CerseriLannister.uasset" 449
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_DarrioNaharis.uasset" 450
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_ExileJorahMormont.uasset" 451
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_Grenn.uasset" 452
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_GreyWorm.uasset" 453
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JaimeLannister.uasset" 454
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JoffreyBaratheon.uasset" 455
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_KhalDrogo.uasset" 456
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LCMormont.uasset" 457
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LorasTyrell.uasset" 458
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_MagistrateIllyrio.uasset" 459
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/LootTable_PremiumChest.uasset" 460
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ChestIcons/GoldChest.uasset" 461
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ChestIcons/PremiumChest.uasset" 462
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/DataTable_LootChests.uasset" 463
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_AlliserThorne.uasset" 464
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Taunt2.uasset" 465
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_HOTKEddardStark.uasset" 466
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/OptionsIcon.uasset" 467
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/PlayIcon.uasset" 468
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_BattleOverlay.uasset" 469
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_CerceiLannister.uasset" 470
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_DaenerysTargaryen.uasset" 471
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_DarrioNaharis.uasset" 472
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_ExileJorahMormont.uasset" 473
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Grenn.uasset" 474
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_GreyWorm.uasset" 475
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_HOTKEddardStark.uasset" 476
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JaimeLannister.uasset" 477
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JoffreyBaratheon.uasset" 478
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JonSnow.uasset" 479
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_KaleesiDaenerys.uasset" 480
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_KhalDrogo.uasset" 481
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LCJonSnow.uasset" 482
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LorasTyrell.uasset" 483
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LordCommanderMormont.uasset" 484
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LordEddardStark.uasset" 485
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_MagistrateIllyrio.uasset" 486
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Missandei.uasset" 487
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_MoDDaenerys.uasset" 488
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_PeterBaelish.uasset" 489
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Pyp.uasset" 490
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_QueensguardJorah.uasset" 491
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_RenlyBaratheon.uasset" 492
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_RobertBaratheon.uasset" 493
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_SamwellTarly.uasset" 494
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_SandorClegane.uasset" 495
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_StannisBaratheon.uasset" 496
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_TyrionLannister.uasset" 497
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_TywinLannister.uasset" 498
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_ViserysTargaryen.uasset" 499
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_AlliserThorne.uasset" 500
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_CerseiLannister.uasset" 501
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_DaenerysTargaryen.uasset" 502
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_DarrioNaharis.uasset" 503
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_ExileJorahMormont.uasset" 504
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Grenn.uasset" 505
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_GreyWorm.uasset" 506
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_HOTKEddardStark.uasset" 507
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JaimeLannister.uasset" 508
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JoffreyBaratheon.uasset" 509
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JonSnow.uasset" 510
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_KaleesiDaenerys.uasset" 511
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_KhalDrogo.uasset" 512
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LCJonSnow.uasset" 513
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LCMormont.uasset" 514
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LorasTyrell.uasset" 515
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LordEddardStark.uasset" 516
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_MagistrateIllyrio.uasset" 517
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Missandei.uasset" 518
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_MODDaenerys.uasset" 519
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_PetyrBaelish.uasset" 520
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Pyp.uasset" 521
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_QueensguardJorahMormont.uasset" 522
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_RenleyBaratheon.uasset" 523
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_RobertBaratheon.uasset" 524
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_SamwellTarly.uasset" 525
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_SandorClegane.uasset" 526
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_StannisBaratheon.uasset" 527
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_TyrionLannister.uasset" 528
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_TywinLannister.uasset" 529
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_ViserysTargaryen.uasset" 530
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_AlliserThorne.uasset" 531
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_CerceiLannister.uasset" 532
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_DaenerysTargaryen.uasset" 533
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_DarrioNaharis.uasset" 534
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_ExileJorah.uasset" 535
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Grenn.uasset" 536
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_GreyWorm.uasset" 537
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_HOTKEddardStark.uasset" 538
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JaimeLannister.uasset" 539
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JoffreyBaratheon.uasset" 540
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JonSnow.uasset" 541
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_KaleesiDaenerys.uasset" 542
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_KhalDrogo.uasset" 543
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LCJonSnow.uasset" 544
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LCMormont.uasset" 545
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LorasTyrell.uasset" 546
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LordEddardStark.uasset" 547
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_MagistrateIllyrio.uasset" 548
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Missandei.uasset" 549
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_MODDaenerys.uasset" 550
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_PeterBaelish.uasset" 551
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Pyp.uasset" 552
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_QueensGuardJorah.uasset" 553
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_RenlyBaratheon.uasset" 554
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_RobertBaratheon.uasset" 555
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_SamwellTarly.uasset" 556
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_SandorClegane.uasset" 557
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_StannisBaratheon.uasset" 558
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_TyrionLannister.uasset" 559
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_TywinLannister.uasset" 560
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_ViserysTargaryen.uasset" 561
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_AlliserThorne.uasset" 562
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_CerseiLannister.uasset" 563
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_DaenerysTargaryen.uasset" 564
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_DaenerysTargaryen.uasset" 565
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_DarrioNaharis.uasset" 566
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_ExileJorahMormont.uasset" 567
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_Grenn.uasset" 568
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_GreyWorm.uasset" 569
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_HOTKEddardStark.uasset" 570
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_JaimeLannister.uasset" 571
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_JoffreyBaratheon.uasset" 572
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_KhalDrogo.uasset" 573
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LCJonSnow.uasset" 574
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LCJonSnow.uasset" 575
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LCMormont.uasset" 576
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LorasTyrell.uasset" 577
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LordEddardStark.uasset" 578
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LordEddardStark.uasset" 579
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_MagistrateIllyrio.uasset" 580
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_TyrionLannister.uasset" 581
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_TywinLannister.uasset" 582
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_ViserysTargaryen.uasset" 583
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_AllisterThorne.uasset" 584
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_CerseiLannister.uasset" 585
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Dany.uasset" 586
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_DarrioNaharis.uasset" 587
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_ExileJorahMormont.uasset" 588
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Grenn.uasset" 589
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_GreyWorm.uasset" 590
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_HOTKEddardStark.uasset" 591
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JamieLannister.uasset" 592
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JoffreyBaratheon.uasset" 593
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JonSnow.uasset" 594
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_KaleesiDaenerys.uasset" 595
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_KhalDrogo.uasset" 596
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LCMormont.uasset" 597
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LorasTyrell.uasset" 598
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LordEddardStark.uasset" 599
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_MagistraTellyrio.uasset" 600
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Missandei.uasset" 601
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_MOTDDaenerys.uasset" 602
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_PetyrBaelish.uasset" 603
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Pyp.uasset" 604
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_QueensGuard.uasset" 605
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_RenleyBaratheon.uasset" 606
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_RobertBaratheon.uasset" 607
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_SamwellTarly.uasset" 608
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_SandorClegane.uasset" 609
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_StannisBaratheon.uasset" 610
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JonSnow.uasset" 611
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_KaleesiDaenerys.uasset" 612
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_Missandei.uasset" 613
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_MOTDDaenerys.uasset" 614
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/PeterBaelish.uasset" 615
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Pyp.uasset" 616
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/QueensGuardJorah.uasset" 617
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/RenleyBaratheon.uasset" 618
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/RobertBaratheon.uasset" 619
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/SamwellTarly.uasset" 620
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/SandorClegane.uasset" 621
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/StannisBaratheon.uasset" 622
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/TyrionLannister.uasset" 623
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/TywinLannister.uasset" 624
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/ViserysTargaryen.uasset" 625
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/DataTable_CharacterTable.uasset" 626
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Fonts/Game_of_Thrones.uasset" 627
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Fonts/Game_of_Thrones_Font.uasset" 628
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Gold.uasset" 629
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_LootChestRewards.uasset" 630
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_AreYouSureBUY.uasset" 631
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/NewGems.uasset" 632
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_LootChestIcons.uasset" 633
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_ShopWindow.uasset" 634
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignRewardTypes.uasset" 635
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignRewards.uasset" 636
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/Enum_OfferType.uasset" 637
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/Struct_OfferPack.uasset" 638
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxfive.uasset" 639
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxfour.uasset" 640
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxthree.uasset" 641
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gembag.uasset" 642
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gempouch.uasset" 643
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gemvault.uasset" 644
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/PlaceholderCampaign.uasset" 645
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/DataTable_OfferPacks.uasset" 646
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_backgroundblur.uasset" 647
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_basebox.uasset" 648
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestsbutton.uasset" 649
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gemsbutton.uasset" 650
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_headerthree.uasset" 651
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedchestsbutton.uasset" 652
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedgemsbutton.uasset" 653
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedresourcesbutton.uasset" 654
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_resourcesbutton.uasset" 655
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_subheaderTrim.uasset" 656
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferRewards.uasset" 657
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_AreYouSureBUYOffers.uasset" 658
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CampaignDataHolder_MasterClass.uasset" 659
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_Campaigns.uasset" 660
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-1-Normal.uasset" 661
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-2-Normal.uasset" 662
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-3-Normal.uasset" 663
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/XP_Icon.uasset" 664
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/DataTable_CampaignMissions.uasset" 665
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/NewEnergy.uasset" 666
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widgets_RewardWidget.uasset" 667
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignEndBattleRewards.uasset" 668
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_EnemyStats.uasset" 669
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_BattleTypes.uasset" 670
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/plus-sign-in-a-square_318-53016.uasset" 671
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CharSelectionRosterIcon.uasset" 672
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignHeroSelect.uasset" 673
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_Campaign1.uasset" 674
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignEnemyIcon.uasset" 675
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignNode.uasset" 676
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferPackRewards.uasset" 677
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferIcon.uasset" 678
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/TimerScreen.uasset" 679
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/WidgetOffersWindow.uasset" 680
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Friends.uasset" 681
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Mail.uasset" 682
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Offers.uasset" 683
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/image_roster.uasset" 684
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/image_shop.uasset" 685
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/settings_lion.uasset" 686
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/trophy-.uasset" 687
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/xButton.uasset" 688
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_FeatureNotAvailable.uasset" 689
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_OptionsMenu.uasset" 690
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_GOT.uasset" 691
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_BeyondTheWall.uasset" 692
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_DragonRising.uasset" 693
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_RobertsRebellion.uasset" 694
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_Warof5Kings.uasset" 695
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/BeyondTheWall.uasset" 696
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/DragonRising.uasset" 697
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/GOT.uasset" 698
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/RobertsRebellion.uasset" 699
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/Warof5Kings.uasset" 700
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/DataTable_Campaigns.uasset" 701
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/DynamicSpacerWidget100.uasset" 702
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignSelectorWidget.uasset" 703
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignSelector.uasset" 704
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_Events.uasset" 705
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_EventTypes.uasset" 706
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_EventRepeatable.uasset" 707
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Struct_EventNode.uasset" 708
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Struct_Event.uasset" 709
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow1.uasset" 710
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow2.uasset" 711
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow3.uasset" 712
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow4.uasset" 713
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow5.uasset" 714
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow6.uasset" 715
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow7.uasset" 716
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_EVENTLCJonSnow.uasset" 717
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/LCJonSnowEventArt.uasset" 718
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/DataTable_Events.uasset" 719
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/DynamicSpacerWidget.uasset" 720
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventHeroSelectRosterIcon.uasset" 721
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventHeroSelect.uasset" 722
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventNode.uasset" 723
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventScreen.uasset" 724
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventSelectorWidget.uasset" 725
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventSelector.uasset" 726
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/IconType.uasset" 727
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/Struct_PlayerIcons.uasset" 728
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_GOTIcon.uasset" 729
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GoTIcon.uasset" 730
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/DataTable_PlayerIcons.uasset" 731
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PortraitSelectICon.uasset" 732
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PortraitSelect.uasset" 733
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_TcPLeaderboardEntry.uasset" 734
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_TCPLeaderboard.uasset" 735
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PlayerProfileScreen.uasset" 736
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/Image_BlankHeader.uasset" 737
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier1.uasset" 738
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier10.uasset" 739
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier11.uasset" 740
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier12.uasset" 741
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier2.uasset" 742
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier3.uasset" 743
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier4.uasset" 744
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier5.uasset" 745
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier6.uasset" 746
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier7.uasset" 747
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier8.uasset" 748
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier9.uasset" 749
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/image_GoldTwelve.uasset" 750
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_CharacterBackgroundR.uasset" 751
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_CharacterLevelIcon.uasset" 752
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_EquipmentBoxesR.uasset" 753
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_FiveStars.uasset" 754
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_FourStars.uasset" 755
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LevelJuiceRoster.uasset" 756
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LevelJuiceRosterEmpty.uasset" 757
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_OneStar.uasset" 758
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_SevenStars.uasset" 759
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_SixStars.uasset" 760
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_ThreeStars.uasset" 761
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_TwoStars.uasset" 762
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster_Icons.uasset" 763
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster_IconsLOCKED.uasset" 764
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster.uasset" 765
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Wiget_FriendRosterIcons.uasset" 766
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRoster.uasset" 767
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_AcceptedFriend.uasset" 768
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRequestNotification.uasset" 769
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRequestPending.uasset" 770
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendSearchEntry.uasset" 771
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendsList.uasset" 772
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/LoadingScreen.uasset" 773
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_ChatEntry.uasset" 774
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/DrogonRaidPic.uasset" 775
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_RaidHeroSelect.uasset" 776
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_GuildRaidScreen.uasset" 777
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseRosterIcon.uasset" 778
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseRoster.uasset" 779
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseMenu.uasset" 780
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseCreation.uasset" 781
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseListIcons.uasset" 782
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseList.uasset" 783
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseMenuSelector.uasset" 784
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_MainMenu.uasset" 785
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_CharScreenStats.uasset" 786
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_CharUnlockedWidget.uasset" 787
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_HeroLevelUp.uasset" 788
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_ShardFinderNode.uasset" 789
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_ShardFinderWidget.uasset" 790
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenu_CharScreen.uasset" 791
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CharDataHolder_MasterClass.uasset" 792
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 793
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 794
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/M_Cursor_Decal.uasset" 795
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/WIdget_BattleHealthBar.uasset" 796
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Reticle.uasset" 797
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_BattleCrosshair.uasset" 798
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_FloatingCombatText.uasset" 799
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_BaseColor.uasset" 800
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_Normal.uasset" 801
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_OcclusionRoughnessMetallic.uasset" 802
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Materials/Weapons/Kings_Swords/M_King_Swords.uasset" 803
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Mesh/Weapons/King_Swords/SM_King_Sword_2.uasset" 804
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/Character_MasterClass.uasset" 805
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignEnemyInfo.uasset" 806
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignMissions.uasset" 807
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02_Skeleton.uasset" 808
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Anim_Chest_02_Close.uasset" 809
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Anim_Chest_02_Open.uasset" 810
-"../../../Engine/Content/BasicShapes/Cube.uasset" 811
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/3dReward.uasset" 812
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Coins_w__black_bg.uasset" 813
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GoldMat_NonTrans.uasset" 814
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/E_Base.uasset" 815
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/E_Yellow.uasset" 816
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/LootChestRewardsAnimated.uasset" 817
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_BaseColor.uasset" 818
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_M_R_AO.uasset" 819
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_Normal.uasset" 820
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Materials/PBR/Mat_Chest_Master_PBR.uasset" 821
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_BaseColor.uasset" 822
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_M_R_AO.uasset" 823
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_Normal.uasset" 824
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Materials/PBR/Mat_Chest_PBR_02.uasset" 825
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02_PhysicsAsset.uasset" 826
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02.uasset" 827
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Blueprints/BP_Chest_02.uasset" 828
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/AudioTracks/1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.uasset" 829
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/ArchlichIntroVideo10801.uasset" 830
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/UnrealFireSplash.uasset" 831
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/Playlist.uasset" 832
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BrandingImages/Powered_By_GameSparks_RGB.uasset" 833
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BrandingImages/Unreal_Engine_Horiz_White.uasset" 834
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GameSplashScreen.uasset" 835
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SplashScreen.uasset" 836
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LongRedButton.uasset" 837
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LongRedButtonPressed.uasset" 838
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_Maintanence.uasset" 839
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CheckBoxBlank.uasset" 840
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CheckMarkFilled.uasset" 841
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_NDAAgreement.uasset" 842
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_PlayerLevelUp.uasset" 843
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_Update.uasset" 844
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_Defeat.uasset" 845
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_Victory.uasset" 846
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ArchLichLogo.uasset" 847
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Login/GameSparksRegistration.uasset" 848
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Login/GameSparksLogin.uasset" 849
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/GOTGameMode.uasset" 850
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/FlickeringLight.uasset" 851
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/Ice_LayerInfo.uasset" 852
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/Snow_LayerInfo.uasset" 853
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset" 854
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_BaseColor.uasset" 855
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_Normal.uasset" 856
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_OcclusionRoughnessMetallic.uasset" 857
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_BaseColor_Mat.uasset" 858
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_BaseColor.uasset" 859
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_Normal.uasset" 860
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_OcclusionRoughnessMetallic.uasset" 861
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_BaseColor_Mat.uasset" 862
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_BaseColor.uasset" 863
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_Normal.uasset" 864
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_OcclusionRoughnessMetallic.uasset" 865
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_BaseColor_Mat.uasset" 866
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_BaseColor.uasset" 867
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_Normal.uasset" 868
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_OcclusionRoughnessMetallic.uasset" 869
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_BaseColor_Mat.uasset" 870
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_BaseColor.uasset" 871
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_Normal.uasset" 872
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_OcclusionRoughnessMetallic.uasset" 873
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_BaseColor_Mat.uasset" 874
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_BaseColor.uasset" 875
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_Normal.uasset" 876
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_OcclusionRoughnessMetallic.uasset" 877
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_BaseColor_Mat.uasset" 878
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_BaseColor.uasset" 879
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_Normal.uasset" 880
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_OcclusionRoughnessMetallic.uasset" 881
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_BaseColor_Mat.uasset" 882
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_BaseColor.uasset" 883
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_Normal.uasset" 884
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_OcclusionRoughnessMetallic.uasset" 885
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_BaseColor_Mat.uasset" 886
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_BaseColor.uasset" 887
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_Normal.uasset" 888
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_OcclusionRoughnessMetallic.uasset" 889
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_BaseColor_Mat.uasset" 890
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_BaseColor.uasset" 891
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_Normal.uasset" 892
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_OcclusionRoughnessMetallic.uasset" 893
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_BaseColor_Mat.uasset" 894
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_BaseColor.uasset" 895
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_Normal.uasset" 896
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_OcclusionRoughnessMetallic.uasset" 897
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_BaseColor_Mat.uasset" 898
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_BaseColor.uasset" 899
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_Normal.uasset" 900
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_OcclusionRoughnessMetallic.uasset" 901
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_BaseColor_Mat.uasset" 902
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_BaseColor.uasset" 903
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_Normal.uasset" 904
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_OcclusionRoughnessMetallic.uasset" 905
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_BaseColor_Mat.uasset" 906
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_BaseColor.uasset" 907
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_Normal.uasset" 908
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_OcclusionRoughnessMetallic.uasset" 909
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_BaseColor_Mat.uasset" 910
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_BaseColor.uasset" 911
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_Normal.uasset" 912
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_OcclusionRoughnessMetallic.uasset" 913
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_BaseColor_Mat.uasset" 914
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_BaseColor.uasset" 915
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_Normal.uasset" 916
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_OcclusionRoughnessMetallic.uasset" 917
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_BaseColor_Mat.uasset" 918
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_BaseColor.uasset" 919
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_Normal.uasset" 920
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_OcclusionRoughnessMetallic.uasset" 921
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_BaseColor_Mat.uasset" 922
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_BaseColor.uasset" 923
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_Normal.uasset" 924
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_OcclusionRoughnessMetallic.uasset" 925
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_BaseColor_Mat.uasset" 926
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_albedo.uasset" 927
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_height.uasset" 928
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_normal.uasset" 929
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_albedo.uasset" 930
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_height.uasset" 931
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_normal.uasset" 932
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/LandscapeBlend.uasset" 933
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/LandscapeBlend1.uasset" 934
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Set/Walls/T_Stone_Wall_BaseColor.uasset" 935
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Set/Walls/T_Stone_Wall_Normal.uasset" 936
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Set/Walls/T_Stone_Wall_OcclusionRoughnessMetallic.uasset" 937
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Materials/Set/M_Stone_Wall.uasset" 938
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert1.uasset" 939
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/3piecefence_pCube24.uasset" 940
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/balcony2.uasset" 941
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/barrel_pCylinder1.uasset" 942
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/buildingwdoorway_pCube22.uasset" 943
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/Chair_Finished.uasset" 944
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/coalpile_SM_CoalPile_03_2_LOD0.uasset" 945
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/coop3_polySurface1.uasset" 946
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/defaultMat1.uasset" 947
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/crest_Group20930.uasset" 948
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/cylinderbuilding2_pCylinder4.uasset" 949
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/doubledoor_polySurface1.uasset" 950
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/fencepiece_polySurface1.uasset" 951
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/hollowbuilding_pCube20.uasset" 952
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/Ladder.uasset" 953
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert4.uasset" 954
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/maxhouse2_pCylinder1.uasset" 955
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert2.uasset" 956
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/maxhousehouse.uasset" 957
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/pokeyfirepit.uasset" 958
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/singledoor.uasset" 959
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/wall.uasset" 960
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/wheel.uasset" 961
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/workbench_SM_WorkBench_02_20_LOD0.uasset" 962
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 963
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Geometry/Meshes/1M_Cube.uasset" 964
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" 965
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" 966
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 967
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 968
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 969
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 970
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 971
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 972
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 973
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 974
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/P_Fire.uasset" 975
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/P_Smoke.uasset" 976
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/snow/snowmat.uasset" 977
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/snow/Snowing.uasset" 978
-"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Maps/TopDownExampleMap.umap" 979
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 170
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 171
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 172
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 173
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 174
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 175
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 176
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 177
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 178
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 179
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 180
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 181
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 182
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 184
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 185
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 188
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 207
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 212
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 214
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 215
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 216
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 217
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 218
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 220
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 222
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 223
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 231
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 233
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 235
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 236
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 237
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 238
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 239
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 240
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 241
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 242
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 243
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 244
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 246
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 247
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 248
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 249
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 250
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 251
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 252
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 253
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 254
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 255
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 256
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 258
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 259
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 260
+"../../../Engine/Content/EngineResources/Black.uasset" 261
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 262
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 263
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 264
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 265
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 266
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 267
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 268
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Audio/Explosion01.uasset" 269
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Audio/Explosion02.uasset" 270
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" 271
+"../../../Engine/Content/EngineSounds/Master.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 273
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 274
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 275
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 276
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 277
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 295
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 296
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 297
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 298
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 308
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_AbilityRange.uasset" 309
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_Currencies.uasset" 310
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/Enum_AbilityType.uasset" 311
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilityRange.uasset" 312
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilitySlot.uasset" 313
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_AbilityTargets.uasset" 314
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/AbilityData/E_ApplyBuff.uasset" 315
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/MediaPlayer.uasset" 316
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/MediaPlayer_Video.uasset" 317
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 318
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 319
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 320
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 321
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 322
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 323
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 324
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 325
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 326
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 327
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 328
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 329
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 330
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 331
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 332
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 333
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 334
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 335
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 336
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 343
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 344
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 349
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 350
+"../../../Engine/Content/Maps/Entry.umap" 351
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 352
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 353
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 354
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 355
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 356
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 357
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 358
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 359
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 360
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CharacterCamera.uasset" 361
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestCamera.uasset" 362
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignStars.uasset" 363
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharUnlocked.uasset" 364
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/MissionDataHolder_MasterClass.uasset" 365
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignChapters.uasset" 366
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignDifficulty.uasset" 367
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_Campaigns.uasset" 368
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_MissionNumbers.uasset" 369
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_WaveNumber.uasset" 370
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 371
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 372
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 373
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 374
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 375
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Idle2.uasset" 376
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_RunFwd.uasset" 377
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_WalkFwd.uasset" 378
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/SwordIdleRun2d.uasset" 379
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 380
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonRun.uasset" 381
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 382
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 383
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 384
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Attack_L3.uasset" 385
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/GameCamera.uasset" 386
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/Stats.uasset" 387
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/MainPlayerController.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 389
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 390
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 391
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 392
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 393
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 394
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 395
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 396
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 397
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 398
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 399
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 400
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 401
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 402
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 403
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 404
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 405
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 406
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CharScreenModel_MasterClass.uasset" 407
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/ShipDataHolder_MasterClass.uasset" 408
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharReleased.uasset" 409
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharStarLevel.uasset" 410
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTag_HeroVillain.uasset" 411
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_GreatHouses.uasset" 412
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Houses.uasset" 413
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Organizations.uasset" 414
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_CharTags_Regions.uasset" 415
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_HeroesList.uasset" 416
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_HeroType.uasset" 417
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_IsCaptain.uasset" 418
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_IsLeader.uasset" 419
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Structure_CharMultipliers.uasset" 420
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Struct_CharInfo.uasset" 421
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/LevelModifierCalc.uasset" 422
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/RandomBPData/DataTable_LevelModifiers4PowerCalc.uasset" 423
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_GearTiers.uasset" 424
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BackgroundImage.uasset" 425
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Dragon_Back_Arrow.uasset" 426
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/HeartEmpty.uasset" 427
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/HeartFilled.uasset" 428
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Star1.uasset" 429
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Star2.uasset" 430
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/StatsIcon.uasset" 431
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Wolf_home.uasset" 432
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LCJonSnow.uasset" 433
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_campaign.uasset" 434
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_events.uasset" 435
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_experiencebar.uasset" 436
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_houses.uasset" 437
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_LevelBarBackground.uasset" 438
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_mainmenubackground.uasset" 439
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_mmheader.uasset" 440
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_PlayerLevel.uasset" 441
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/MainMenu/image_redbanner.uasset" 442
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedredbutton.uasset" 443
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_redbutton.uasset" 444
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/Enum_ChestType.uasset" 445
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Struct_LootChests.uasset" 446
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_RewardRarity.uasset" 447
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/EnumRewardTypes.uasset" 448
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/Struct_RewardStruct.uasset" 449
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_AlliserThorne.uasset" 450
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_CerseriLannister.uasset" 451
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_DarrioNaharis.uasset" 452
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_ExileJorahMormont.uasset" 453
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_Grenn.uasset" 454
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_GreyWorm.uasset" 455
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JaimeLannister.uasset" 456
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JoffreyBaratheon.uasset" 457
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_KhalDrogo.uasset" 458
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LCMormont.uasset" 459
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LorasTyrell.uasset" 460
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_MagistrateIllyrio.uasset" 461
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/LootTables/LootTable_PremiumChest.uasset" 462
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ChestIcons/GoldChest.uasset" 463
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ChestIcons/PremiumChest.uasset" 464
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/DataTable_LootChests.uasset" 465
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_AlliserThorne.uasset" 466
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/LongswordAnimsetPro/Animations/InPlace/Longs_Taunt2.uasset" 467
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_HOTKEddardStark.uasset" 468
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/OptionsIcon.uasset" 469
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/PlayIcon.uasset" 470
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_BattleOverlay.uasset" 471
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_CerceiLannister.uasset" 472
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_DaenerysTargaryen.uasset" 473
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_DarrioNaharis.uasset" 474
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_ExileJorahMormont.uasset" 475
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Grenn.uasset" 476
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_GreyWorm.uasset" 477
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_HOTKEddardStark.uasset" 478
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JaimeLannister.uasset" 479
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JoffreyBaratheon.uasset" 480
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_JonSnow.uasset" 481
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_KaleesiDaenerys.uasset" 482
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_KhalDrogo.uasset" 483
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LCJonSnow.uasset" 484
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LorasTyrell.uasset" 485
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LordCommanderMormont.uasset" 486
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_LordEddardStark.uasset" 487
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_MagistrateIllyrio.uasset" 488
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Missandei.uasset" 489
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_MoDDaenerys.uasset" 490
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_PeterBaelish.uasset" 491
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_Pyp.uasset" 492
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_QueensguardJorah.uasset" 493
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_RenlyBaratheon.uasset" 494
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_RobertBaratheon.uasset" 495
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_SamwellTarly.uasset" 496
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_SandorClegane.uasset" 497
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_StannisBaratheon.uasset" 498
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_TyrionLannister.uasset" 499
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_TywinLannister.uasset" 500
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharacterBPs/Character/Character_ViserysTargaryen.uasset" 501
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_AlliserThorne.uasset" 502
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_CerseiLannister.uasset" 503
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_DaenerysTargaryen.uasset" 504
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_DarrioNaharis.uasset" 505
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_ExileJorahMormont.uasset" 506
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Grenn.uasset" 507
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_GreyWorm.uasset" 508
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_HOTKEddardStark.uasset" 509
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JaimeLannister.uasset" 510
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JoffreyBaratheon.uasset" 511
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_JonSnow.uasset" 512
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_KaleesiDaenerys.uasset" 513
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_KhalDrogo.uasset" 514
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LCJonSnow.uasset" 515
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LCMormont.uasset" 516
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LorasTyrell.uasset" 517
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_LordEddardStark.uasset" 518
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_MagistrateIllyrio.uasset" 519
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Missandei.uasset" 520
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_MODDaenerys.uasset" 521
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_PetyrBaelish.uasset" 522
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_Pyp.uasset" 523
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_QueensguardJorahMormont.uasset" 524
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_RenleyBaratheon.uasset" 525
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_RobertBaratheon.uasset" 526
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_SamwellTarly.uasset" 527
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_SandorClegane.uasset" 528
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_StannisBaratheon.uasset" 529
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_TyrionLannister.uasset" 530
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_TywinLannister.uasset" 531
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CharScreenModelBPs/CharScreenModel_ViserysTargaryen.uasset" 532
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_AlliserThorne.uasset" 533
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_CerceiLannister.uasset" 534
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_DaenerysTargaryen.uasset" 535
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_DarrioNaharis.uasset" 536
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_ExileJorah.uasset" 537
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Grenn.uasset" 538
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_GreyWorm.uasset" 539
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_HOTKEddardStark.uasset" 540
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JaimeLannister.uasset" 541
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JoffreyBaratheon.uasset" 542
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_JonSnow.uasset" 543
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_KaleesiDaenerys.uasset" 544
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_KhalDrogo.uasset" 545
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LCJonSnow.uasset" 546
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LCMormont.uasset" 547
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LorasTyrell.uasset" 548
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_LordEddardStark.uasset" 549
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_MagistrateIllyrio.uasset" 550
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Missandei.uasset" 551
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_MODDaenerys.uasset" 552
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_PeterBaelish.uasset" 553
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_Pyp.uasset" 554
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_QueensGuardJorah.uasset" 555
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_RenlyBaratheon.uasset" 556
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_RobertBaratheon.uasset" 557
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_SamwellTarly.uasset" 558
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_SandorClegane.uasset" 559
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_StannisBaratheon.uasset" 560
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_TyrionLannister.uasset" 561
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_TywinLannister.uasset" 562
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Character/CharDataHolder_ViserysTargaryen.uasset" 563
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_AlliserThorne.uasset" 564
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_CerseiLannister.uasset" 565
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_DaenerysTargaryen.uasset" 566
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_DaenerysTargaryen.uasset" 567
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_DarrioNaharis.uasset" 568
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_ExileJorahMormont.uasset" 569
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_Grenn.uasset" 570
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_GreyWorm.uasset" 571
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_HOTKEddardStark.uasset" 572
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_JaimeLannister.uasset" 573
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_JoffreyBaratheon.uasset" 574
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_KhalDrogo.uasset" 575
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LCJonSnow.uasset" 576
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LCJonSnow.uasset" 577
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LCMormont.uasset" 578
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LorasTyrell.uasset" 579
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_LordEddardStark.uasset" 580
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_LordEddardStark.uasset" 581
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/LootMats/LootMat_MagistrateIllyrio.uasset" 582
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_TyrionLannister.uasset" 583
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_TywinLannister.uasset" 584
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/Circular_ViserysTargaryen.uasset" 585
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_AllisterThorne.uasset" 586
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_CerseiLannister.uasset" 587
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Dany.uasset" 588
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_DarrioNaharis.uasset" 589
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_ExileJorahMormont.uasset" 590
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Grenn.uasset" 591
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_GreyWorm.uasset" 592
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_HOTKEddardStark.uasset" 593
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JamieLannister.uasset" 594
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JoffreyBaratheon.uasset" 595
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_JonSnow.uasset" 596
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_KaleesiDaenerys.uasset" 597
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_KhalDrogo.uasset" 598
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LCMormont.uasset" 599
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LorasTyrell.uasset" 600
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_LordEddardStark.uasset" 601
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_MagistraTellyrio.uasset" 602
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Missandei.uasset" 603
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_MOTDDaenerys.uasset" 604
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_PetyrBaelish.uasset" 605
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_Pyp.uasset" 606
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_QueensGuard.uasset" 607
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_RenleyBaratheon.uasset" 608
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_RobertBaratheon.uasset" 609
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_SamwellTarly.uasset" 610
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_SandorClegane.uasset" 611
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_StannisBaratheon.uasset" 612
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_JonSnow.uasset" 613
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_KaleesiDaenerys.uasset" 614
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_Missandei.uasset" 615
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Icon_MOTDDaenerys.uasset" 616
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/PeterBaelish.uasset" 617
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Pyp.uasset" 618
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/QueensGuardJorah.uasset" 619
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/RenleyBaratheon.uasset" 620
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/RobertBaratheon.uasset" 621
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/SamwellTarly.uasset" 622
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/SandorClegane.uasset" 623
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/StannisBaratheon.uasset" 624
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/TyrionLannister.uasset" 625
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/TywinLannister.uasset" 626
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/ViserysTargaryen.uasset" 627
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/DataTable_CharacterTable.uasset" 628
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Fonts/Game_of_Thrones.uasset" 629
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Fonts/Game_of_Thrones_Font.uasset" 630
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Gold.uasset" 631
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_LootChestRewards.uasset" 632
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_AreYouSureBUY.uasset" 633
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/NewGems.uasset" 634
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_LootChestIcons.uasset" 635
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_ShopWindow.uasset" 636
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Enum_CampaignRewardTypes.uasset" 637
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignRewards.uasset" 638
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/Enum_OfferType.uasset" 639
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/Struct_OfferPack.uasset" 640
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxfive.uasset" 641
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxfour.uasset" 642
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestboxthree.uasset" 643
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gembag.uasset" 644
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gempouch.uasset" 645
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gemvault.uasset" 646
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/PlaceholderCampaign.uasset" 647
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/OfferPacks/DataTable_OfferPacks.uasset" 648
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_backgroundblur.uasset" 649
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_basebox.uasset" 650
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_chestsbutton.uasset" 651
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_gemsbutton.uasset" 652
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_headerthree.uasset" 653
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedchestsbutton.uasset" 654
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedgemsbutton.uasset" 655
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_pressedresourcesbutton.uasset" 656
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_resourcesbutton.uasset" 657
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/ShopMenuAssets/image_subheaderTrim.uasset" 658
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferRewards.uasset" 659
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_AreYouSureBUYOffers.uasset" 660
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CampaignDataHolder_MasterClass.uasset" 661
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_Campaigns.uasset" 662
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-1-Normal.uasset" 663
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-2-Normal.uasset" 664
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/MissionDataHolder-1-1-3-Normal.uasset" 665
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/XP_Icon.uasset" 666
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/DataTable_CampaignMissions.uasset" 667
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/NewEnergy.uasset" 668
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widgets_RewardWidget.uasset" 669
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignEndBattleRewards.uasset" 670
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_EnemyStats.uasset" 671
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/Enum_BattleTypes.uasset" 672
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/plus-sign-in-a-square_318-53016.uasset" 673
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CharSelectionRosterIcon.uasset" 674
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignHeroSelect.uasset" 675
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_Campaign1.uasset" 676
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignEnemyIcon.uasset" 677
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignNode.uasset" 678
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferPackRewards.uasset" 679
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/Widget_OfferIcon.uasset" 680
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/TimerScreen.uasset" 681
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/WidgetOffersWindow.uasset" 682
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Friends.uasset" 683
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Mail.uasset" 684
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/Image_Offers.uasset" 685
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/image_roster.uasset" 686
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/MainMenuIcons/image_shop.uasset" 687
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/settings_lion.uasset" 688
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/trophy-.uasset" 689
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/xButton.uasset" 690
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_FeatureNotAvailable.uasset" 691
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_OptionsMenu.uasset" 692
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_GOT.uasset" 693
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_BeyondTheWall.uasset" 694
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_DragonRising.uasset" 695
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_RobertsRebellion.uasset" 696
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_Warof5Kings.uasset" 697
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/BeyondTheWall.uasset" 698
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/DragonRising.uasset" 699
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/GOT.uasset" 700
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/RobertsRebellion.uasset" 701
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/CampaignSelectorIcons/Warof5Kings.uasset" 702
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/DataTable_Campaigns.uasset" 703
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/DynamicSpacerWidget100.uasset" 704
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignSelectorWidget.uasset" 705
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_CampaignSelector.uasset" 706
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_Events.uasset" 707
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_EventTypes.uasset" 708
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Enum_EventRepeatable.uasset" 709
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Struct_EventNode.uasset" 710
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/Struct_Event.uasset" 711
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow1.uasset" 712
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow2.uasset" 713
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow3.uasset" 714
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow4.uasset" 715
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow5.uasset" 716
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow6.uasset" 717
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/CampaignNode/EventNodeDataHolder_JonSnow7.uasset" 718
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataHolderBps/Campaigns/CampaignDataHolder_EVENTLCJonSnow.uasset" 719
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/LCJonSnowEventArt.uasset" 720
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/EventData/DataTable_Events.uasset" 721
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/DynamicSpacerWidget.uasset" 722
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventHeroSelectRosterIcon.uasset" 723
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventHeroSelect.uasset" 724
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventNode.uasset" 725
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventScreen.uasset" 726
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventSelectorWidget.uasset" 727
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Events/Widget_EventSelector.uasset" 728
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/IconType.uasset" 729
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/Struct_PlayerIcons.uasset" 730
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Icons/Circulars/image_GOTIcon.uasset" 731
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GoTIcon.uasset" 732
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CharacterIconData/DataTable_PlayerIcons.uasset" 733
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PortraitSelectICon.uasset" 734
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PortraitSelect.uasset" 735
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_TcPLeaderboardEntry.uasset" 736
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_TCPLeaderboard.uasset" 737
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_PlayerProfileScreen.uasset" 738
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/Image_BlankHeader.uasset" 739
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier1.uasset" 740
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier10.uasset" 741
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier11.uasset" 742
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier12.uasset" 743
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier2.uasset" 744
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier3.uasset" 745
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier4.uasset" 746
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier5.uasset" 747
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier6.uasset" 748
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier7.uasset" 749
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier8.uasset" 750
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/GearTier9.uasset" 751
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/GearRings/image_GoldTwelve.uasset" 752
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_CharacterBackgroundR.uasset" 753
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_CharacterLevelIcon.uasset" 754
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_EquipmentBoxesR.uasset" 755
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_FiveStars.uasset" 756
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_FourStars.uasset" 757
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LevelJuiceRoster.uasset" 758
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LevelJuiceRosterEmpty.uasset" 759
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_OneStar.uasset" 760
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_SevenStars.uasset" 761
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_SixStars.uasset" 762
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_ThreeStars.uasset" 763
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_TwoStars.uasset" 764
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster_Icons.uasset" 765
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster_IconsLOCKED.uasset" 766
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenuRoster.uasset" 767
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Wiget_FriendRosterIcons.uasset" 768
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRoster.uasset" 769
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_AcceptedFriend.uasset" 770
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRequestNotification.uasset" 771
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendRequestPending.uasset" 772
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendSearchEntry.uasset" 773
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_FriendsList.uasset" 774
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/LoadingScreen.uasset" 775
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_ChatEntry.uasset" 776
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/DrogonRaidPic.uasset" 777
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_CampaignWidgets/Widget_RaidHeroSelect.uasset" 778
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_GuildRaidScreen.uasset" 779
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseRosterIcon.uasset" 780
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseRoster.uasset" 781
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseMenu.uasset" 782
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseCreation.uasset" 783
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseListIcons.uasset" 784
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseList.uasset" 785
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Social/Widget_HouseMenuSelector.uasset" 786
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_MainMenu/Widget_MainMenu.uasset" 787
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_CharScreenStats.uasset" 788
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_CharUnlockedWidget.uasset" 789
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_HeroLevelUp.uasset" 790
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_ShardFinderNode.uasset" 791
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_ShardFinderWidget.uasset" 792
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Roster/Widget_MainMenu_CharScreen.uasset" 793
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/CharDataHolder_MasterClass.uasset" 794
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 795
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 796
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/M_Cursor_Decal.uasset" 797
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/WIdget_BattleHealthBar.uasset" 798
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Reticle.uasset" 799
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_BattleCrosshair.uasset" 800
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_FloatingCombatText.uasset" 801
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_BaseColor.uasset" 802
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_Normal.uasset" 803
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Textures/Weapons/King_Swords/Clean/T_KSwords_OcclusionRoughnessMetallic.uasset" 804
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Materials/Weapons/Kings_Swords/M_King_Swords.uasset" 805
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Paladin_Weapons_Pack/Mesh/Weapons/King_Swords/SM_King_Sword_2.uasset" 806
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/MasterClassBPs/Character_MasterClass.uasset" 807
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignEnemyInfo.uasset" 808
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/DataBPs/CampaignData/Struct_CampaignMissions.uasset" 809
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02_Skeleton.uasset" 810
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Anim_Chest_02_Close.uasset" 811
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Anim_Chest_02_Open.uasset" 812
+"../../../Engine/Content/BasicShapes/Cube.uasset" 813
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/3dReward.uasset" 814
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/Coins_w__black_bg.uasset" 815
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GoldMat_NonTrans.uasset" 816
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/E_Base.uasset" 817
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/E_Yellow.uasset" 818
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/ShopUI/LootChestRewardsAnimated.uasset" 819
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_BaseColor.uasset" 820
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_M_R_AO.uasset" 821
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_01/Tex_Chest_01_Normal.uasset" 822
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Materials/PBR/Mat_Chest_Master_PBR.uasset" 823
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_BaseColor.uasset" 824
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_M_R_AO.uasset" 825
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Textures/Chest_02/Tex_Chest_02_Normal.uasset" 826
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Materials/PBR/Mat_Chest_PBR_02.uasset" 827
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02_PhysicsAsset.uasset" 828
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Meshes/Chest_02/Mesh_Chest_02.uasset" 829
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/ChestFantasy/Blueprints/BP_Chest_02.uasset" 830
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/AudioTracks/1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.uasset" 831
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/ArchlichIntroVideo10801.uasset" 832
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/UnrealFireSplash.uasset" 833
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Movies/Playlist.uasset" 834
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BrandingImages/Powered_By_GameSparks_RGB.uasset" 835
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/BrandingImages/Unreal_Engine_Horiz_White.uasset" 836
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/GameSplashScreen.uasset" 837
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SplashScreen.uasset" 838
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LongRedButton.uasset" 839
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/SabrinasUI/RosterAssets/image_LongRedButtonPressed.uasset" 840
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_Maintanence.uasset" 841
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CheckBoxBlank.uasset" 842
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/CheckMarkFilled.uasset" 843
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_NDAAgreement.uasset" 844
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_PlayerLevelUp.uasset" 845
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widget_Update.uasset" 846
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_Defeat.uasset" 847
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Combat/Widget_Victory.uasset" 848
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/UI_Images/ArchLichLogo.uasset" 849
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Login/GameSparksRegistration.uasset" 850
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/UI/Widgets_Login/GameSparksLogin.uasset" 851
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Blueprints/GOTGameMode.uasset" 852
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/FlickeringLight.uasset" 853
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/Ice_LayerInfo.uasset" 854
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/Snow_LayerInfo.uasset" 855
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset" 856
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_BaseColor.uasset" 857
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_Normal.uasset" 858
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_OcclusionRoughnessMetallic.uasset" 859
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/3piecefence_lambert1_BaseColor_Mat.uasset" 860
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_BaseColor.uasset" 861
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_Normal.uasset" 862
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_OcclusionRoughnessMetallic.uasset" 863
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/balcony2_lambert1_BaseColor_Mat.uasset" 864
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_BaseColor.uasset" 865
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_Normal.uasset" 866
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_OcclusionRoughnessMetallic.uasset" 867
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/barrel_lambert1_BaseColor_Mat.uasset" 868
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_BaseColor.uasset" 869
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_Normal.uasset" 870
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_OcclusionRoughnessMetallic.uasset" 871
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/buildingwdoorway_lambert1_BaseColor_Mat.uasset" 872
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_BaseColor.uasset" 873
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_Normal.uasset" 874
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_OcclusionRoughnessMetallic.uasset" 875
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Chair_Finished_lambert1_BaseColor_Mat.uasset" 876
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_BaseColor.uasset" 877
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_Normal.uasset" 878
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_OcclusionRoughnessMetallic.uasset" 879
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/coop3_lambert2_BaseColor_Mat.uasset" 880
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_BaseColor.uasset" 881
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_Normal.uasset" 882
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_OcclusionRoughnessMetallic.uasset" 883
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/crest_lowpoylcrest_defaultMat1_BaseColor_Mat.uasset" 884
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_BaseColor.uasset" 885
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_Normal.uasset" 886
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_OcclusionRoughnessMetallic.uasset" 887
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/cylinderbuilding2_lambert1_BaseColor_Mat.uasset" 888
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_BaseColor.uasset" 889
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_Normal.uasset" 890
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_OcclusionRoughnessMetallic.uasset" 891
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/doubledoor_door2_BaseColor_Mat.uasset" 892
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_BaseColor.uasset" 893
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_Normal.uasset" 894
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_OcclusionRoughnessMetallic.uasset" 895
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/fencepiece_lambert1_BaseColor_Mat.uasset" 896
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_BaseColor.uasset" 897
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_Normal.uasset" 898
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_OcclusionRoughnessMetallic.uasset" 899
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/hollowbuilding_lambert1_BaseColor_Mat.uasset" 900
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_BaseColor.uasset" 901
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_Normal.uasset" 902
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_OcclusionRoughnessMetallic.uasset" 903
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/Ladder_lambert1_BaseColor_Mat.uasset" 904
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_BaseColor.uasset" 905
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_Normal.uasset" 906
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_OcclusionRoughnessMetallic.uasset" 907
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert2_BaseColor_Mat.uasset" 908
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_BaseColor.uasset" 909
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_Normal.uasset" 910
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_OcclusionRoughnessMetallic.uasset" 911
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/maxhouse2_lambert4_BaseColor_Mat.uasset" 912
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_BaseColor.uasset" 913
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_Normal.uasset" 914
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_OcclusionRoughnessMetallic.uasset" 915
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/pokeyfirepit_lambert1_BaseColor_Mat.uasset" 916
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_BaseColor.uasset" 917
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_Normal.uasset" 918
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_OcclusionRoughnessMetallic.uasset" 919
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/singledoor_lambert1_BaseColor_Mat.uasset" 920
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_BaseColor.uasset" 921
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_Normal.uasset" 922
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_OcclusionRoughnessMetallic.uasset" 923
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wall_lambert1_BaseColor_Mat.uasset" 924
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_BaseColor.uasset" 925
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_Normal.uasset" 926
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_OcclusionRoughnessMetallic.uasset" 927
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Textures/wheel_lambert1_BaseColor_Mat.uasset" 928
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_albedo.uasset" 929
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_height.uasset" 930
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_DirtyIcySnow_4x4_1024_normal.uasset" 931
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_albedo.uasset" 932
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_height.uasset" 933
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/TexturesCom_SnowRough_2x2_1024_normal.uasset" 934
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/LandscapeBlend.uasset" 935
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Landscape/LandscapeBlend1.uasset" 936
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert1.uasset" 937
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/3piecefence_pCube24.uasset" 938
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/balcony2.uasset" 939
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/barrel_pCylinder1.uasset" 940
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/buildingwdoorway_pCube22.uasset" 941
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/Chair_Finished.uasset" 942
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/coalpile_SM_CoalPile_03_2_LOD0.uasset" 943
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/coop3_polySurface1.uasset" 944
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/defaultMat1.uasset" 945
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/crest_Group20930.uasset" 946
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/cylinderbuilding2_pCylinder4.uasset" 947
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/doubledoor_polySurface1.uasset" 948
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/fencepiece_polySurface1.uasset" 949
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/hollowbuilding_pCube20.uasset" 950
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/Ladder.uasset" 951
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert4.uasset" 952
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/maxhouse2_pCylinder1.uasset" 953
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/lambert2.uasset" 954
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/maxhousehouse.uasset" 955
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/pokeyfirepit.uasset" 956
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/singledoor.uasset" 957
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/wall.uasset" 958
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/wheel.uasset" 959
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/CarlysModels/Meshes/workbench_SM_WorkBench_02_20_LOD0.uasset" 960
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 961
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Geometry/Meshes/1M_Cube.uasset" 962
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" 963
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" 964
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 965
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 966
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 967
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 968
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 969
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 970
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 971
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 972
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/P_Fire.uasset" 973
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/MobileStarterContent/Particles/P_Smoke.uasset" 974
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/snow/snowmat.uasset" 975
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/snow/Snowing.uasset" 976
+"../../../../../../GoTLegends-Updated-/GoTLegends 4.21/Content/Core/Maps/TopDownExampleMap.umap" 977
