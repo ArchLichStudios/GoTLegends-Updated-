@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ArchlichStudios.GoTL;
+package com.YourCompany.GoTLegends;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.ArchlichStudios.GoTL.AlarmReceiver.class.getName();
+        return com.YourCompany.GoTLegends.AlarmReceiver.class.getName();
     }
 }

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ArchlichStudios.GoTL;
+package com.YourCompany.GoTLegends;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

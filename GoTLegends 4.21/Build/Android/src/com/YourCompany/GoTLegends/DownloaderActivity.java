@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ArchlichStudios.GoTL;
+package com.YourCompany.GoTLegends;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
