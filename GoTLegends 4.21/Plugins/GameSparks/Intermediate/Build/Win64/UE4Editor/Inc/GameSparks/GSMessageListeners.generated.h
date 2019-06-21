@@ -42,7 +42,7 @@ struct FGSAchievementEarnedMessage;
 #endif
 #define GAMESPARKS_GSMessageListeners_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_132_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_132_DELEGATE \
 struct GSMessageListeners_eventOnUploadCompleteMessage_Parms \
 { \
 	FGSUploadCompleteMessage UploadCompleteMessage; \
@@ -55,7 +55,7 @@ static inline void FOnUploadCompleteMessage_DelegateWrapper(const FMulticastScri
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_128_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_128_DELEGATE \
 struct GSMessageListeners_eventOnTeamRankChangedMessage_Parms \
 { \
 	FGSTeamRankChangedMessage TeamRankChangedMessage; \
@@ -68,7 +68,7 @@ static inline void FOnTeamRankChangedMessage_DelegateWrapper(const FMulticastScr
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_124_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_124_DELEGATE \
 struct GSMessageListeners_eventOnTeamChatMessage_Parms \
 { \
 	FGSTeamChatMessage TeamChatMessage; \
@@ -81,7 +81,7 @@ static inline void FOnTeamChatMessage_DelegateWrapper(const FMulticastScriptDele
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_120_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_120_DELEGATE \
 struct GSMessageListeners_eventOnSocialRankChangedMessage_Parms \
 { \
 	FGSSocialRankChangedMessage SocialRankChangedMessage; \
@@ -94,7 +94,7 @@ static inline void FOnSocialRankChangedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_116_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_116_DELEGATE \
 struct GSMessageListeners_eventOnSessionTerminatedMessage_Parms \
 { \
 	FGSSessionTerminatedMessage SessionTerminatedMessage; \
@@ -107,7 +107,7 @@ static inline void FOnSessionTerminatedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_112_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_112_DELEGATE \
 struct GSMessageListeners_eventOnScriptMessage_Parms \
 { \
 	FGSScriptMessage ScriptMessage; \
@@ -120,7 +120,7 @@ static inline void FOnScriptMessage_DelegateWrapper(const FMulticastScriptDelega
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_108_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_108_DELEGATE \
 struct GSMessageListeners_eventOnNewTeamScoreMessage_Parms \
 { \
 	FGSNewTeamScoreMessage NewTeamScoreMessage; \
@@ -133,7 +133,7 @@ static inline void FOnNewTeamScoreMessage_DelegateWrapper(const FMulticastScript
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_104_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_104_DELEGATE \
 struct GSMessageListeners_eventOnNewHighScoreMessage_Parms \
 { \
 	FGSNewHighScoreMessage NewHighScoreMessage; \
@@ -146,7 +146,7 @@ static inline void FOnNewHighScoreMessage_DelegateWrapper(const FMulticastScript
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_100_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_100_DELEGATE \
 struct GSMessageListeners_eventOnMatchUpdatedMessage_Parms \
 { \
 	FGSMatchUpdatedMessage MatchUpdatedMessage; \
@@ -159,7 +159,7 @@ static inline void FOnMatchUpdatedMessage_DelegateWrapper(const FMulticastScript
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_96_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_96_DELEGATE \
 struct GSMessageListeners_eventOnMatchNotFoundMessage_Parms \
 { \
 	FGSMatchNotFoundMessage MatchNotFoundMessage; \
@@ -172,7 +172,7 @@ static inline void FOnMatchNotFoundMessage_DelegateWrapper(const FMulticastScrip
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_92_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_92_DELEGATE \
 struct GSMessageListeners_eventOnMatchFoundMessage_Parms \
 { \
 	FGSMatchFoundMessage MatchFoundMessage; \
@@ -185,7 +185,7 @@ static inline void FOnMatchFoundMessage_DelegateWrapper(const FMulticastScriptDe
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_88_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_88_DELEGATE \
 struct GSMessageListeners_eventOnGlobalRankChangedMessage_Parms \
 { \
 	FGSGlobalRankChangedMessage GlobalRankChangedMessage; \
@@ -198,7 +198,7 @@ static inline void FOnGlobalRankChangedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_84_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_84_DELEGATE \
 struct GSMessageListeners_eventOnFriendMessage_Parms \
 { \
 	FGSFriendMessage FriendMessage; \
@@ -211,7 +211,7 @@ static inline void FOnFriendMessage_DelegateWrapper(const FMulticastScriptDelega
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_80_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_80_DELEGATE \
 struct GSMessageListeners_eventOnChallengeWonMessage_Parms \
 { \
 	FGSChallengeWonMessage ChallengeWonMessage; \
@@ -224,7 +224,7 @@ static inline void FOnChallengeWonMessage_DelegateWrapper(const FMulticastScript
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_76_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_76_DELEGATE \
 struct GSMessageListeners_eventOnChallengeWithdrawnMessage_Parms \
 { \
 	FGSChallengeWithdrawnMessage ChallengeWithdrawnMessage; \
@@ -237,7 +237,7 @@ static inline void FOnChallengeWithdrawnMessage_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_72_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_72_DELEGATE \
 struct GSMessageListeners_eventOnChallengeWaitingMessage_Parms \
 { \
 	FGSChallengeWaitingMessage ChallengeWaitingMessage; \
@@ -250,7 +250,7 @@ static inline void FOnChallengeWaitingMessage_DelegateWrapper(const FMulticastSc
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_68_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_68_DELEGATE \
 struct GSMessageListeners_eventOnChallengeTurnTakenMessage_Parms \
 { \
 	FGSChallengeTurnTakenMessage ChallengeTurnTakenMessage; \
@@ -263,7 +263,7 @@ static inline void FOnChallengeTurnTakenMessage_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_64_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_64_DELEGATE \
 struct GSMessageListeners_eventOnChallengeStartedMessage_Parms \
 { \
 	FGSChallengeStartedMessage ChallengeStartedMessage; \
@@ -276,7 +276,7 @@ static inline void FOnChallengeStartedMessage_DelegateWrapper(const FMulticastSc
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_60_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_60_DELEGATE \
 struct GSMessageListeners_eventOnChallengeLostMessage_Parms \
 { \
 	FGSChallengeLostMessage ChallengeLostMessage; \
@@ -289,7 +289,7 @@ static inline void FOnChallengeLostMessage_DelegateWrapper(const FMulticastScrip
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_56_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_56_DELEGATE \
 struct GSMessageListeners_eventOnChallengeLapsedMessage_Parms \
 { \
 	FGSChallengeLapsedMessage ChallengeLapsedMessage; \
@@ -302,7 +302,7 @@ static inline void FOnChallengeLapsedMessage_DelegateWrapper(const FMulticastScr
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_52_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_52_DELEGATE \
 struct GSMessageListeners_eventOnChallengeJoinedMessage_Parms \
 { \
 	FGSChallengeJoinedMessage ChallengeJoinedMessage; \
@@ -315,7 +315,7 @@ static inline void FOnChallengeJoinedMessage_DelegateWrapper(const FMulticastScr
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_48_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_48_DELEGATE \
 struct GSMessageListeners_eventOnChallengeIssuedMessage_Parms \
 { \
 	FGSChallengeIssuedMessage ChallengeIssuedMessage; \
@@ -328,7 +328,7 @@ static inline void FOnChallengeIssuedMessage_DelegateWrapper(const FMulticastScr
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_44_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_44_DELEGATE \
 struct GSMessageListeners_eventOnChallengeExpiredMessage_Parms \
 { \
 	FGSChallengeExpiredMessage ChallengeExpiredMessage; \
@@ -341,7 +341,7 @@ static inline void FOnChallengeExpiredMessage_DelegateWrapper(const FMulticastSc
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_40_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_40_DELEGATE \
 struct GSMessageListeners_eventOnChallengeDrawnMessage_Parms \
 { \
 	FGSChallengeDrawnMessage ChallengeDrawnMessage; \
@@ -354,7 +354,7 @@ static inline void FOnChallengeDrawnMessage_DelegateWrapper(const FMulticastScri
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_36_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_36_DELEGATE \
 struct GSMessageListeners_eventOnChallengeDeclinedMessage_Parms \
 { \
 	FGSChallengeDeclinedMessage ChallengeDeclinedMessage; \
@@ -367,7 +367,7 @@ static inline void FOnChallengeDeclinedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_32_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_32_DELEGATE \
 struct GSMessageListeners_eventOnChallengeChatMessage_Parms \
 { \
 	FGSChallengeChatMessage ChallengeChatMessage; \
@@ -380,7 +380,7 @@ static inline void FOnChallengeChatMessage_DelegateWrapper(const FMulticastScrip
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_28_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_28_DELEGATE \
 struct GSMessageListeners_eventOnChallengeChangedMessage_Parms \
 { \
 	FGSChallengeChangedMessage ChallengeChangedMessage; \
@@ -393,7 +393,7 @@ static inline void FOnChallengeChangedMessage_DelegateWrapper(const FMulticastSc
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_24_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_24_DELEGATE \
 struct GSMessageListeners_eventOnChallengeAcceptedMessage_Parms \
 { \
 	FGSChallengeAcceptedMessage ChallengeAcceptedMessage; \
@@ -406,7 +406,7 @@ static inline void FOnChallengeAcceptedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_20_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_20_DELEGATE \
 struct GSMessageListeners_eventOnAchievementEarnedMessage_Parms \
 { \
 	FGSAchievementEarnedMessage AchievementEarnedMessage; \
@@ -419,9 +419,9 @@ static inline void FOnAchievementEarnedMessage_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSMessageListeners(); \
 	friend struct Z_Construct_UClass_UGSMessageListeners_Statics; \
@@ -430,7 +430,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMessageListeners)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSMessageListeners(); \
 	friend struct Z_Construct_UClass_UGSMessageListeners_Statics; \
@@ -439,7 +439,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMessageListeners)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSMessageListeners(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSMessageListeners) \
@@ -452,7 +452,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGSMessageListeners(UGSMessageListeners&&); \
@@ -463,32 +463,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSMessageListeners); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGSMessageListeners)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_10_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_10_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSMessageListeners_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

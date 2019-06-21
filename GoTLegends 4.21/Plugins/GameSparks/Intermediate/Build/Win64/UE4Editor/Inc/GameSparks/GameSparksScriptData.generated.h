@@ -16,7 +16,7 @@ class UObject;
 #endif
 #define GAMESPARKS_GameSparksScriptData_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetKeys) \
 	{ \
@@ -360,7 +360,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetKeys) \
 	{ \
@@ -704,7 +704,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGameSparksScriptData(); \
 	friend struct Z_Construct_UClass_UGameSparksScriptData_Statics; \
@@ -713,7 +713,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksScriptData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesUGameSparksScriptData(); \
 	friend struct Z_Construct_UClass_UGameSparksScriptData_Statics; \
@@ -722,7 +722,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksScriptData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameSparksScriptData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksScriptData) \
@@ -735,7 +735,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameSparksScriptData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -748,32 +748,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameSparksScriptData); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksScriptData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_11_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_11_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksScriptData_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

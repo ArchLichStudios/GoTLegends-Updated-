@@ -16,7 +16,7 @@ class UObject;
 #endif
 #define GAMESPARKS_UGSRTVector_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetFromFVector) \
 	{ \
@@ -170,7 +170,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetFromFVector) \
 	{ \
@@ -324,7 +324,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSRTVector(); \
 	friend struct Z_Construct_UClass_UGSRTVector_Statics; \
@@ -333,7 +333,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRTVector)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSRTVector(); \
 	friend struct Z_Construct_UClass_UGSRTVector_Statics; \
@@ -342,7 +342,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRTVector)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRTVector(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRTVector) \
@@ -355,7 +355,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRTVector(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -368,32 +368,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRTVector); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRTVector)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_13_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_13_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h_16_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class GSRTVector."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTVector_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

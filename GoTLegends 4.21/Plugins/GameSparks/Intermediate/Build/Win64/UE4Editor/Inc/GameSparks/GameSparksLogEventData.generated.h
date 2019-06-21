@@ -16,7 +16,7 @@ class UObject;
 #endif
 #define GAMESPARKS_GameSparksLogEventData_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetObject) \
 	{ \
@@ -58,7 +58,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetObject) \
 	{ \
@@ -100,7 +100,7 @@ class UObject;
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGameSparksLogEventData(); \
 	friend struct Z_Construct_UClass_UGameSparksLogEventData_Statics; \
@@ -109,7 +109,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksLogEventData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUGameSparksLogEventData(); \
 	friend struct Z_Construct_UClass_UGameSparksLogEventData_Statics; \
@@ -118,7 +118,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksLogEventData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameSparksLogEventData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksLogEventData) \
@@ -131,7 +131,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameSparksLogEventData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -144,37 +144,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameSparksLogEventData); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksLogEventData)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__m_strings() { return STRUCT_OFFSET(UGameSparksLogEventData, m_strings); } \
 	FORCEINLINE static uint32 __PPO__m_numbers() { return STRUCT_OFFSET(UGameSparksLogEventData, m_numbers); } \
 	FORCEINLINE static uint32 __PPO__m_objects() { return STRUCT_OFFSET(UGameSparksLogEventData, m_objects); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_10_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_10_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksLogEventData_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

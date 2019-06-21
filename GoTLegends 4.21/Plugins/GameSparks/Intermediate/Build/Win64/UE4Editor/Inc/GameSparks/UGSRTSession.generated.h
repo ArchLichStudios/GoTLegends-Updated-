@@ -17,7 +17,7 @@ class UObject;
 #endif
 #define GAMESPARKS_UGSRTSession_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_72_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_72_DELEGATE \
 struct GSRTSession_eventOnData_Parms \
 { \
 	UGSRTSession* session; \
@@ -36,7 +36,7 @@ static inline void FOnData_DelegateWrapper(const FMulticastScriptDelegate& OnDat
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_68_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_68_DELEGATE \
 struct GSRTSession_eventOnPlayerDisconnect_Parms \
 { \
 	UGSRTSession* session; \
@@ -51,7 +51,7 @@ static inline void FOnPlayerDisconnect_DelegateWrapper(const FMulticastScriptDel
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_64_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_64_DELEGATE \
 struct GSRTSession_eventOnPlayerConnect_Parms \
 { \
 	UGSRTSession* session; \
@@ -66,7 +66,7 @@ static inline void FOnPlayerConnect_DelegateWrapper(const FMulticastScriptDelega
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_60_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_60_DELEGATE \
 struct GSRTSession_eventOnReady_Parms \
 { \
 	UGSRTSession* session; \
@@ -81,7 +81,7 @@ static inline void FOnReady_DelegateWrapper(const FMulticastScriptDelegate& OnRe
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetPeerId) \
 	{ \
@@ -140,7 +140,7 @@ static inline void FOnReady_DelegateWrapper(const FMulticastScriptDelegate& OnRe
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetPeerId) \
 	{ \
@@ -199,7 +199,7 @@ static inline void FOnReady_DelegateWrapper(const FMulticastScriptDelegate& OnRe
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSRTSession(); \
 	friend struct Z_Construct_UClass_UGSRTSession_Statics; \
@@ -208,7 +208,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRTSession)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSRTSession(); \
 	friend struct Z_Construct_UClass_UGSRTSession_Statics; \
@@ -217,7 +217,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRTSession)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRTSession(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRTSession) \
@@ -230,7 +230,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRTSession(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -243,32 +243,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRTSession); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRTSession)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_34_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_34_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h_37_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class GSRTSession."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_RT_UGSRTSession_h
 
 
 #define FOREACH_ENUM_DELIVERYINTENT(op) \

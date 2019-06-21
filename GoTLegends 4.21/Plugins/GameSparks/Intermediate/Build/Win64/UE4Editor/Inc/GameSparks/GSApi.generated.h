@@ -171,7 +171,7 @@ class UGSXboxOneConnectRequest;
 #endif
 #define GAMESPARKS_GSApi_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6099_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6099_DELEGATE \
 struct _Script_GameSparks_eventOnXboxOneConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -186,7 +186,7 @@ static inline void FOnXboxOneConnectRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6002_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6002_DELEGATE \
 struct _Script_GameSparks_eventOnXBOXLiveConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -201,7 +201,7 @@ static inline void FOnXBOXLiveConnectRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5943_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5943_DELEGATE \
 struct _Script_GameSparks_eventOnWithdrawChallengeRequest_Response_Parms \
 { \
 	FGSWithdrawChallengeResponse WithdrawChallengeResponse; \
@@ -216,7 +216,7 @@ static inline void FOnWithdrawChallengeRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5871_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5871_DELEGATE \
 struct _Script_GameSparks_eventOnWindowsBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -231,7 +231,7 @@ static inline void FOnWindowsBuyGoodsRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5778_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5778_DELEGATE \
 struct _Script_GameSparks_eventOnWeChatConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -246,7 +246,7 @@ static inline void FOnWeChatConnectRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5677_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5677_DELEGATE \
 struct _Script_GameSparks_eventOnViberConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -261,7 +261,7 @@ static inline void FOnViberConnectRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5622_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5622_DELEGATE \
 struct _Script_GameSparks_eventOnUpdateMessageRequest_Response_Parms \
 { \
 	FGSUpdateMessageResponse UpdateMessageResponse; \
@@ -276,7 +276,7 @@ static inline void FOnUpdateMessageRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5525_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5525_DELEGATE \
 struct _Script_GameSparks_eventOnTwitterConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -291,7 +291,7 @@ static inline void FOnTwitterConnectRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5435_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5435_DELEGATE \
 struct _Script_GameSparks_eventOnTwitchConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -306,7 +306,7 @@ static inline void FOnTwitchConnectRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5341_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5341_DELEGATE \
 struct _Script_GameSparks_eventOnSteamConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -321,7 +321,7 @@ static inline void FOnSteamConnectRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5272_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5272_DELEGATE \
 struct _Script_GameSparks_eventOnSteamBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -336,7 +336,7 @@ static inline void FOnSteamBuyGoodsRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5223_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5223_DELEGATE \
 struct _Script_GameSparks_eventOnSocialStatusRequest_Response_Parms \
 { \
 	FGSSocialStatusResponse SocialStatusResponse; \
@@ -351,7 +351,7 @@ static inline void FOnSocialStatusRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5130_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5130_DELEGATE \
 struct _Script_GameSparks_eventOnSocialLeaderboardDataRequest_Response_Parms \
 { \
 	FGSLeaderboardDataResponse LeaderboardDataResponse; \
@@ -366,7 +366,7 @@ static inline void FOnSocialLeaderboardDataRequest_Response_DelegateWrapper(cons
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5078_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5078_DELEGATE \
 struct _Script_GameSparks_eventOnSocialDisconnectRequest_Response_Parms \
 { \
 	FGSSocialDisconnectResponse SocialDisconnectResponse; \
@@ -381,7 +381,7 @@ static inline void FOnSocialDisconnectRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5017_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5017_DELEGATE \
 struct _Script_GameSparks_eventOnSendTeamChatMessageRequest_Response_Parms \
 { \
 	FGSSendTeamChatMessageResponse SendTeamChatMessageResponse; \
@@ -396,7 +396,7 @@ static inline void FOnSendTeamChatMessageRequest_Response_DelegateWrapper(const 
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4962_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4962_DELEGATE \
 struct _Script_GameSparks_eventOnSendFriendMessageRequest_Response_Parms \
 { \
 	FGSSendFriendMessageResponse SendFriendMessageResponse; \
@@ -411,7 +411,7 @@ static inline void FOnSendFriendMessageRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4907_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4907_DELEGATE \
 struct _Script_GameSparks_eventOnScheduleBulkJobAdminRequest_Response_Parms \
 { \
 	FGSScheduleBulkJobAdminResponse ScheduleBulkJobAdminResponse; \
@@ -426,7 +426,7 @@ static inline void FOnScheduleBulkJobAdminRequest_Response_DelegateWrapper(const
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4858_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4858_DELEGATE \
 struct _Script_GameSparks_eventOnRevokePurchaseGoodsRequest_Response_Parms \
 { \
 	FGSRevokePurchaseGoodsResponse RevokePurchaseGoodsResponse; \
@@ -441,7 +441,7 @@ static inline void FOnRevokePurchaseGoodsRequest_Response_DelegateWrapper(const 
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4797_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4797_DELEGATE \
 struct _Script_GameSparks_eventOnRegistrationRequest_Response_Parms \
 { \
 	FGSRegistrationResponse RegistrationResponse; \
@@ -456,7 +456,7 @@ static inline void FOnRegistrationRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4707_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4707_DELEGATE \
 struct _Script_GameSparks_eventOnQQConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -471,7 +471,7 @@ static inline void FOnQQConnectRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4648_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4648_DELEGATE \
 struct _Script_GameSparks_eventOnPushRegistrationRequest_Response_Parms \
 { \
 	FGSPushRegistrationResponse PushRegistrationResponse; \
@@ -486,7 +486,7 @@ static inline void FOnPushRegistrationRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4566_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4566_DELEGATE \
 struct _Script_GameSparks_eventOnPsnBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -501,7 +501,7 @@ static inline void FOnPsnBuyGoodsRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4465_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4465_DELEGATE \
 struct _Script_GameSparks_eventOnPSNConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -516,7 +516,7 @@ static inline void FOnPSNConnectRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4368_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4368_DELEGATE \
 struct _Script_GameSparks_eventOnPSNAccountConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -531,7 +531,7 @@ static inline void FOnPSNAccountConnectRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4268_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4268_DELEGATE \
 struct _Script_GameSparks_eventOnNXConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -546,7 +546,7 @@ static inline void FOnNXConnectRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4186_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4186_DELEGATE \
 struct _Script_GameSparks_eventOnMatchmakingRequest_Response_Parms \
 { \
 	FGSMatchmakingResponse MatchmakingResponse; \
@@ -561,7 +561,7 @@ static inline void FOnMatchmakingRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4131_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4131_DELEGATE \
 struct _Script_GameSparks_eventOnMatchDetailsRequest_Response_Parms \
 { \
 	FGSMatchDetailsResponse MatchDetailsResponse; \
@@ -576,7 +576,7 @@ static inline void FOnMatchDetailsRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4072_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4072_DELEGATE \
 struct _Script_GameSparks_eventOnLogEventRequest_Response_Parms \
 { \
 	FGSLogEventResponse LogEventResponse; \
@@ -591,7 +591,7 @@ static inline void FOnLogEventRequest_Response_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4010_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4010_DELEGATE \
 struct _Script_GameSparks_eventOnLogChallengeEventRequest_Response_Parms \
 { \
 	FGSLogChallengeEventResponse LogChallengeEventResponse; \
@@ -606,7 +606,7 @@ static inline void FOnLogChallengeEventRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3955_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3955_DELEGATE \
 struct _Script_GameSparks_eventOnListVirtualGoodsRequest_Response_Parms \
 { \
 	FGSListVirtualGoodsResponse ListVirtualGoodsResponse; \
@@ -621,7 +621,7 @@ static inline void FOnListVirtualGoodsRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3891_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3891_DELEGATE \
 struct _Script_GameSparks_eventOnListTransactionsRequest_Response_Parms \
 { \
 	FGSListTransactionsResponse ListTransactionsResponse; \
@@ -636,7 +636,7 @@ static inline void FOnListTransactionsRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3830_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3830_DELEGATE \
 struct _Script_GameSparks_eventOnListTeamsRequest_Response_Parms \
 { \
 	FGSListTeamsResponse ListTeamsResponse; \
@@ -651,7 +651,7 @@ static inline void FOnListTeamsRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3766_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3766_DELEGATE \
 struct _Script_GameSparks_eventOnListTeamChatRequest_Response_Parms \
 { \
 	FGSListTeamChatResponse ListTeamChatResponse; \
@@ -666,7 +666,7 @@ static inline void FOnListTeamChatRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3703_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3703_DELEGATE \
 struct _Script_GameSparks_eventOnListMessageSummaryRequest_Response_Parms \
 { \
 	FGSListMessageSummaryResponse ListMessageSummaryResponse; \
@@ -681,7 +681,7 @@ static inline void FOnListMessageSummaryRequest_Response_DelegateWrapper(const F
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3641_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3641_DELEGATE \
 struct _Script_GameSparks_eventOnListMessageRequest_Response_Parms \
 { \
 	FGSListMessageResponse ListMessageResponse; \
@@ -696,7 +696,7 @@ static inline void FOnListMessageRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3576_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3576_DELEGATE \
 struct _Script_GameSparks_eventOnListMessageDetailRequest_Response_Parms \
 { \
 	FGSListMessageDetailResponse ListMessageDetailResponse; \
@@ -711,7 +711,7 @@ static inline void FOnListMessageDetailRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3527_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3527_DELEGATE \
 struct _Script_GameSparks_eventOnListLeaderboardsRequest_Response_Parms \
 { \
 	FGSListLeaderboardsResponse ListLeaderboardsResponse; \
@@ -726,7 +726,7 @@ static inline void FOnListLeaderboardsRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3470_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3470_DELEGATE \
 struct _Script_GameSparks_eventOnListInviteFriendsRequest_Response_Parms \
 { \
 	FGSListInviteFriendsResponse ListInviteFriendsResponse; \
@@ -741,7 +741,7 @@ static inline void FOnListInviteFriendsRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3413_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3413_DELEGATE \
 struct _Script_GameSparks_eventOnListGameFriendsRequest_Response_Parms \
 { \
 	FGSListGameFriendsResponse ListGameFriendsResponse; \
@@ -756,7 +756,7 @@ static inline void FOnListGameFriendsRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3364_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3364_DELEGATE \
 struct _Script_GameSparks_eventOnListChallengeTypeRequest_Response_Parms \
 { \
 	FGSListChallengeTypeResponse ListChallengeTypeResponse; \
@@ -771,7 +771,7 @@ static inline void FOnListChallengeTypeRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3268_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3268_DELEGATE \
 struct _Script_GameSparks_eventOnListChallengeRequest_Response_Parms \
 { \
 	FGSListChallengeResponse ListChallengeResponse; \
@@ -786,7 +786,7 @@ static inline void FOnListChallengeRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3225_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3225_DELEGATE \
 struct _Script_GameSparks_eventOnListBulkJobsAdminRequest_Response_Parms \
 { \
 	FGSListBulkJobsAdminResponse ListBulkJobsAdminResponse; \
@@ -801,7 +801,7 @@ static inline void FOnListBulkJobsAdminRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3176_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3176_DELEGATE \
 struct _Script_GameSparks_eventOnListAchievementsRequest_Response_Parms \
 { \
 	FGSListAchievementsResponse ListAchievementsResponse; \
@@ -816,7 +816,7 @@ static inline void FOnListAchievementsRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3118_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3118_DELEGATE \
 struct _Script_GameSparks_eventOnLeaveTeamRequest_Response_Parms \
 { \
 	FGSLeaveTeamResponse LeaveTeamResponse; \
@@ -831,7 +831,7 @@ static inline void FOnLeaveTeamRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3047_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3047_DELEGATE \
 struct _Script_GameSparks_eventOnLeaderboardsEntriesRequest_Response_Parms \
 { \
 	FGSLeaderboardsEntriesResponse LeaderboardsEntriesResponse; \
@@ -846,7 +846,7 @@ static inline void FOnLeaderboardsEntriesRequest_Response_DelegateWrapper(const 
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2954_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2954_DELEGATE \
 struct _Script_GameSparks_eventOnLeaderboardDataRequest_Response_Parms \
 { \
 	FGSLeaderboardDataResponse LeaderboardDataResponse; \
@@ -861,7 +861,7 @@ static inline void FOnLeaderboardDataRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2861_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2861_DELEGATE \
 struct _Script_GameSparks_eventOnKongregateConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -876,7 +876,7 @@ static inline void FOnKongregateConnectRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2803_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2803_DELEGATE \
 struct _Script_GameSparks_eventOnJoinTeamRequest_Response_Parms \
 { \
 	FGSJoinTeamResponse JoinTeamResponse; \
@@ -891,7 +891,7 @@ static inline void FOnJoinTeamRequest_Response_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2745_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2745_DELEGATE \
 struct _Script_GameSparks_eventOnJoinPendingMatchRequest_Response_Parms \
 { \
 	FGSJoinPendingMatchResponse JoinPendingMatchResponse; \
@@ -906,7 +906,7 @@ static inline void FOnJoinPendingMatchRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2687_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2687_DELEGATE \
 struct _Script_GameSparks_eventOnJoinChallengeRequest_Response_Parms \
 { \
 	FGSJoinChallengeResponse JoinChallengeResponse; \
@@ -921,7 +921,7 @@ static inline void FOnJoinChallengeRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2615_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2615_DELEGATE \
 struct _Script_GameSparks_eventOnIOSBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -936,7 +936,7 @@ static inline void FOnIOSBuyGoodsRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2515_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2515_DELEGATE \
 struct _Script_GameSparks_eventOnGooglePlusConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -951,7 +951,7 @@ static inline void FOnGooglePlusConnectRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2406_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2406_DELEGATE \
 struct _Script_GameSparks_eventOnGooglePlayConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -966,7 +966,7 @@ static inline void FOnGooglePlayConnectRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2326_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2326_DELEGATE \
 struct _Script_GameSparks_eventOnGooglePlayBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -981,7 +981,7 @@ static inline void FOnGooglePlayBuyGoodsRequest_Response_DelegateWrapper(const F
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2274_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2274_DELEGATE \
 struct _Script_GameSparks_eventOnGetUploadedRequest_Response_Parms \
 { \
 	FGSGetUploadedResponse GetUploadedResponse; \
@@ -996,7 +996,7 @@ static inline void FOnGetUploadedRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2222_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2222_DELEGATE \
 struct _Script_GameSparks_eventOnGetUploadUrlRequest_Response_Parms \
 { \
 	FGSGetUploadUrlResponse GetUploadUrlResponse; \
@@ -1011,7 +1011,7 @@ static inline void FOnGetUploadUrlRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2164_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2164_DELEGATE \
 struct _Script_GameSparks_eventOnGetTeamRequest_Response_Parms \
 { \
 	FGSGetTeamResponse GetTeamResponse; \
@@ -1026,7 +1026,7 @@ static inline void FOnGetTeamRequest_Response_DelegateWrapper(const FMulticastSc
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2112_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2112_DELEGATE \
 struct _Script_GameSparks_eventOnGetPropertySetRequest_Response_Parms \
 { \
 	FGSGetPropertySetResponse GetPropertySetResponse; \
@@ -1041,7 +1041,7 @@ static inline void FOnGetPropertySetRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2060_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2060_DELEGATE \
 struct _Script_GameSparks_eventOnGetPropertyRequest_Response_Parms \
 { \
 	FGSGetPropertyResponse GetPropertyResponse; \
@@ -1056,7 +1056,7 @@ static inline void FOnGetPropertyRequest_Response_DelegateWrapper(const FMultica
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2005_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2005_DELEGATE \
 struct _Script_GameSparks_eventOnGetMyTeamsRequest_Response_Parms \
 { \
 	FGSGetMyTeamsResponse GetMyTeamsResponse; \
@@ -1071,7 +1071,7 @@ static inline void FOnGetMyTeamsRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1953_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1953_DELEGATE \
 struct _Script_GameSparks_eventOnGetMessageRequest_Response_Parms \
 { \
 	FGSGetMessageResponse GetMessageResponse; \
@@ -1086,7 +1086,7 @@ static inline void FOnGetMessageRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1882_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1882_DELEGATE \
 struct _Script_GameSparks_eventOnGetLeaderboardEntriesRequest_Response_Parms \
 { \
 	FGSGetLeaderboardEntriesResponse GetLeaderboardEntriesResponse; \
@@ -1101,7 +1101,7 @@ static inline void FOnGetLeaderboardEntriesRequest_Response_DelegateWrapper(cons
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1830_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1830_DELEGATE \
 struct _Script_GameSparks_eventOnGetDownloadableRequest_Response_Parms \
 { \
 	FGSGetDownloadableResponse GetDownloadableResponse; \
@@ -1116,7 +1116,7 @@ static inline void FOnGetDownloadableRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1775_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1775_DELEGATE \
 struct _Script_GameSparks_eventOnGetChallengeRequest_Response_Parms \
 { \
 	FGSGetChallengeResponse GetChallengeResponse; \
@@ -1131,7 +1131,7 @@ static inline void FOnGetChallengeRequest_Response_DelegateWrapper(const FMultic
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1666_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1666_DELEGATE \
 struct _Script_GameSparks_eventOnGameCenterConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -1146,7 +1146,7 @@ static inline void FOnGameCenterConnectRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1600_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1600_DELEGATE \
 struct _Script_GameSparks_eventOnFindPendingMatchesRequest_Response_Parms \
 { \
 	FGSFindPendingMatchesResponse FindPendingMatchesResponse; \
@@ -1161,7 +1161,7 @@ static inline void FOnFindPendingMatchesRequest_Response_DelegateWrapper(const F
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1527_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1527_DELEGATE \
 struct _Script_GameSparks_eventOnFindMatchRequest_Response_Parms \
 { \
 	FGSFindMatchResponse FindMatchResponse; \
@@ -1176,7 +1176,7 @@ static inline void FOnFindMatchRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1463_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1463_DELEGATE \
 struct _Script_GameSparks_eventOnFindChallengeRequest_Response_Parms \
 { \
 	FGSFindChallengeResponse FindChallengeResponse; \
@@ -1191,7 +1191,7 @@ static inline void FOnFindChallengeRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1366_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1366_DELEGATE \
 struct _Script_GameSparks_eventOnFacebookConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -1206,7 +1206,7 @@ static inline void FOnFacebookConnectRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1313_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1313_DELEGATE \
 struct _Script_GameSparks_eventOnEndSessionRequest_Response_Parms \
 { \
 	FGSEndSessionResponse EndSessionResponse; \
@@ -1221,7 +1221,7 @@ static inline void FOnEndSessionRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1255_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1255_DELEGATE \
 struct _Script_GameSparks_eventOnDropTeamRequest_Response_Parms \
 { \
 	FGSDropTeamResponse DropTeamResponse; \
@@ -1236,7 +1236,7 @@ static inline void FOnDropTeamRequest_Response_DelegateWrapper(const FMulticastS
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1203_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1203_DELEGATE \
 struct _Script_GameSparks_eventOnDismissMultipleMessagesRequest_Response_Parms \
 { \
 	FGSDismissMultipleMessagesResponse DismissMultipleMessagesResponse; \
@@ -1251,7 +1251,7 @@ static inline void FOnDismissMultipleMessagesRequest_Response_DelegateWrapper(co
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1151_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1151_DELEGATE \
 struct _Script_GameSparks_eventOnDismissMessageRequest_Response_Parms \
 { \
 	FGSDismissMessageResponse DismissMessageResponse; \
@@ -1266,7 +1266,7 @@ static inline void FOnDismissMessageRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1070_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1070_DELEGATE \
 struct _Script_GameSparks_eventOnDeviceAuthenticationRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -1281,7 +1281,7 @@ static inline void FOnDeviceAuthenticationRequest_Response_DelegateWrapper(const
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1015_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1015_DELEGATE \
 struct _Script_GameSparks_eventOnDeclineChallengeRequest_Response_Parms \
 { \
 	FGSDeclineChallengeResponse DeclineChallengeResponse; \
@@ -1296,7 +1296,7 @@ static inline void FOnDeclineChallengeRequest_Response_DelegateWrapper(const FMu
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_957_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_957_DELEGATE \
 struct _Script_GameSparks_eventOnCreateTeamRequest_Response_Parms \
 { \
 	FGSCreateTeamResponse CreateTeamResponse; \
@@ -1311,7 +1311,7 @@ static inline void FOnCreateTeamRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_840_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_840_DELEGATE \
 struct _Script_GameSparks_eventOnCreateChallengeRequest_Response_Parms \
 { \
 	FGSCreateChallengeResponse CreateChallengeResponse; \
@@ -1326,7 +1326,7 @@ static inline void FOnCreateChallengeRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_785_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_785_DELEGATE \
 struct _Script_GameSparks_eventOnConsumeVirtualGoodRequest_Response_Parms \
 { \
 	FGSConsumeVirtualGoodResponse ConsumeVirtualGoodResponse; \
@@ -1341,7 +1341,7 @@ static inline void FOnConsumeVirtualGoodRequest_Response_DelegateWrapper(const F
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_726_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_726_DELEGATE \
 struct _Script_GameSparks_eventOnChatOnChallengeRequest_Response_Parms \
 { \
 	FGSChatOnChallengeResponse ChatOnChallengeResponse; \
@@ -1356,7 +1356,7 @@ static inline void FOnChatOnChallengeRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_662_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_662_DELEGATE \
 struct _Script_GameSparks_eventOnChangeUserDetailsRequest_Response_Parms \
 { \
 	FGSChangeUserDetailsResponse ChangeUserDetailsResponse; \
@@ -1371,7 +1371,7 @@ static inline void FOnChangeUserDetailsRequest_Response_DelegateWrapper(const FM
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_619_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_619_DELEGATE \
 struct _Script_GameSparks_eventOnCancelBulkJobAdminRequest_Response_Parms \
 { \
 	FGSCancelBulkJobAdminResponse CancelBulkJobAdminResponse; \
@@ -1386,7 +1386,7 @@ static inline void FOnCancelBulkJobAdminRequest_Response_DelegateWrapper(const F
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_558_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_558_DELEGATE \
 struct _Script_GameSparks_eventOnBuyVirtualGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -1401,7 +1401,7 @@ static inline void FOnBuyVirtualGoodsRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_512_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_512_DELEGATE \
 struct _Script_GameSparks_eventOnBatchAdminRequest_Response_Parms \
 { \
 	FGSBatchAdminResponse BatchAdminResponse; \
@@ -1416,7 +1416,7 @@ static inline void FOnBatchAdminRequest_Response_DelegateWrapper(const FMulticas
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_453_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_453_DELEGATE \
 struct _Script_GameSparks_eventOnAuthenticationRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -1431,7 +1431,7 @@ static inline void FOnAuthenticationRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_368_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_368_DELEGATE \
 struct _Script_GameSparks_eventOnAroundMeLeaderboardRequest_Response_Parms \
 { \
 	FGSAroundMeLeaderboardResponse AroundMeLeaderboardResponse; \
@@ -1446,7 +1446,7 @@ static inline void FOnAroundMeLeaderboardRequest_Response_DelegateWrapper(const 
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_283_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_283_DELEGATE \
 struct _Script_GameSparks_eventOnAnalyticsRequest_Response_Parms \
 { \
 	FGSAnalyticsResponse AnalyticsResponse; \
@@ -1461,7 +1461,7 @@ static inline void FOnAnalyticsRequest_Response_DelegateWrapper(const FMulticast
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_193_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_193_DELEGATE \
 struct _Script_GameSparks_eventOnAmazonConnectRequest_Response_Parms \
 { \
 	FGSAuthenticationResponse AuthenticationResponse; \
@@ -1476,7 +1476,7 @@ static inline void FOnAmazonConnectRequest_Response_DelegateWrapper(const FMulti
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_117_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_117_DELEGATE \
 struct _Script_GameSparks_eventOnAmazonBuyGoodsRequest_Response_Parms \
 { \
 	FGSBuyVirtualGoodResponse BuyVirtualGoodResponse; \
@@ -1491,7 +1491,7 @@ static inline void FOnAmazonBuyGoodsRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_68_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_68_DELEGATE \
 struct _Script_GameSparks_eventOnAccountDetailsRequest_Response_Parms \
 { \
 	FGSAccountDetailsResponse AccountDetailsResponse; \
@@ -1506,7 +1506,7 @@ static inline void FOnAccountDetailsRequest_Response_DelegateWrapper(const FMult
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_13_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_13_DELEGATE \
 struct _Script_GameSparks_eventOnAcceptChallengeRequest_Response_Parms \
 { \
 	FGSAcceptChallengeResponse AcceptChallengeResponse; \
@@ -1521,7 +1521,7 @@ static inline void FOnAcceptChallengeRequest_Response_DelegateWrapper(const FMul
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAcceptChallengeRequestOnBehalfOf) \
 	{ \
@@ -1551,7 +1551,7 @@ static inline void FOnAcceptChallengeRequest_Response_DelegateWrapper(const FMul
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAcceptChallengeRequestOnBehalfOf) \
 	{ \
@@ -1581,7 +1581,7 @@ static inline void FOnAcceptChallengeRequest_Response_DelegateWrapper(const FMul
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAcceptChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSAcceptChallengeRequest_Statics; \
@@ -1590,7 +1590,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAcceptChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAcceptChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSAcceptChallengeRequest_Statics; \
@@ -1599,7 +1599,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAcceptChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAcceptChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAcceptChallengeRequest) \
@@ -1612,7 +1612,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAcceptChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -1625,7 +1625,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAcceptChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAcceptChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSAcceptChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSAcceptChallengeRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSAcceptChallengeRequest, scriptData); } \
@@ -1634,30 +1634,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAcceptChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAcceptChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_15_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_15_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAccountDetailsRequestOnBehalfOf) \
 	{ \
@@ -1683,7 +1683,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAccountDetailsRequestOnBehalfOf) \
 	{ \
@@ -1709,7 +1709,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAccountDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSAccountDetailsRequest_Statics; \
@@ -1718,7 +1718,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAccountDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAccountDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSAccountDetailsRequest_Statics; \
@@ -1727,7 +1727,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAccountDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAccountDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAccountDetailsRequest) \
@@ -1740,7 +1740,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAccountDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -1753,37 +1753,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAccountDetailsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAccountDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSAccountDetailsRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSAccountDetailsRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSAccountDetailsRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAccountDetailsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_70_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_70_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_73_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAmazonBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -1819,7 +1819,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAmazonBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -1855,7 +1855,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAmazonBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSAmazonBuyGoodsRequest_Statics; \
@@ -1864,7 +1864,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAmazonBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAmazonBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSAmazonBuyGoodsRequest_Statics; \
@@ -1873,7 +1873,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAmazonBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAmazonBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAmazonBuyGoodsRequest) \
@@ -1886,7 +1886,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAmazonBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -1899,7 +1899,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAmazonBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAmazonBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__amazonUserId() { return STRUCT_OFFSET(UGSAmazonBuyGoodsRequest, amazonUserId); } \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSAmazonBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__receiptId() { return STRUCT_OFFSET(UGSAmazonBuyGoodsRequest, receiptId); } \
@@ -1911,30 +1911,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAmazonBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAmazonBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_119_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_119_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_122_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAmazonConnectRequestOnBehalfOf) \
 	{ \
@@ -1974,7 +1974,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAmazonConnectRequestOnBehalfOf) \
 	{ \
@@ -2014,7 +2014,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAmazonConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSAmazonConnectRequest_Statics; \
@@ -2023,7 +2023,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAmazonConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAmazonConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSAmazonConnectRequest_Statics; \
@@ -2032,7 +2032,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAmazonConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAmazonConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAmazonConnectRequest) \
@@ -2045,7 +2045,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAmazonConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2058,7 +2058,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAmazonConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAmazonConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSAmazonConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSAmazonConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSAmazonConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -2072,30 +2072,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAmazonConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAmazonConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_195_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_195_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_198_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAnalyticsRequestOnBehalfOf) \
 	{ \
@@ -2129,7 +2129,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAnalyticsRequestOnBehalfOf) \
 	{ \
@@ -2163,7 +2163,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAnalyticsRequest(); \
 	friend struct Z_Construct_UClass_UGSAnalyticsRequest_Statics; \
@@ -2172,7 +2172,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAnalyticsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAnalyticsRequest(); \
 	friend struct Z_Construct_UClass_UGSAnalyticsRequest_Statics; \
@@ -2181,7 +2181,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAnalyticsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAnalyticsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAnalyticsRequest) \
@@ -2194,7 +2194,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAnalyticsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2207,7 +2207,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAnalyticsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAnalyticsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__data() { return STRUCT_OFFSET(UGSAnalyticsRequest, data); } \
 	FORCEINLINE static uint32 __PPO__end() { return STRUCT_OFFSET(UGSAnalyticsRequest, end); } \
 	FORCEINLINE static uint32 __PPO__key() { return STRUCT_OFFSET(UGSAnalyticsRequest, key); } \
@@ -2218,30 +2218,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAnalyticsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAnalyticsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_285_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_285_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_288_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAroundMeLeaderboardRequestOnBehalfOf) \
 	{ \
@@ -2291,7 +2291,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAroundMeLeaderboardRequestOnBehalfOf) \
 	{ \
@@ -2341,7 +2341,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAroundMeLeaderboardRequest(); \
 	friend struct Z_Construct_UClass_UGSAroundMeLeaderboardRequest_Statics; \
@@ -2350,7 +2350,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAroundMeLeaderboardRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAroundMeLeaderboardRequest(); \
 	friend struct Z_Construct_UClass_UGSAroundMeLeaderboardRequest_Statics; \
@@ -2359,7 +2359,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAroundMeLeaderboardRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAroundMeLeaderboardRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAroundMeLeaderboardRequest) \
@@ -2372,7 +2372,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAroundMeLeaderboardRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2385,7 +2385,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAroundMeLeaderboardRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAroundMeLeaderboardRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSAroundMeLeaderboardRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__customIdFilter() { return STRUCT_OFFSET(UGSAroundMeLeaderboardRequest, customIdFilter); } \
 	FORCEINLINE static uint32 __PPO__dontErrorOnNotSocial() { return STRUCT_OFFSET(UGSAroundMeLeaderboardRequest, dontErrorOnNotSocial); } \
@@ -2404,30 +2404,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAroundMeLeaderboardRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAroundMeLeaderboardRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_370_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_370_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_373_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendAuthenticationRequestOnBehalfOf) \
 	{ \
@@ -2457,7 +2457,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendAuthenticationRequestOnBehalfOf) \
 	{ \
@@ -2487,7 +2487,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSAuthenticationRequest(); \
 	friend struct Z_Construct_UClass_UGSAuthenticationRequest_Statics; \
@@ -2496,7 +2496,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSAuthenticationRequest(); \
 	friend struct Z_Construct_UClass_UGSAuthenticationRequest_Statics; \
@@ -2505,7 +2505,7 @@ public: \
 	DECLARE_SERIALIZER(UGSAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAuthenticationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAuthenticationRequest) \
@@ -2518,7 +2518,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSAuthenticationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2531,7 +2531,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAuthenticationRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__password() { return STRUCT_OFFSET(UGSAuthenticationRequest, password); } \
 	FORCEINLINE static uint32 __PPO__userName() { return STRUCT_OFFSET(UGSAuthenticationRequest, userName); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSAuthenticationRequest, scriptData); } \
@@ -2540,30 +2540,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSAuthenticationRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSAuthenticationRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_455_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_455_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_458_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendBatchAdminRequest) \
 	{ \
@@ -2579,7 +2579,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendBatchAdminRequest) \
 	{ \
@@ -2595,7 +2595,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSBatchAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSBatchAdminRequest_Statics; \
@@ -2604,7 +2604,7 @@ public: \
 	DECLARE_SERIALIZER(UGSBatchAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSBatchAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSBatchAdminRequest_Statics; \
@@ -2613,7 +2613,7 @@ public: \
 	DECLARE_SERIALIZER(UGSBatchAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSBatchAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSBatchAdminRequest) \
@@ -2626,7 +2626,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSBatchAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2639,7 +2639,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSBatchAdminRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSBatchAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__playerIds() { return STRUCT_OFFSET(UGSBatchAdminRequest, playerIds); } \
 	FORCEINLINE static uint32 __PPO__request() { return STRUCT_OFFSET(UGSBatchAdminRequest, request); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSBatchAdminRequest, scriptData); } \
@@ -2647,30 +2647,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSBatchAdminRequest); \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSBatchAdminRequest, requestTimeoutSeconds); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_514_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_514_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_517_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendBuyVirtualGoodsRequestOnBehalfOf) \
 	{ \
@@ -2704,7 +2704,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendBuyVirtualGoodsRequestOnBehalfOf) \
 	{ \
@@ -2738,7 +2738,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSBuyVirtualGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSBuyVirtualGoodsRequest_Statics; \
@@ -2747,7 +2747,7 @@ public: \
 	DECLARE_SERIALIZER(UGSBuyVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSBuyVirtualGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSBuyVirtualGoodsRequest_Statics; \
@@ -2756,7 +2756,7 @@ public: \
 	DECLARE_SERIALIZER(UGSBuyVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSBuyVirtualGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSBuyVirtualGoodsRequest) \
@@ -2769,7 +2769,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSBuyVirtualGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2782,7 +2782,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSBuyVirtualGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSBuyVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__currencyShortCode() { return STRUCT_OFFSET(UGSBuyVirtualGoodsRequest, currencyShortCode); } \
 	FORCEINLINE static uint32 __PPO__currencyType() { return STRUCT_OFFSET(UGSBuyVirtualGoodsRequest, currencyType); } \
 	FORCEINLINE static uint32 __PPO__quantity() { return STRUCT_OFFSET(UGSBuyVirtualGoodsRequest, quantity); } \
@@ -2793,30 +2793,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSBuyVirtualGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSBuyVirtualGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_560_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_560_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_563_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendCancelBulkJobAdminRequest) \
 	{ \
@@ -2831,7 +2831,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendCancelBulkJobAdminRequest) \
 	{ \
@@ -2846,7 +2846,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSCancelBulkJobAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSCancelBulkJobAdminRequest_Statics; \
@@ -2855,7 +2855,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCancelBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSCancelBulkJobAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSCancelBulkJobAdminRequest_Statics; \
@@ -2864,7 +2864,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCancelBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCancelBulkJobAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCancelBulkJobAdminRequest) \
@@ -2877,7 +2877,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCancelBulkJobAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -2890,37 +2890,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSCancelBulkJobAdminRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCancelBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__bulkJobIds() { return STRUCT_OFFSET(UGSCancelBulkJobAdminRequest, bulkJobIds); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSCancelBulkJobAdminRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSCancelBulkJobAdminRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSCancelBulkJobAdminRequest, requestTimeoutSeconds); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_621_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_621_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_624_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendChangeUserDetailsRequestOnBehalfOf) \
 	{ \
@@ -2956,7 +2956,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendChangeUserDetailsRequestOnBehalfOf) \
 	{ \
@@ -2992,7 +2992,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSChangeUserDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSChangeUserDetailsRequest_Statics; \
@@ -3001,7 +3001,7 @@ public: \
 	DECLARE_SERIALIZER(UGSChangeUserDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSChangeUserDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSChangeUserDetailsRequest_Statics; \
@@ -3010,7 +3010,7 @@ public: \
 	DECLARE_SERIALIZER(UGSChangeUserDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSChangeUserDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSChangeUserDetailsRequest) \
@@ -3023,7 +3023,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSChangeUserDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3036,7 +3036,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSChangeUserDetailsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSChangeUserDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSChangeUserDetailsRequest, displayName); } \
 	FORCEINLINE static uint32 __PPO__language() { return STRUCT_OFFSET(UGSChangeUserDetailsRequest, language); } \
 	FORCEINLINE static uint32 __PPO__newPassword() { return STRUCT_OFFSET(UGSChangeUserDetailsRequest, newPassword); } \
@@ -3048,30 +3048,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSChangeUserDetailsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSChangeUserDetailsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_664_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_664_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_667_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendChatOnChallengeRequestOnBehalfOf) \
 	{ \
@@ -3101,7 +3101,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendChatOnChallengeRequestOnBehalfOf) \
 	{ \
@@ -3131,7 +3131,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSChatOnChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSChatOnChallengeRequest_Statics; \
@@ -3140,7 +3140,7 @@ public: \
 	DECLARE_SERIALIZER(UGSChatOnChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSChatOnChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSChatOnChallengeRequest_Statics; \
@@ -3149,7 +3149,7 @@ public: \
 	DECLARE_SERIALIZER(UGSChatOnChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSChatOnChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSChatOnChallengeRequest) \
@@ -3162,7 +3162,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSChatOnChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3175,7 +3175,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSChatOnChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSChatOnChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSChatOnChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSChatOnChallengeRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSChatOnChallengeRequest, scriptData); } \
@@ -3184,30 +3184,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSChatOnChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSChatOnChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_728_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_728_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_731_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendConsumeVirtualGoodRequestOnBehalfOf) \
 	{ \
@@ -3237,7 +3237,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendConsumeVirtualGoodRequestOnBehalfOf) \
 	{ \
@@ -3267,7 +3267,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSConsumeVirtualGoodRequest(); \
 	friend struct Z_Construct_UClass_UGSConsumeVirtualGoodRequest_Statics; \
@@ -3276,7 +3276,7 @@ public: \
 	DECLARE_SERIALIZER(UGSConsumeVirtualGoodRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSConsumeVirtualGoodRequest(); \
 	friend struct Z_Construct_UClass_UGSConsumeVirtualGoodRequest_Statics; \
@@ -3285,7 +3285,7 @@ public: \
 	DECLARE_SERIALIZER(UGSConsumeVirtualGoodRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSConsumeVirtualGoodRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSConsumeVirtualGoodRequest) \
@@ -3298,7 +3298,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSConsumeVirtualGoodRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3311,7 +3311,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSConsumeVirtualGoodRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSConsumeVirtualGoodRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__quantity() { return STRUCT_OFFSET(UGSConsumeVirtualGoodRequest, quantity); } \
 	FORCEINLINE static uint32 __PPO__shortCode() { return STRUCT_OFFSET(UGSConsumeVirtualGoodRequest, shortCode); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSConsumeVirtualGoodRequest, scriptData); } \
@@ -3320,30 +3320,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSConsumeVirtualGoodRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSConsumeVirtualGoodRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_787_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_787_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_790_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendCreateChallengeRequestOnBehalfOf) \
 	{ \
@@ -3409,7 +3409,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendCreateChallengeRequestOnBehalfOf) \
 	{ \
@@ -3475,7 +3475,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSCreateChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSCreateChallengeRequest_Statics; \
@@ -3484,7 +3484,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCreateChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSCreateChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSCreateChallengeRequest_Statics; \
@@ -3493,7 +3493,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCreateChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCreateChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCreateChallengeRequest) \
@@ -3506,7 +3506,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCreateChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3519,7 +3519,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSCreateChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCreateChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessType() { return STRUCT_OFFSET(UGSCreateChallengeRequest, accessType); } \
 	FORCEINLINE static uint32 __PPO__autoStartJoinedChallengeOnMaxPlayers() { return STRUCT_OFFSET(UGSCreateChallengeRequest, autoStartJoinedChallengeOnMaxPlayers); } \
 	FORCEINLINE static uint32 __PPO__challengeMessage() { return STRUCT_OFFSET(UGSCreateChallengeRequest, challengeMessage); } \
@@ -3546,30 +3546,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSCreateChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSCreateChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_842_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_842_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_845_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendCreateTeamRequestOnBehalfOf) \
 	{ \
@@ -3601,7 +3601,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendCreateTeamRequestOnBehalfOf) \
 	{ \
@@ -3633,7 +3633,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSCreateTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSCreateTeamRequest_Statics; \
@@ -3642,7 +3642,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCreateTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSCreateTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSCreateTeamRequest_Statics; \
@@ -3651,7 +3651,7 @@ public: \
 	DECLARE_SERIALIZER(UGSCreateTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCreateTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCreateTeamRequest) \
@@ -3664,7 +3664,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSCreateTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3677,7 +3677,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSCreateTeamRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSCreateTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSCreateTeamRequest, teamId); } \
 	FORCEINLINE static uint32 __PPO__teamName() { return STRUCT_OFFSET(UGSCreateTeamRequest, teamName); } \
 	FORCEINLINE static uint32 __PPO__teamType() { return STRUCT_OFFSET(UGSCreateTeamRequest, teamType); } \
@@ -3687,30 +3687,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSCreateTeamRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSCreateTeamRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_959_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_959_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_962_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendDeclineChallengeRequestOnBehalfOf) \
 	{ \
@@ -3740,7 +3740,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendDeclineChallengeRequestOnBehalfOf) \
 	{ \
@@ -3770,7 +3770,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSDeclineChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSDeclineChallengeRequest_Statics; \
@@ -3779,7 +3779,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDeclineChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSDeclineChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSDeclineChallengeRequest_Statics; \
@@ -3788,7 +3788,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDeclineChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDeclineChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDeclineChallengeRequest) \
@@ -3801,7 +3801,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDeclineChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3814,7 +3814,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDeclineChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDeclineChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSDeclineChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSDeclineChallengeRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSDeclineChallengeRequest, scriptData); } \
@@ -3823,30 +3823,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDeclineChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSDeclineChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1017_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1017_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1020_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendDeviceAuthenticationRequestOnBehalfOf) \
 	{ \
@@ -3888,7 +3888,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendDeviceAuthenticationRequestOnBehalfOf) \
 	{ \
@@ -3930,7 +3930,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSDeviceAuthenticationRequest(); \
 	friend struct Z_Construct_UClass_UGSDeviceAuthenticationRequest_Statics; \
@@ -3939,7 +3939,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDeviceAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSDeviceAuthenticationRequest(); \
 	friend struct Z_Construct_UClass_UGSDeviceAuthenticationRequest_Statics; \
@@ -3948,7 +3948,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDeviceAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDeviceAuthenticationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDeviceAuthenticationRequest) \
@@ -3961,7 +3961,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDeviceAuthenticationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3974,7 +3974,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDeviceAuthenticationRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDeviceAuthenticationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__deviceId() { return STRUCT_OFFSET(UGSDeviceAuthenticationRequest, deviceId); } \
 	FORCEINLINE static uint32 __PPO__deviceModel() { return STRUCT_OFFSET(UGSDeviceAuthenticationRequest, deviceModel); } \
 	FORCEINLINE static uint32 __PPO__deviceName() { return STRUCT_OFFSET(UGSDeviceAuthenticationRequest, deviceName); } \
@@ -3989,30 +3989,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDeviceAuthenticationRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSDeviceAuthenticationRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1072_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1072_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1075_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendDismissMessageRequestOnBehalfOf) \
 	{ \
@@ -4040,7 +4040,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendDismissMessageRequestOnBehalfOf) \
 	{ \
@@ -4068,7 +4068,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSDismissMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSDismissMessageRequest_Statics; \
@@ -4077,7 +4077,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDismissMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSDismissMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSDismissMessageRequest_Statics; \
@@ -4086,7 +4086,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDismissMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDismissMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDismissMessageRequest) \
@@ -4099,7 +4099,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDismissMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4112,7 +4112,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDismissMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDismissMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__messageId() { return STRUCT_OFFSET(UGSDismissMessageRequest, messageId); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSDismissMessageRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSDismissMessageRequest, durable); } \
@@ -4120,30 +4120,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDismissMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSDismissMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1153_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1153_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1156_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendDismissMultipleMessagesRequestOnBehalfOf) \
 	{ \
@@ -4171,7 +4171,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendDismissMultipleMessagesRequestOnBehalfOf) \
 	{ \
@@ -4199,7 +4199,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSDismissMultipleMessagesRequest(); \
 	friend struct Z_Construct_UClass_UGSDismissMultipleMessagesRequest_Statics; \
@@ -4208,7 +4208,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDismissMultipleMessagesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSDismissMultipleMessagesRequest(); \
 	friend struct Z_Construct_UClass_UGSDismissMultipleMessagesRequest_Statics; \
@@ -4217,7 +4217,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDismissMultipleMessagesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDismissMultipleMessagesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDismissMultipleMessagesRequest) \
@@ -4230,7 +4230,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDismissMultipleMessagesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4243,7 +4243,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDismissMultipleMessagesRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDismissMultipleMessagesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__messageIds() { return STRUCT_OFFSET(UGSDismissMultipleMessagesRequest, messageIds); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSDismissMultipleMessagesRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSDismissMultipleMessagesRequest, durable); } \
@@ -4251,30 +4251,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDismissMultipleMessagesRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSDismissMultipleMessagesRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1205_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1205_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1208_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendDropTeamRequestOnBehalfOf) \
 	{ \
@@ -4306,7 +4306,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendDropTeamRequestOnBehalfOf) \
 	{ \
@@ -4338,7 +4338,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSDropTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSDropTeamRequest_Statics; \
@@ -4347,7 +4347,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDropTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSDropTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSDropTeamRequest_Statics; \
@@ -4356,7 +4356,7 @@ public: \
 	DECLARE_SERIALIZER(UGSDropTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDropTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDropTeamRequest) \
@@ -4369,7 +4369,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSDropTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4382,7 +4382,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDropTeamRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSDropTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSDropTeamRequest, ownerId); } \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSDropTeamRequest, teamId); } \
 	FORCEINLINE static uint32 __PPO__teamType() { return STRUCT_OFFSET(UGSDropTeamRequest, teamType); } \
@@ -4392,30 +4392,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSDropTeamRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSDropTeamRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1257_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1257_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1260_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendEndSessionRequestOnBehalfOf) \
 	{ \
@@ -4441,7 +4441,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendEndSessionRequestOnBehalfOf) \
 	{ \
@@ -4467,7 +4467,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSEndSessionRequest(); \
 	friend struct Z_Construct_UClass_UGSEndSessionRequest_Statics; \
@@ -4476,7 +4476,7 @@ public: \
 	DECLARE_SERIALIZER(UGSEndSessionRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSEndSessionRequest(); \
 	friend struct Z_Construct_UClass_UGSEndSessionRequest_Statics; \
@@ -4485,7 +4485,7 @@ public: \
 	DECLARE_SERIALIZER(UGSEndSessionRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSEndSessionRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSEndSessionRequest) \
@@ -4498,7 +4498,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSEndSessionRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4511,37 +4511,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSEndSessionRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSEndSessionRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSEndSessionRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSEndSessionRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSEndSessionRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSEndSessionRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1315_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1315_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1318_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendFacebookConnectRequestOnBehalfOf) \
 	{ \
@@ -4583,7 +4583,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendFacebookConnectRequestOnBehalfOf) \
 	{ \
@@ -4625,7 +4625,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSFacebookConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSFacebookConnectRequest_Statics; \
@@ -4634,7 +4634,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFacebookConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSFacebookConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSFacebookConnectRequest_Statics; \
@@ -4643,7 +4643,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFacebookConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFacebookConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFacebookConnectRequest) \
@@ -4656,7 +4656,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFacebookConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4669,7 +4669,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFacebookConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFacebookConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSFacebookConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__code() { return STRUCT_OFFSET(UGSFacebookConnectRequest, code); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSFacebookConnectRequest, doNotCreateNewPlayer); } \
@@ -4684,30 +4684,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFacebookConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSFacebookConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1368_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1368_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1371_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendFindChallengeRequestOnBehalfOf) \
 	{ \
@@ -4743,7 +4743,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendFindChallengeRequestOnBehalfOf) \
 	{ \
@@ -4779,7 +4779,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSFindChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSFindChallengeRequest_Statics; \
@@ -4788,7 +4788,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSFindChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSFindChallengeRequest_Statics; \
@@ -4797,7 +4797,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindChallengeRequest) \
@@ -4810,7 +4810,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4823,7 +4823,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessType() { return STRUCT_OFFSET(UGSFindChallengeRequest, accessType); } \
 	FORCEINLINE static uint32 __PPO__count() { return STRUCT_OFFSET(UGSFindChallengeRequest, count); } \
 	FORCEINLINE static uint32 __PPO__eligibility() { return STRUCT_OFFSET(UGSFindChallengeRequest, eligibility); } \
@@ -4835,30 +4835,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSFindChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1465_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1465_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1468_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendFindMatchRequestOnBehalfOf) \
 	{ \
@@ -4892,7 +4892,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendFindMatchRequestOnBehalfOf) \
 	{ \
@@ -4926,7 +4926,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSFindMatchRequest(); \
 	friend struct Z_Construct_UClass_UGSFindMatchRequest_Statics; \
@@ -4935,7 +4935,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSFindMatchRequest(); \
 	friend struct Z_Construct_UClass_UGSFindMatchRequest_Statics; \
@@ -4944,7 +4944,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindMatchRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindMatchRequest) \
@@ -4957,7 +4957,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindMatchRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -4970,7 +4970,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindMatchRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__action() { return STRUCT_OFFSET(UGSFindMatchRequest, action); } \
 	FORCEINLINE static uint32 __PPO__matchGroup() { return STRUCT_OFFSET(UGSFindMatchRequest, matchGroup); } \
 	FORCEINLINE static uint32 __PPO__matchShortCode() { return STRUCT_OFFSET(UGSFindMatchRequest, matchShortCode); } \
@@ -4981,30 +4981,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindMatchRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSFindMatchRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1529_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1529_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1532_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendFindPendingMatchesRequestOnBehalfOf) \
 	{ \
@@ -5036,7 +5036,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendFindPendingMatchesRequestOnBehalfOf) \
 	{ \
@@ -5068,7 +5068,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSFindPendingMatchesRequest(); \
 	friend struct Z_Construct_UClass_UGSFindPendingMatchesRequest_Statics; \
@@ -5077,7 +5077,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindPendingMatchesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSFindPendingMatchesRequest(); \
 	friend struct Z_Construct_UClass_UGSFindPendingMatchesRequest_Statics; \
@@ -5086,7 +5086,7 @@ public: \
 	DECLARE_SERIALIZER(UGSFindPendingMatchesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindPendingMatchesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindPendingMatchesRequest) \
@@ -5099,7 +5099,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSFindPendingMatchesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5112,7 +5112,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindPendingMatchesRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSFindPendingMatchesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__matchGroup() { return STRUCT_OFFSET(UGSFindPendingMatchesRequest, matchGroup); } \
 	FORCEINLINE static uint32 __PPO__matchShortCode() { return STRUCT_OFFSET(UGSFindPendingMatchesRequest, matchShortCode); } \
 	FORCEINLINE static uint32 __PPO__maxMatchesToFind() { return STRUCT_OFFSET(UGSFindPendingMatchesRequest, maxMatchesToFind); } \
@@ -5122,30 +5122,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSFindPendingMatchesRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSFindPendingMatchesRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1602_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1602_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1605_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGameCenterConnectRequestOnBehalfOf) \
 	{ \
@@ -5195,7 +5195,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGameCenterConnectRequestOnBehalfOf) \
 	{ \
@@ -5245,7 +5245,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGameCenterConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGameCenterConnectRequest_Statics; \
@@ -5254,7 +5254,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGameCenterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGameCenterConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGameCenterConnectRequest_Statics; \
@@ -5263,7 +5263,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGameCenterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGameCenterConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGameCenterConnectRequest) \
@@ -5276,7 +5276,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGameCenterConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5289,7 +5289,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGameCenterConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGameCenterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSGameCenterConnectRequest, displayName); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSGameCenterConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSGameCenterConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -5308,30 +5308,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGameCenterConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGameCenterConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1668_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1668_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1671_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetChallengeRequestOnBehalfOf) \
 	{ \
@@ -5361,7 +5361,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetChallengeRequestOnBehalfOf) \
 	{ \
@@ -5391,7 +5391,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSGetChallengeRequest_Statics; \
@@ -5400,7 +5400,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSGetChallengeRequest_Statics; \
@@ -5409,7 +5409,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetChallengeRequest) \
@@ -5422,7 +5422,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5435,7 +5435,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSGetChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSGetChallengeRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetChallengeRequest, scriptData); } \
@@ -5444,30 +5444,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1777_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1777_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1780_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetDownloadableRequestOnBehalfOf) \
 	{ \
@@ -5495,7 +5495,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetDownloadableRequestOnBehalfOf) \
 	{ \
@@ -5523,7 +5523,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetDownloadableRequest(); \
 	friend struct Z_Construct_UClass_UGSGetDownloadableRequest_Statics; \
@@ -5532,7 +5532,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetDownloadableRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetDownloadableRequest(); \
 	friend struct Z_Construct_UClass_UGSGetDownloadableRequest_Statics; \
@@ -5541,7 +5541,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetDownloadableRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetDownloadableRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetDownloadableRequest) \
@@ -5554,7 +5554,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetDownloadableRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5567,7 +5567,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetDownloadableRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetDownloadableRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__shortCode() { return STRUCT_OFFSET(UGSGetDownloadableRequest, shortCode); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetDownloadableRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetDownloadableRequest, durable); } \
@@ -5575,30 +5575,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetDownloadableRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetDownloadableRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1832_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1832_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1835_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetLeaderboardEntriesRequestOnBehalfOf) \
 	{ \
@@ -5636,7 +5636,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetLeaderboardEntriesRequestOnBehalfOf) \
 	{ \
@@ -5674,7 +5674,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetLeaderboardEntriesRequest(); \
 	friend struct Z_Construct_UClass_UGSGetLeaderboardEntriesRequest_Statics; \
@@ -5683,7 +5683,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetLeaderboardEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetLeaderboardEntriesRequest(); \
 	friend struct Z_Construct_UClass_UGSGetLeaderboardEntriesRequest_Statics; \
@@ -5692,7 +5692,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetLeaderboardEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetLeaderboardEntriesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetLeaderboardEntriesRequest) \
@@ -5705,7 +5705,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetLeaderboardEntriesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5718,7 +5718,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetLeaderboardEntriesRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetLeaderboardEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challenges() { return STRUCT_OFFSET(UGSGetLeaderboardEntriesRequest, challenges); } \
 	FORCEINLINE static uint32 __PPO__inverseSocial() { return STRUCT_OFFSET(UGSGetLeaderboardEntriesRequest, inverseSocial); } \
 	FORCEINLINE static uint32 __PPO__leaderboards() { return STRUCT_OFFSET(UGSGetLeaderboardEntriesRequest, leaderboards); } \
@@ -5731,30 +5731,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetLeaderboardEntriesRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetLeaderboardEntriesRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1884_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1884_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1887_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetMessageRequestOnBehalfOf) \
 	{ \
@@ -5782,7 +5782,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetMessageRequestOnBehalfOf) \
 	{ \
@@ -5810,7 +5810,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSGetMessageRequest_Statics; \
@@ -5819,7 +5819,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSGetMessageRequest_Statics; \
@@ -5828,7 +5828,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetMessageRequest) \
@@ -5841,7 +5841,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5854,7 +5854,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__messageId() { return STRUCT_OFFSET(UGSGetMessageRequest, messageId); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetMessageRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetMessageRequest, durable); } \
@@ -5862,30 +5862,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1955_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1955_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_1958_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetMyTeamsRequestOnBehalfOf) \
 	{ \
@@ -5915,7 +5915,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetMyTeamsRequestOnBehalfOf) \
 	{ \
@@ -5945,7 +5945,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetMyTeamsRequest(); \
 	friend struct Z_Construct_UClass_UGSGetMyTeamsRequest_Statics; \
@@ -5954,7 +5954,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetMyTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetMyTeamsRequest(); \
 	friend struct Z_Construct_UClass_UGSGetMyTeamsRequest_Statics; \
@@ -5963,7 +5963,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetMyTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetMyTeamsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetMyTeamsRequest) \
@@ -5976,7 +5976,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetMyTeamsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -5989,7 +5989,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetMyTeamsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetMyTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ownedOnly() { return STRUCT_OFFSET(UGSGetMyTeamsRequest, ownedOnly); } \
 	FORCEINLINE static uint32 __PPO__teamTypes() { return STRUCT_OFFSET(UGSGetMyTeamsRequest, teamTypes); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetMyTeamsRequest, scriptData); } \
@@ -5998,30 +5998,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetMyTeamsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetMyTeamsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2007_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2007_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2010_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetPropertyRequestOnBehalfOf) \
 	{ \
@@ -6049,7 +6049,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetPropertyRequestOnBehalfOf) \
 	{ \
@@ -6077,7 +6077,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetPropertyRequest(); \
 	friend struct Z_Construct_UClass_UGSGetPropertyRequest_Statics; \
@@ -6086,7 +6086,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetPropertyRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetPropertyRequest(); \
 	friend struct Z_Construct_UClass_UGSGetPropertyRequest_Statics; \
@@ -6095,7 +6095,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetPropertyRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetPropertyRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetPropertyRequest) \
@@ -6108,7 +6108,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetPropertyRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6121,7 +6121,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetPropertyRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetPropertyRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__propertyShortCode() { return STRUCT_OFFSET(UGSGetPropertyRequest, propertyShortCode); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetPropertyRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetPropertyRequest, durable); } \
@@ -6129,30 +6129,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetPropertyRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetPropertyRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2062_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2062_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2065_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetPropertySetRequestOnBehalfOf) \
 	{ \
@@ -6180,7 +6180,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetPropertySetRequestOnBehalfOf) \
 	{ \
@@ -6208,7 +6208,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetPropertySetRequest(); \
 	friend struct Z_Construct_UClass_UGSGetPropertySetRequest_Statics; \
@@ -6217,7 +6217,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetPropertySetRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetPropertySetRequest(); \
 	friend struct Z_Construct_UClass_UGSGetPropertySetRequest_Statics; \
@@ -6226,7 +6226,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetPropertySetRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetPropertySetRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetPropertySetRequest) \
@@ -6239,7 +6239,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetPropertySetRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6252,7 +6252,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetPropertySetRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetPropertySetRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__propertySetShortCode() { return STRUCT_OFFSET(UGSGetPropertySetRequest, propertySetShortCode); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetPropertySetRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetPropertySetRequest, durable); } \
@@ -6260,30 +6260,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetPropertySetRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetPropertySetRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2114_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2114_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2117_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetTeamRequestOnBehalfOf) \
 	{ \
@@ -6315,7 +6315,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetTeamRequestOnBehalfOf) \
 	{ \
@@ -6347,7 +6347,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSGetTeamRequest_Statics; \
@@ -6356,7 +6356,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSGetTeamRequest_Statics; \
@@ -6365,7 +6365,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetTeamRequest) \
@@ -6378,7 +6378,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6391,7 +6391,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetTeamRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSGetTeamRequest, ownerId); } \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSGetTeamRequest, teamId); } \
 	FORCEINLINE static uint32 __PPO__teamType() { return STRUCT_OFFSET(UGSGetTeamRequest, teamType); } \
@@ -6401,30 +6401,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetTeamRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetTeamRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2166_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2166_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2169_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetUploadUrlRequestOnBehalfOf) \
 	{ \
@@ -6452,7 +6452,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetUploadUrlRequestOnBehalfOf) \
 	{ \
@@ -6480,7 +6480,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetUploadUrlRequest(); \
 	friend struct Z_Construct_UClass_UGSGetUploadUrlRequest_Statics; \
@@ -6489,7 +6489,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetUploadUrlRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetUploadUrlRequest(); \
 	friend struct Z_Construct_UClass_UGSGetUploadUrlRequest_Statics; \
@@ -6498,7 +6498,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetUploadUrlRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetUploadUrlRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetUploadUrlRequest) \
@@ -6511,7 +6511,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetUploadUrlRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6524,7 +6524,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetUploadUrlRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetUploadUrlRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__uploadData() { return STRUCT_OFFSET(UGSGetUploadUrlRequest, uploadData); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetUploadUrlRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetUploadUrlRequest, durable); } \
@@ -6532,30 +6532,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetUploadUrlRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetUploadUrlRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2224_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2224_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2227_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGetUploadedRequestOnBehalfOf) \
 	{ \
@@ -6583,7 +6583,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGetUploadedRequestOnBehalfOf) \
 	{ \
@@ -6611,7 +6611,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGetUploadedRequest(); \
 	friend struct Z_Construct_UClass_UGSGetUploadedRequest_Statics; \
@@ -6620,7 +6620,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetUploadedRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGetUploadedRequest(); \
 	friend struct Z_Construct_UClass_UGSGetUploadedRequest_Statics; \
@@ -6629,7 +6629,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGetUploadedRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetUploadedRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetUploadedRequest) \
@@ -6642,7 +6642,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGetUploadedRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6655,7 +6655,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetUploadedRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGetUploadedRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__uploadId() { return STRUCT_OFFSET(UGSGetUploadedRequest, uploadId); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSGetUploadedRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSGetUploadedRequest, durable); } \
@@ -6663,30 +6663,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGetUploadedRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGetUploadedRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2276_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2276_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2279_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGooglePlayBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -6722,7 +6722,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGooglePlayBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -6758,7 +6758,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlayBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlayBuyGoodsRequest_Statics; \
@@ -6767,7 +6767,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlayBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlayBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlayBuyGoodsRequest_Statics; \
@@ -6776,7 +6776,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlayBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlayBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlayBuyGoodsRequest) \
@@ -6789,7 +6789,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlayBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6802,7 +6802,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlayBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlayBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSGooglePlayBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__signature() { return STRUCT_OFFSET(UGSGooglePlayBuyGoodsRequest, signature); } \
 	FORCEINLINE static uint32 __PPO__signedData() { return STRUCT_OFFSET(UGSGooglePlayBuyGoodsRequest, signedData); } \
@@ -6814,30 +6814,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlayBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGooglePlayBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2328_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2328_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2331_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGooglePlayConnectRequestOnBehalfOf) \
 	{ \
@@ -6887,7 +6887,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGooglePlayConnectRequestOnBehalfOf) \
 	{ \
@@ -6937,7 +6937,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlayConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlayConnectRequest_Statics; \
@@ -6946,7 +6946,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlayConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlayConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlayConnectRequest_Statics; \
@@ -6955,7 +6955,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlayConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlayConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlayConnectRequest) \
@@ -6968,7 +6968,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlayConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -6981,7 +6981,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlayConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlayConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSGooglePlayConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__code() { return STRUCT_OFFSET(UGSGooglePlayConnectRequest, code); } \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSGooglePlayConnectRequest, displayName); } \
@@ -7000,30 +7000,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlayConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGooglePlayConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2408_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2408_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2411_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendGooglePlusConnectRequestOnBehalfOf) \
 	{ \
@@ -7067,7 +7067,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendGooglePlusConnectRequestOnBehalfOf) \
 	{ \
@@ -7111,7 +7111,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlusConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlusConnectRequest_Statics; \
@@ -7120,7 +7120,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlusConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSGooglePlusConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSGooglePlusConnectRequest_Statics; \
@@ -7129,7 +7129,7 @@ public: \
 	DECLARE_SERIALIZER(UGSGooglePlusConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlusConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlusConnectRequest) \
@@ -7142,7 +7142,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSGooglePlusConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7155,7 +7155,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlusConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSGooglePlusConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSGooglePlusConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__code() { return STRUCT_OFFSET(UGSGooglePlusConnectRequest, code); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSGooglePlusConnectRequest, doNotCreateNewPlayer); } \
@@ -7171,30 +7171,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSGooglePlusConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSGooglePlusConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2517_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2517_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2520_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendIOSBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -7230,7 +7230,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendIOSBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -7266,7 +7266,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSIOSBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSIOSBuyGoodsRequest_Statics; \
@@ -7275,7 +7275,7 @@ public: \
 	DECLARE_SERIALIZER(UGSIOSBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSIOSBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSIOSBuyGoodsRequest_Statics; \
@@ -7284,7 +7284,7 @@ public: \
 	DECLARE_SERIALIZER(UGSIOSBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSIOSBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSIOSBuyGoodsRequest) \
@@ -7297,7 +7297,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSIOSBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7310,7 +7310,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSIOSBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSIOSBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSIOSBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__receipt() { return STRUCT_OFFSET(UGSIOSBuyGoodsRequest, receipt); } \
 	FORCEINLINE static uint32 __PPO__sandbox() { return STRUCT_OFFSET(UGSIOSBuyGoodsRequest, sandbox); } \
@@ -7322,30 +7322,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSIOSBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSIOSBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2617_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2617_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2620_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendJoinChallengeRequestOnBehalfOf) \
 	{ \
@@ -7377,7 +7377,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendJoinChallengeRequestOnBehalfOf) \
 	{ \
@@ -7409,7 +7409,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSJoinChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinChallengeRequest_Statics; \
@@ -7418,7 +7418,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSJoinChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinChallengeRequest_Statics; \
@@ -7427,7 +7427,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinChallengeRequest) \
@@ -7440,7 +7440,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7453,7 +7453,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSJoinChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__eligibility() { return STRUCT_OFFSET(UGSJoinChallengeRequest, eligibility); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSJoinChallengeRequest, message); } \
@@ -7463,30 +7463,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSJoinChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2689_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2689_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2692_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendJoinPendingMatchRequestOnBehalfOf) \
 	{ \
@@ -7518,7 +7518,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendJoinPendingMatchRequestOnBehalfOf) \
 	{ \
@@ -7550,7 +7550,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSJoinPendingMatchRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinPendingMatchRequest_Statics; \
@@ -7559,7 +7559,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinPendingMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSJoinPendingMatchRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinPendingMatchRequest_Statics; \
@@ -7568,7 +7568,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinPendingMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinPendingMatchRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinPendingMatchRequest) \
@@ -7581,7 +7581,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinPendingMatchRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7594,7 +7594,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinPendingMatchRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinPendingMatchRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__matchGroup() { return STRUCT_OFFSET(UGSJoinPendingMatchRequest, matchGroup); } \
 	FORCEINLINE static uint32 __PPO__matchShortCode() { return STRUCT_OFFSET(UGSJoinPendingMatchRequest, matchShortCode); } \
 	FORCEINLINE static uint32 __PPO__pendingMatchId() { return STRUCT_OFFSET(UGSJoinPendingMatchRequest, pendingMatchId); } \
@@ -7604,30 +7604,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinPendingMatchRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSJoinPendingMatchRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2747_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2747_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2750_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendJoinTeamRequestOnBehalfOf) \
 	{ \
@@ -7659,7 +7659,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendJoinTeamRequestOnBehalfOf) \
 	{ \
@@ -7691,7 +7691,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSJoinTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinTeamRequest_Statics; \
@@ -7700,7 +7700,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSJoinTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSJoinTeamRequest_Statics; \
@@ -7709,7 +7709,7 @@ public: \
 	DECLARE_SERIALIZER(UGSJoinTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinTeamRequest) \
@@ -7722,7 +7722,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSJoinTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7735,7 +7735,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinTeamRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSJoinTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSJoinTeamRequest, ownerId); } \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSJoinTeamRequest, teamId); } \
 	FORCEINLINE static uint32 __PPO__teamType() { return STRUCT_OFFSET(UGSJoinTeamRequest, teamType); } \
@@ -7745,30 +7745,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSJoinTeamRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSJoinTeamRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2805_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2805_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2808_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendKongregateConnectRequestOnBehalfOf) \
 	{ \
@@ -7810,7 +7810,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendKongregateConnectRequestOnBehalfOf) \
 	{ \
@@ -7852,7 +7852,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSKongregateConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSKongregateConnectRequest_Statics; \
@@ -7861,7 +7861,7 @@ public: \
 	DECLARE_SERIALIZER(UGSKongregateConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSKongregateConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSKongregateConnectRequest_Statics; \
@@ -7870,7 +7870,7 @@ public: \
 	DECLARE_SERIALIZER(UGSKongregateConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSKongregateConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSKongregateConnectRequest) \
@@ -7883,7 +7883,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSKongregateConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -7896,7 +7896,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSKongregateConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSKongregateConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSKongregateConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSKongregateConnectRequest, doNotLinkToCurrentPlayer); } \
 	FORCEINLINE static uint32 __PPO__errorOnSwitch() { return STRUCT_OFFSET(UGSKongregateConnectRequest, errorOnSwitch); } \
@@ -7911,30 +7911,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSKongregateConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSKongregateConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2863_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2863_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2866_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendLeaderboardDataRequestOnBehalfOf) \
 	{ \
@@ -7984,7 +7984,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendLeaderboardDataRequestOnBehalfOf) \
 	{ \
@@ -8034,7 +8034,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSLeaderboardDataRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaderboardDataRequest_Statics; \
@@ -8043,7 +8043,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSLeaderboardDataRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaderboardDataRequest_Statics; \
@@ -8052,7 +8052,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaderboardDataRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaderboardDataRequest) \
@@ -8065,7 +8065,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaderboardDataRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8078,7 +8078,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaderboardDataRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSLeaderboardDataRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__dontErrorOnNotSocial() { return STRUCT_OFFSET(UGSLeaderboardDataRequest, dontErrorOnNotSocial); } \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSLeaderboardDataRequest, entryCount); } \
@@ -8097,30 +8097,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaderboardDataRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSLeaderboardDataRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2956_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2956_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_2959_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendLeaderboardsEntriesRequestOnBehalfOf) \
 	{ \
@@ -8158,7 +8158,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendLeaderboardsEntriesRequestOnBehalfOf) \
 	{ \
@@ -8196,7 +8196,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSLeaderboardsEntriesRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaderboardsEntriesRequest_Statics; \
@@ -8205,7 +8205,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaderboardsEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSLeaderboardsEntriesRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaderboardsEntriesRequest_Statics; \
@@ -8214,7 +8214,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaderboardsEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaderboardsEntriesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaderboardsEntriesRequest) \
@@ -8227,7 +8227,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaderboardsEntriesRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8240,7 +8240,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaderboardsEntriesRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaderboardsEntriesRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challenges() { return STRUCT_OFFSET(UGSLeaderboardsEntriesRequest, challenges); } \
 	FORCEINLINE static uint32 __PPO__inverseSocial() { return STRUCT_OFFSET(UGSLeaderboardsEntriesRequest, inverseSocial); } \
 	FORCEINLINE static uint32 __PPO__leaderboards() { return STRUCT_OFFSET(UGSLeaderboardsEntriesRequest, leaderboards); } \
@@ -8253,30 +8253,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaderboardsEntriesRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSLeaderboardsEntriesRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3049_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3049_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3052_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendLeaveTeamRequestOnBehalfOf) \
 	{ \
@@ -8308,7 +8308,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendLeaveTeamRequestOnBehalfOf) \
 	{ \
@@ -8340,7 +8340,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSLeaveTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaveTeamRequest_Statics; \
@@ -8349,7 +8349,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaveTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSLeaveTeamRequest(); \
 	friend struct Z_Construct_UClass_UGSLeaveTeamRequest_Statics; \
@@ -8358,7 +8358,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLeaveTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaveTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaveTeamRequest) \
@@ -8371,7 +8371,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLeaveTeamRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8384,7 +8384,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaveTeamRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLeaveTeamRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSLeaveTeamRequest, ownerId); } \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSLeaveTeamRequest, teamId); } \
 	FORCEINLINE static uint32 __PPO__teamType() { return STRUCT_OFFSET(UGSLeaveTeamRequest, teamType); } \
@@ -8394,30 +8394,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLeaveTeamRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSLeaveTeamRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3120_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3120_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3123_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListAchievementsRequestOnBehalfOf) \
 	{ \
@@ -8443,7 +8443,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListAchievementsRequestOnBehalfOf) \
 	{ \
@@ -8469,7 +8469,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListAchievementsRequest(); \
 	friend struct Z_Construct_UClass_UGSListAchievementsRequest_Statics; \
@@ -8478,7 +8478,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListAchievementsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListAchievementsRequest(); \
 	friend struct Z_Construct_UClass_UGSListAchievementsRequest_Statics; \
@@ -8487,7 +8487,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListAchievementsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListAchievementsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListAchievementsRequest) \
@@ -8500,7 +8500,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListAchievementsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8513,37 +8513,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListAchievementsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListAchievementsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListAchievementsRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListAchievementsRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListAchievementsRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListAchievementsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3178_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3178_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3181_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListBulkJobsAdminRequest) \
 	{ \
@@ -8558,7 +8558,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListBulkJobsAdminRequest) \
 	{ \
@@ -8573,7 +8573,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListBulkJobsAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSListBulkJobsAdminRequest_Statics; \
@@ -8582,7 +8582,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListBulkJobsAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListBulkJobsAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSListBulkJobsAdminRequest_Statics; \
@@ -8591,7 +8591,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListBulkJobsAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListBulkJobsAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListBulkJobsAdminRequest) \
@@ -8604,7 +8604,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListBulkJobsAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8617,37 +8617,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListBulkJobsAdminRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListBulkJobsAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__bulkJobIds() { return STRUCT_OFFSET(UGSListBulkJobsAdminRequest, bulkJobIds); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListBulkJobsAdminRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListBulkJobsAdminRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListBulkJobsAdminRequest, requestTimeoutSeconds); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3227_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3227_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3230_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListChallengeRequestOnBehalfOf) \
 	{ \
@@ -8683,7 +8683,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListChallengeRequestOnBehalfOf) \
 	{ \
@@ -8719,7 +8719,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSListChallengeRequest_Statics; \
@@ -8728,7 +8728,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSListChallengeRequest_Statics; \
@@ -8737,7 +8737,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListChallengeRequest) \
@@ -8750,7 +8750,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8763,7 +8763,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListChallengeRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListChallengeRequest, offset); } \
 	FORCEINLINE static uint32 __PPO__shortCode() { return STRUCT_OFFSET(UGSListChallengeRequest, shortCode); } \
@@ -8775,30 +8775,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3270_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3270_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3273_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListChallengeTypeRequestOnBehalfOf) \
 	{ \
@@ -8824,7 +8824,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListChallengeTypeRequestOnBehalfOf) \
 	{ \
@@ -8850,7 +8850,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListChallengeTypeRequest(); \
 	friend struct Z_Construct_UClass_UGSListChallengeTypeRequest_Statics; \
@@ -8859,7 +8859,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListChallengeTypeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListChallengeTypeRequest(); \
 	friend struct Z_Construct_UClass_UGSListChallengeTypeRequest_Statics; \
@@ -8868,7 +8868,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListChallengeTypeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListChallengeTypeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListChallengeTypeRequest) \
@@ -8881,7 +8881,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListChallengeTypeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -8894,37 +8894,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListChallengeTypeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListChallengeTypeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListChallengeTypeRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListChallengeTypeRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListChallengeTypeRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListChallengeTypeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3366_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3366_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3369_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListGameFriendsRequestOnBehalfOf) \
 	{ \
@@ -8950,7 +8950,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListGameFriendsRequestOnBehalfOf) \
 	{ \
@@ -8976,7 +8976,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListGameFriendsRequest(); \
 	friend struct Z_Construct_UClass_UGSListGameFriendsRequest_Statics; \
@@ -8985,7 +8985,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListGameFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListGameFriendsRequest(); \
 	friend struct Z_Construct_UClass_UGSListGameFriendsRequest_Statics; \
@@ -8994,7 +8994,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListGameFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListGameFriendsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListGameFriendsRequest) \
@@ -9007,7 +9007,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListGameFriendsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9020,37 +9020,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListGameFriendsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListGameFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListGameFriendsRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListGameFriendsRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListGameFriendsRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListGameFriendsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3415_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3415_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3418_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListInviteFriendsRequestOnBehalfOf) \
 	{ \
@@ -9076,7 +9076,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListInviteFriendsRequestOnBehalfOf) \
 	{ \
@@ -9102,7 +9102,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListInviteFriendsRequest(); \
 	friend struct Z_Construct_UClass_UGSListInviteFriendsRequest_Statics; \
@@ -9111,7 +9111,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListInviteFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListInviteFriendsRequest(); \
 	friend struct Z_Construct_UClass_UGSListInviteFriendsRequest_Statics; \
@@ -9120,7 +9120,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListInviteFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListInviteFriendsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListInviteFriendsRequest) \
@@ -9133,7 +9133,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListInviteFriendsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9146,37 +9146,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListInviteFriendsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListInviteFriendsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListInviteFriendsRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListInviteFriendsRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListInviteFriendsRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListInviteFriendsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3472_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3472_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3475_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListLeaderboardsRequestOnBehalfOf) \
 	{ \
@@ -9202,7 +9202,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListLeaderboardsRequestOnBehalfOf) \
 	{ \
@@ -9228,7 +9228,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListLeaderboardsRequest(); \
 	friend struct Z_Construct_UClass_UGSListLeaderboardsRequest_Statics; \
@@ -9237,7 +9237,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListLeaderboardsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListLeaderboardsRequest(); \
 	friend struct Z_Construct_UClass_UGSListLeaderboardsRequest_Statics; \
@@ -9246,7 +9246,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListLeaderboardsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListLeaderboardsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListLeaderboardsRequest) \
@@ -9259,7 +9259,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListLeaderboardsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9272,37 +9272,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListLeaderboardsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListLeaderboardsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListLeaderboardsRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSListLeaderboardsRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSListLeaderboardsRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListLeaderboardsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3529_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3529_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3532_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListMessageDetailRequestOnBehalfOf) \
 	{ \
@@ -9336,7 +9336,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListMessageDetailRequestOnBehalfOf) \
 	{ \
@@ -9370,7 +9370,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListMessageDetailRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageDetailRequest_Statics; \
@@ -9379,7 +9379,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageDetailRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListMessageDetailRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageDetailRequest_Statics; \
@@ -9388,7 +9388,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageDetailRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageDetailRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageDetailRequest) \
@@ -9401,7 +9401,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageDetailRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9414,7 +9414,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageDetailRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageDetailRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListMessageDetailRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__include() { return STRUCT_OFFSET(UGSListMessageDetailRequest, include); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListMessageDetailRequest, offset); } \
@@ -9425,30 +9425,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageDetailRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListMessageDetailRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3578_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3578_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3581_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListMessageRequestOnBehalfOf) \
 	{ \
@@ -9480,7 +9480,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListMessageRequestOnBehalfOf) \
 	{ \
@@ -9512,7 +9512,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageRequest_Statics; \
@@ -9521,7 +9521,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageRequest_Statics; \
@@ -9530,7 +9530,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageRequest) \
@@ -9543,7 +9543,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9556,7 +9556,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListMessageRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__include() { return STRUCT_OFFSET(UGSListMessageRequest, include); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListMessageRequest, offset); } \
@@ -9566,30 +9566,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3643_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3643_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3646_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListMessageSummaryRequestOnBehalfOf) \
 	{ \
@@ -9619,7 +9619,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListMessageSummaryRequestOnBehalfOf) \
 	{ \
@@ -9649,7 +9649,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListMessageSummaryRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageSummaryRequest_Statics; \
@@ -9658,7 +9658,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageSummaryRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListMessageSummaryRequest(); \
 	friend struct Z_Construct_UClass_UGSListMessageSummaryRequest_Statics; \
@@ -9667,7 +9667,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListMessageSummaryRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageSummaryRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageSummaryRequest) \
@@ -9680,7 +9680,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListMessageSummaryRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9693,7 +9693,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageSummaryRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListMessageSummaryRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListMessageSummaryRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListMessageSummaryRequest, offset); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListMessageSummaryRequest, scriptData); } \
@@ -9702,30 +9702,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListMessageSummaryRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListMessageSummaryRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3705_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3705_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3708_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListTeamChatRequestOnBehalfOf) \
 	{ \
@@ -9761,7 +9761,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListTeamChatRequestOnBehalfOf) \
 	{ \
@@ -9797,7 +9797,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListTeamChatRequest(); \
 	friend struct Z_Construct_UClass_UGSListTeamChatRequest_Statics; \
@@ -9806,7 +9806,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTeamChatRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListTeamChatRequest(); \
 	friend struct Z_Construct_UClass_UGSListTeamChatRequest_Statics; \
@@ -9815,7 +9815,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTeamChatRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTeamChatRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTeamChatRequest) \
@@ -9828,7 +9828,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTeamChatRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9841,7 +9841,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTeamChatRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTeamChatRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListTeamChatRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListTeamChatRequest, offset); } \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSListTeamChatRequest, ownerId); } \
@@ -9853,30 +9853,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTeamChatRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListTeamChatRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3768_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3768_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3771_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListTeamsRequestOnBehalfOf) \
 	{ \
@@ -9910,7 +9910,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListTeamsRequestOnBehalfOf) \
 	{ \
@@ -9944,7 +9944,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListTeamsRequest(); \
 	friend struct Z_Construct_UClass_UGSListTeamsRequest_Statics; \
@@ -9953,7 +9953,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListTeamsRequest(); \
 	friend struct Z_Construct_UClass_UGSListTeamsRequest_Statics; \
@@ -9962,7 +9962,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTeamsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTeamsRequest) \
@@ -9975,7 +9975,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTeamsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -9988,7 +9988,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTeamsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTeamsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListTeamsRequest, entryCount); } \
 	FORCEINLINE static uint32 __PPO__offset() { return STRUCT_OFFSET(UGSListTeamsRequest, offset); } \
 	FORCEINLINE static uint32 __PPO__teamNameFilter() { return STRUCT_OFFSET(UGSListTeamsRequest, teamNameFilter); } \
@@ -9999,30 +9999,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTeamsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListTeamsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3832_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3832_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3835_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListTransactionsRequestOnBehalfOf) \
 	{ \
@@ -10058,7 +10058,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListTransactionsRequestOnBehalfOf) \
 	{ \
@@ -10094,7 +10094,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListTransactionsRequest(); \
 	friend struct Z_Construct_UClass_UGSListTransactionsRequest_Statics; \
@@ -10103,7 +10103,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTransactionsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListTransactionsRequest(); \
 	friend struct Z_Construct_UClass_UGSListTransactionsRequest_Statics; \
@@ -10112,7 +10112,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListTransactionsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTransactionsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTransactionsRequest) \
@@ -10125,7 +10125,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListTransactionsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10138,7 +10138,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTransactionsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListTransactionsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__dateFrom() { return STRUCT_OFFSET(UGSListTransactionsRequest, dateFrom); } \
 	FORCEINLINE static uint32 __PPO__dateTo() { return STRUCT_OFFSET(UGSListTransactionsRequest, dateTo); } \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSListTransactionsRequest, entryCount); } \
@@ -10150,30 +10150,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListTransactionsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListTransactionsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3893_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3893_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3896_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendListVirtualGoodsRequestOnBehalfOf) \
 	{ \
@@ -10203,7 +10203,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendListVirtualGoodsRequestOnBehalfOf) \
 	{ \
@@ -10233,7 +10233,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSListVirtualGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSListVirtualGoodsRequest_Statics; \
@@ -10242,7 +10242,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSListVirtualGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSListVirtualGoodsRequest_Statics; \
@@ -10251,7 +10251,7 @@ public: \
 	DECLARE_SERIALIZER(UGSListVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListVirtualGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListVirtualGoodsRequest) \
@@ -10264,7 +10264,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSListVirtualGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10277,7 +10277,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListVirtualGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSListVirtualGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__includeDisabled() { return STRUCT_OFFSET(UGSListVirtualGoodsRequest, includeDisabled); } \
 	FORCEINLINE static uint32 __PPO__tags() { return STRUCT_OFFSET(UGSListVirtualGoodsRequest, tags); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSListVirtualGoodsRequest, scriptData); } \
@@ -10286,30 +10286,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSListVirtualGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSListVirtualGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3957_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3957_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_3960_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendLogChallengeEventRequestOnBehalfOf) \
 	{ \
@@ -10339,7 +10339,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendLogChallengeEventRequestOnBehalfOf) \
 	{ \
@@ -10369,7 +10369,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSLogChallengeEventRequest(); \
 	friend struct Z_Construct_UClass_UGSLogChallengeEventRequest_Statics; \
@@ -10378,7 +10378,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLogChallengeEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSLogChallengeEventRequest(); \
 	friend struct Z_Construct_UClass_UGSLogChallengeEventRequest_Statics; \
@@ -10387,7 +10387,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLogChallengeEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLogChallengeEventRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLogChallengeEventRequest) \
@@ -10400,7 +10400,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLogChallengeEventRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10413,7 +10413,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLogChallengeEventRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLogChallengeEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSLogChallengeEventRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__eventKey() { return STRUCT_OFFSET(UGSLogChallengeEventRequest, eventKey); } \
 	FORCEINLINE static uint32 __PPO__logEventData() { return STRUCT_OFFSET(UGSLogChallengeEventRequest, logEventData); } \
@@ -10422,30 +10422,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLogChallengeEventRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSLogChallengeEventRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4012_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4012_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4015_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendLogEventRequestOnBehalfOf) \
 	{ \
@@ -10473,7 +10473,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendLogEventRequestOnBehalfOf) \
 	{ \
@@ -10501,7 +10501,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSLogEventRequest(); \
 	friend struct Z_Construct_UClass_UGSLogEventRequest_Statics; \
@@ -10510,7 +10510,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLogEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSLogEventRequest(); \
 	friend struct Z_Construct_UClass_UGSLogEventRequest_Statics; \
@@ -10519,7 +10519,7 @@ public: \
 	DECLARE_SERIALIZER(UGSLogEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLogEventRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLogEventRequest) \
@@ -10532,7 +10532,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSLogEventRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10545,7 +10545,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLogEventRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSLogEventRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__eventKey() { return STRUCT_OFFSET(UGSLogEventRequest, eventKey); } \
 	FORCEINLINE static uint32 __PPO__logEventData() { return STRUCT_OFFSET(UGSLogEventRequest, logEventData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSLogEventRequest, durable); } \
@@ -10553,30 +10553,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSLogEventRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSLogEventRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4074_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4074_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4077_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendMatchDetailsRequestOnBehalfOf) \
 	{ \
@@ -10606,7 +10606,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendMatchDetailsRequestOnBehalfOf) \
 	{ \
@@ -10636,7 +10636,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSMatchDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSMatchDetailsRequest_Statics; \
@@ -10645,7 +10645,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMatchDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSMatchDetailsRequest(); \
 	friend struct Z_Construct_UClass_UGSMatchDetailsRequest_Statics; \
@@ -10654,7 +10654,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMatchDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSMatchDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSMatchDetailsRequest) \
@@ -10667,7 +10667,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSMatchDetailsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10680,7 +10680,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSMatchDetailsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSMatchDetailsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__matchId() { return STRUCT_OFFSET(UGSMatchDetailsRequest, matchId); } \
 	FORCEINLINE static uint32 __PPO__realtimeEnabled() { return STRUCT_OFFSET(UGSMatchDetailsRequest, realtimeEnabled); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSMatchDetailsRequest, scriptData); } \
@@ -10689,30 +10689,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSMatchDetailsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSMatchDetailsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4133_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4133_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4136_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendMatchmakingRequestOnBehalfOf) \
 	{ \
@@ -10752,7 +10752,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendMatchmakingRequestOnBehalfOf) \
 	{ \
@@ -10792,7 +10792,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSMatchmakingRequest(); \
 	friend struct Z_Construct_UClass_UGSMatchmakingRequest_Statics; \
@@ -10801,7 +10801,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMatchmakingRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSMatchmakingRequest(); \
 	friend struct Z_Construct_UClass_UGSMatchmakingRequest_Statics; \
@@ -10810,7 +10810,7 @@ public: \
 	DECLARE_SERIALIZER(UGSMatchmakingRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSMatchmakingRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSMatchmakingRequest) \
@@ -10823,7 +10823,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSMatchmakingRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -10836,7 +10836,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSMatchmakingRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSMatchmakingRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__action() { return STRUCT_OFFSET(UGSMatchmakingRequest, action); } \
 	FORCEINLINE static uint32 __PPO__customQuery() { return STRUCT_OFFSET(UGSMatchmakingRequest, customQuery); } \
 	FORCEINLINE static uint32 __PPO__matchData() { return STRUCT_OFFSET(UGSMatchmakingRequest, matchData); } \
@@ -10850,30 +10850,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSMatchmakingRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSMatchmakingRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4188_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4188_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4191_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendNXConnectRequestOnBehalfOf) \
 	{ \
@@ -10917,7 +10917,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendNXConnectRequestOnBehalfOf) \
 	{ \
@@ -10961,7 +10961,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSNXConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSNXConnectRequest_Statics; \
@@ -10970,7 +10970,7 @@ public: \
 	DECLARE_SERIALIZER(UGSNXConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSNXConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSNXConnectRequest_Statics; \
@@ -10979,7 +10979,7 @@ public: \
 	DECLARE_SERIALIZER(UGSNXConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSNXConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSNXConnectRequest) \
@@ -10992,7 +10992,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSNXConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11005,7 +11005,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSNXConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSNXConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accountPerLoginId() { return STRUCT_OFFSET(UGSNXConnectRequest, accountPerLoginId); } \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSNXConnectRequest, displayName); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSNXConnectRequest, doNotCreateNewPlayer); } \
@@ -11021,30 +11021,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSNXConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSNXConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4270_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4270_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4273_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendPSNAccountConnectRequestOnBehalfOf) \
 	{ \
@@ -11086,7 +11086,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendPSNAccountConnectRequestOnBehalfOf) \
 	{ \
@@ -11128,7 +11128,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSPSNAccountConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSPSNAccountConnectRequest_Statics; \
@@ -11137,7 +11137,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPSNAccountConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSPSNAccountConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSPSNAccountConnectRequest_Statics; \
@@ -11146,7 +11146,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPSNAccountConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPSNAccountConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPSNAccountConnectRequest) \
@@ -11159,7 +11159,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPSNAccountConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11172,7 +11172,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPSNAccountConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPSNAccountConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__authorizationCode() { return STRUCT_OFFSET(UGSPSNAccountConnectRequest, authorizationCode); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSPSNAccountConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSPSNAccountConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -11187,30 +11187,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPSNAccountConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSPSNAccountConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4370_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4370_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4373_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendPSNConnectRequestOnBehalfOf) \
 	{ \
@@ -11252,7 +11252,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendPSNConnectRequestOnBehalfOf) \
 	{ \
@@ -11294,7 +11294,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSPSNConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSPSNConnectRequest_Statics; \
@@ -11303,7 +11303,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPSNConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSPSNConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSPSNConnectRequest_Statics; \
@@ -11312,7 +11312,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPSNConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPSNConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPSNConnectRequest) \
@@ -11325,7 +11325,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPSNConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11338,7 +11338,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPSNConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPSNConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__authorizationCode() { return STRUCT_OFFSET(UGSPSNConnectRequest, authorizationCode); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSPSNConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSPSNConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -11353,30 +11353,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPSNConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSPSNConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4467_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4467_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4470_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendPsnBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -11416,7 +11416,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendPsnBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -11456,7 +11456,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSPsnBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSPsnBuyGoodsRequest_Statics; \
@@ -11465,7 +11465,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPsnBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSPsnBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSPsnBuyGoodsRequest_Statics; \
@@ -11474,7 +11474,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPsnBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPsnBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPsnBuyGoodsRequest) \
@@ -11487,7 +11487,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPsnBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11500,7 +11500,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPsnBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPsnBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__authorizationCode() { return STRUCT_OFFSET(UGSPsnBuyGoodsRequest, authorizationCode); } \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSPsnBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__entitlementLabel() { return STRUCT_OFFSET(UGSPsnBuyGoodsRequest, entitlementLabel); } \
@@ -11514,30 +11514,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPsnBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSPsnBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4568_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4568_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4571_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendPushRegistrationRequestOnBehalfOf) \
 	{ \
@@ -11567,7 +11567,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendPushRegistrationRequestOnBehalfOf) \
 	{ \
@@ -11597,7 +11597,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSPushRegistrationRequest(); \
 	friend struct Z_Construct_UClass_UGSPushRegistrationRequest_Statics; \
@@ -11606,7 +11606,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPushRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSPushRegistrationRequest(); \
 	friend struct Z_Construct_UClass_UGSPushRegistrationRequest_Statics; \
@@ -11615,7 +11615,7 @@ public: \
 	DECLARE_SERIALIZER(UGSPushRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPushRegistrationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPushRegistrationRequest) \
@@ -11628,7 +11628,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSPushRegistrationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11641,7 +11641,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPushRegistrationRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSPushRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__deviceOS() { return STRUCT_OFFSET(UGSPushRegistrationRequest, deviceOS); } \
 	FORCEINLINE static uint32 __PPO__pushId() { return STRUCT_OFFSET(UGSPushRegistrationRequest, pushId); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSPushRegistrationRequest, scriptData); } \
@@ -11650,30 +11650,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSPushRegistrationRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSPushRegistrationRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4650_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4650_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4653_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendQQConnectRequestOnBehalfOf) \
 	{ \
@@ -11713,7 +11713,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendQQConnectRequestOnBehalfOf) \
 	{ \
@@ -11753,7 +11753,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSQQConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSQQConnectRequest_Statics; \
@@ -11762,7 +11762,7 @@ public: \
 	DECLARE_SERIALIZER(UGSQQConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSQQConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSQQConnectRequest_Statics; \
@@ -11771,7 +11771,7 @@ public: \
 	DECLARE_SERIALIZER(UGSQQConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSQQConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSQQConnectRequest) \
@@ -11784,7 +11784,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSQQConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11797,7 +11797,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSQQConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSQQConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSQQConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSQQConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSQQConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -11811,30 +11811,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSQQConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSQQConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4709_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4709_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4712_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendRegistrationRequestOnBehalfOf) \
 	{ \
@@ -11868,7 +11868,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendRegistrationRequestOnBehalfOf) \
 	{ \
@@ -11902,7 +11902,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSRegistrationRequest(); \
 	friend struct Z_Construct_UClass_UGSRegistrationRequest_Statics; \
@@ -11911,7 +11911,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSRegistrationRequest(); \
 	friend struct Z_Construct_UClass_UGSRegistrationRequest_Statics; \
@@ -11920,7 +11920,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRegistrationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRegistrationRequest) \
@@ -11933,7 +11933,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRegistrationRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -11946,7 +11946,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRegistrationRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRegistrationRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSRegistrationRequest, displayName); } \
 	FORCEINLINE static uint32 __PPO__password() { return STRUCT_OFFSET(UGSRegistrationRequest, password); } \
 	FORCEINLINE static uint32 __PPO__segments() { return STRUCT_OFFSET(UGSRegistrationRequest, segments); } \
@@ -11957,30 +11957,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRegistrationRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSRegistrationRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4799_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4799_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4802_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendRevokePurchaseGoodsRequest) \
 	{ \
@@ -11997,7 +11997,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendRevokePurchaseGoodsRequest) \
 	{ \
@@ -12014,7 +12014,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSRevokePurchaseGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSRevokePurchaseGoodsRequest_Statics; \
@@ -12023,7 +12023,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRevokePurchaseGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSRevokePurchaseGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSRevokePurchaseGoodsRequest_Statics; \
@@ -12032,7 +12032,7 @@ public: \
 	DECLARE_SERIALIZER(UGSRevokePurchaseGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRevokePurchaseGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRevokePurchaseGoodsRequest) \
@@ -12045,7 +12045,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSRevokePurchaseGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12058,7 +12058,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRevokePurchaseGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSRevokePurchaseGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSRevokePurchaseGoodsRequest, playerId); } \
 	FORCEINLINE static uint32 __PPO__storeType() { return STRUCT_OFFSET(UGSRevokePurchaseGoodsRequest, storeType); } \
 	FORCEINLINE static uint32 __PPO__transactionIds() { return STRUCT_OFFSET(UGSRevokePurchaseGoodsRequest, transactionIds); } \
@@ -12067,30 +12067,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSRevokePurchaseGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSRevokePurchaseGoodsRequest, requestTimeoutSeconds); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4860_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4860_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4863_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendScheduleBulkJobAdminRequest) \
 	{ \
@@ -12109,7 +12109,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendScheduleBulkJobAdminRequest) \
 	{ \
@@ -12128,7 +12128,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSScheduleBulkJobAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSScheduleBulkJobAdminRequest_Statics; \
@@ -12137,7 +12137,7 @@ public: \
 	DECLARE_SERIALIZER(UGSScheduleBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSScheduleBulkJobAdminRequest(); \
 	friend struct Z_Construct_UClass_UGSScheduleBulkJobAdminRequest_Statics; \
@@ -12146,7 +12146,7 @@ public: \
 	DECLARE_SERIALIZER(UGSScheduleBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSScheduleBulkJobAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSScheduleBulkJobAdminRequest) \
@@ -12159,7 +12159,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSScheduleBulkJobAdminRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12172,7 +12172,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSScheduleBulkJobAdminRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSScheduleBulkJobAdminRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__data() { return STRUCT_OFFSET(UGSScheduleBulkJobAdminRequest, data); } \
 	FORCEINLINE static uint32 __PPO__moduleShortCode() { return STRUCT_OFFSET(UGSScheduleBulkJobAdminRequest, moduleShortCode); } \
 	FORCEINLINE static uint32 __PPO__playerQuery() { return STRUCT_OFFSET(UGSScheduleBulkJobAdminRequest, playerQuery); } \
@@ -12183,30 +12183,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSScheduleBulkJobAdminRequest); \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSScheduleBulkJobAdminRequest, requestTimeoutSeconds); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4909_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4909_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4912_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSendFriendMessageRequestOnBehalfOf) \
 	{ \
@@ -12236,7 +12236,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSendFriendMessageRequestOnBehalfOf) \
 	{ \
@@ -12266,7 +12266,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSendFriendMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSSendFriendMessageRequest_Statics; \
@@ -12275,7 +12275,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSendFriendMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSendFriendMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSSendFriendMessageRequest_Statics; \
@@ -12284,7 +12284,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSendFriendMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSendFriendMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSendFriendMessageRequest) \
@@ -12297,7 +12297,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSendFriendMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12310,7 +12310,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSendFriendMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSendFriendMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__friendIds() { return STRUCT_OFFSET(UGSSendFriendMessageRequest, friendIds); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSSendFriendMessageRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSSendFriendMessageRequest, scriptData); } \
@@ -12319,30 +12319,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSendFriendMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSendFriendMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4964_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4964_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_4967_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSendTeamChatMessageRequestOnBehalfOf) \
 	{ \
@@ -12376,7 +12376,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSendTeamChatMessageRequestOnBehalfOf) \
 	{ \
@@ -12410,7 +12410,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSendTeamChatMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSSendTeamChatMessageRequest_Statics; \
@@ -12419,7 +12419,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSendTeamChatMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSendTeamChatMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSSendTeamChatMessageRequest_Statics; \
@@ -12428,7 +12428,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSendTeamChatMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSendTeamChatMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSendTeamChatMessageRequest) \
@@ -12441,7 +12441,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSendTeamChatMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12454,7 +12454,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSendTeamChatMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSendTeamChatMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSSendTeamChatMessageRequest, message); } \
 	FORCEINLINE static uint32 __PPO__ownerId() { return STRUCT_OFFSET(UGSSendTeamChatMessageRequest, ownerId); } \
 	FORCEINLINE static uint32 __PPO__teamId() { return STRUCT_OFFSET(UGSSendTeamChatMessageRequest, teamId); } \
@@ -12465,30 +12465,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSendTeamChatMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSendTeamChatMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5019_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5019_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5022_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSocialDisconnectRequestOnBehalfOf) \
 	{ \
@@ -12516,7 +12516,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSocialDisconnectRequestOnBehalfOf) \
 	{ \
@@ -12544,7 +12544,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSocialDisconnectRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialDisconnectRequest_Statics; \
@@ -12553,7 +12553,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialDisconnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSocialDisconnectRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialDisconnectRequest_Statics; \
@@ -12562,7 +12562,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialDisconnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialDisconnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialDisconnectRequest) \
@@ -12575,7 +12575,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialDisconnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12588,7 +12588,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSocialDisconnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialDisconnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__systemId() { return STRUCT_OFFSET(UGSSocialDisconnectRequest, systemId); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSSocialDisconnectRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSSocialDisconnectRequest, durable); } \
@@ -12596,30 +12596,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSocialDisconnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSocialDisconnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5080_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5080_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5083_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSocialLeaderboardDataRequestOnBehalfOf) \
 	{ \
@@ -12669,7 +12669,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSocialLeaderboardDataRequestOnBehalfOf) \
 	{ \
@@ -12719,7 +12719,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSocialLeaderboardDataRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialLeaderboardDataRequest_Statics; \
@@ -12728,7 +12728,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSocialLeaderboardDataRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialLeaderboardDataRequest_Statics; \
@@ -12737,7 +12737,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialLeaderboardDataRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialLeaderboardDataRequest) \
@@ -12750,7 +12750,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialLeaderboardDataRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12763,7 +12763,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSocialLeaderboardDataRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialLeaderboardDataRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSSocialLeaderboardDataRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__dontErrorOnNotSocial() { return STRUCT_OFFSET(UGSSocialLeaderboardDataRequest, dontErrorOnNotSocial); } \
 	FORCEINLINE static uint32 __PPO__entryCount() { return STRUCT_OFFSET(UGSSocialLeaderboardDataRequest, entryCount); } \
@@ -12782,30 +12782,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSocialLeaderboardDataRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSocialLeaderboardDataRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5132_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5132_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5135_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSocialStatusRequestOnBehalfOf) \
 	{ \
@@ -12831,7 +12831,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSocialStatusRequestOnBehalfOf) \
 	{ \
@@ -12857,7 +12857,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSocialStatusRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialStatusRequest_Statics; \
@@ -12866,7 +12866,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialStatusRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSocialStatusRequest(); \
 	friend struct Z_Construct_UClass_UGSSocialStatusRequest_Statics; \
@@ -12875,7 +12875,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSocialStatusRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialStatusRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialStatusRequest) \
@@ -12888,7 +12888,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSocialStatusRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -12901,37 +12901,37 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSocialStatusRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSocialStatusRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSSocialStatusRequest, scriptData); } \
 	FORCEINLINE static uint32 __PPO__durable() { return STRUCT_OFFSET(UGSSocialStatusRequest, durable); } \
 	FORCEINLINE static uint32 __PPO__requestTimeoutSeconds() { return STRUCT_OFFSET(UGSSocialStatusRequest, requestTimeoutSeconds); } \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSocialStatusRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5225_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5225_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5228_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSteamBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -12965,7 +12965,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSteamBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -12999,7 +12999,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSteamBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSSteamBuyGoodsRequest_Statics; \
@@ -13008,7 +13008,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSteamBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSteamBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSSteamBuyGoodsRequest_Statics; \
@@ -13017,7 +13017,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSteamBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSteamBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSteamBuyGoodsRequest) \
@@ -13030,7 +13030,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSteamBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13043,7 +13043,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSteamBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSteamBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSSteamBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__orderId() { return STRUCT_OFFSET(UGSSteamBuyGoodsRequest, orderId); } \
 	FORCEINLINE static uint32 __PPO__subUnitPrice() { return STRUCT_OFFSET(UGSSteamBuyGoodsRequest, subUnitPrice); } \
@@ -13054,30 +13054,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSteamBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSteamBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5274_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5274_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5277_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendSteamConnectRequestOnBehalfOf) \
 	{ \
@@ -13117,7 +13117,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendSteamConnectRequestOnBehalfOf) \
 	{ \
@@ -13157,7 +13157,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSSteamConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSSteamConnectRequest_Statics; \
@@ -13166,7 +13166,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSteamConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSSteamConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSSteamConnectRequest_Statics; \
@@ -13175,7 +13175,7 @@ public: \
 	DECLARE_SERIALIZER(UGSSteamConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSteamConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSteamConnectRequest) \
@@ -13188,7 +13188,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSSteamConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13201,7 +13201,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSteamConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSSteamConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSSteamConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSSteamConnectRequest, doNotLinkToCurrentPlayer); } \
 	FORCEINLINE static uint32 __PPO__errorOnSwitch() { return STRUCT_OFFSET(UGSSteamConnectRequest, errorOnSwitch); } \
@@ -13215,30 +13215,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSSteamConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSSteamConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5343_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5343_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5346_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendTwitchConnectRequestOnBehalfOf) \
 	{ \
@@ -13278,7 +13278,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendTwitchConnectRequestOnBehalfOf) \
 	{ \
@@ -13318,7 +13318,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSTwitchConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSTwitchConnectRequest_Statics; \
@@ -13327,7 +13327,7 @@ public: \
 	DECLARE_SERIALIZER(UGSTwitchConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSTwitchConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSTwitchConnectRequest_Statics; \
@@ -13336,7 +13336,7 @@ public: \
 	DECLARE_SERIALIZER(UGSTwitchConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSTwitchConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSTwitchConnectRequest) \
@@ -13349,7 +13349,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSTwitchConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13362,7 +13362,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSTwitchConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSTwitchConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSTwitchConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSTwitchConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSTwitchConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -13376,30 +13376,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSTwitchConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSTwitchConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5437_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5437_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5440_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendTwitterConnectRequestOnBehalfOf) \
 	{ \
@@ -13441,7 +13441,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendTwitterConnectRequestOnBehalfOf) \
 	{ \
@@ -13483,7 +13483,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSTwitterConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSTwitterConnectRequest_Statics; \
@@ -13492,7 +13492,7 @@ public: \
 	DECLARE_SERIALIZER(UGSTwitterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSTwitterConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSTwitterConnectRequest_Statics; \
@@ -13501,7 +13501,7 @@ public: \
 	DECLARE_SERIALIZER(UGSTwitterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSTwitterConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSTwitterConnectRequest) \
@@ -13514,7 +13514,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSTwitterConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13527,7 +13527,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSTwitterConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSTwitterConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessSecret() { return STRUCT_OFFSET(UGSTwitterConnectRequest, accessSecret); } \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSTwitterConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSTwitterConnectRequest, doNotCreateNewPlayer); } \
@@ -13542,30 +13542,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSTwitterConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSTwitterConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5527_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5527_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5530_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendUpdateMessageRequestOnBehalfOf) \
 	{ \
@@ -13595,7 +13595,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendUpdateMessageRequestOnBehalfOf) \
 	{ \
@@ -13625,7 +13625,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSUpdateMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSUpdateMessageRequest_Statics; \
@@ -13634,7 +13634,7 @@ public: \
 	DECLARE_SERIALIZER(UGSUpdateMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSUpdateMessageRequest(); \
 	friend struct Z_Construct_UClass_UGSUpdateMessageRequest_Statics; \
@@ -13643,7 +13643,7 @@ public: \
 	DECLARE_SERIALIZER(UGSUpdateMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSUpdateMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSUpdateMessageRequest) \
@@ -13656,7 +13656,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSUpdateMessageRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13669,7 +13669,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSUpdateMessageRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSUpdateMessageRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__messageId() { return STRUCT_OFFSET(UGSUpdateMessageRequest, messageId); } \
 	FORCEINLINE static uint32 __PPO__status() { return STRUCT_OFFSET(UGSUpdateMessageRequest, status); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSUpdateMessageRequest, scriptData); } \
@@ -13678,30 +13678,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSUpdateMessageRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSUpdateMessageRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5624_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5624_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5627_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendViberConnectRequestOnBehalfOf) \
 	{ \
@@ -13743,7 +13743,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendViberConnectRequestOnBehalfOf) \
 	{ \
@@ -13785,7 +13785,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSViberConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSViberConnectRequest_Statics; \
@@ -13794,7 +13794,7 @@ public: \
 	DECLARE_SERIALIZER(UGSViberConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSViberConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSViberConnectRequest_Statics; \
@@ -13803,7 +13803,7 @@ public: \
 	DECLARE_SERIALIZER(UGSViberConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSViberConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSViberConnectRequest) \
@@ -13816,7 +13816,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSViberConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13829,7 +13829,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSViberConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSViberConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSViberConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSViberConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSViberConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -13844,30 +13844,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSViberConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSViberConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5679_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5679_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5682_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendWeChatConnectRequestOnBehalfOf) \
 	{ \
@@ -13909,7 +13909,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendWeChatConnectRequestOnBehalfOf) \
 	{ \
@@ -13951,7 +13951,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSWeChatConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSWeChatConnectRequest_Statics; \
@@ -13960,7 +13960,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWeChatConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSWeChatConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSWeChatConnectRequest_Statics; \
@@ -13969,7 +13969,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWeChatConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWeChatConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWeChatConnectRequest) \
@@ -13982,7 +13982,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWeChatConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -13995,7 +13995,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWeChatConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWeChatConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__accessToken() { return STRUCT_OFFSET(UGSWeChatConnectRequest, accessToken); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSWeChatConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSWeChatConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -14010,30 +14010,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWeChatConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSWeChatConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5780_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5780_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5783_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendWindowsBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -14069,7 +14069,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendWindowsBuyGoodsRequestOnBehalfOf) \
 	{ \
@@ -14105,7 +14105,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSWindowsBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSWindowsBuyGoodsRequest_Statics; \
@@ -14114,7 +14114,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWindowsBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSWindowsBuyGoodsRequest(); \
 	friend struct Z_Construct_UClass_UGSWindowsBuyGoodsRequest_Statics; \
@@ -14123,7 +14123,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWindowsBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWindowsBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWindowsBuyGoodsRequest) \
@@ -14136,7 +14136,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWindowsBuyGoodsRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -14149,7 +14149,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWindowsBuyGoodsRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWindowsBuyGoodsRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__currencyCode() { return STRUCT_OFFSET(UGSWindowsBuyGoodsRequest, currencyCode); } \
 	FORCEINLINE static uint32 __PPO__platform() { return STRUCT_OFFSET(UGSWindowsBuyGoodsRequest, platform); } \
 	FORCEINLINE static uint32 __PPO__receipt() { return STRUCT_OFFSET(UGSWindowsBuyGoodsRequest, receipt); } \
@@ -14161,30 +14161,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWindowsBuyGoodsRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSWindowsBuyGoodsRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5873_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5873_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5876_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendWithdrawChallengeRequestOnBehalfOf) \
 	{ \
@@ -14214,7 +14214,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendWithdrawChallengeRequestOnBehalfOf) \
 	{ \
@@ -14244,7 +14244,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSWithdrawChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSWithdrawChallengeRequest_Statics; \
@@ -14253,7 +14253,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWithdrawChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSWithdrawChallengeRequest(); \
 	friend struct Z_Construct_UClass_UGSWithdrawChallengeRequest_Statics; \
@@ -14262,7 +14262,7 @@ public: \
 	DECLARE_SERIALIZER(UGSWithdrawChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWithdrawChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWithdrawChallengeRequest) \
@@ -14275,7 +14275,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSWithdrawChallengeRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -14288,7 +14288,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWithdrawChallengeRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSWithdrawChallengeRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__challengeInstanceId() { return STRUCT_OFFSET(UGSWithdrawChallengeRequest, challengeInstanceId); } \
 	FORCEINLINE static uint32 __PPO__message() { return STRUCT_OFFSET(UGSWithdrawChallengeRequest, message); } \
 	FORCEINLINE static uint32 __PPO__scriptData() { return STRUCT_OFFSET(UGSWithdrawChallengeRequest, scriptData); } \
@@ -14297,30 +14297,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSWithdrawChallengeRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSWithdrawChallengeRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5945_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5945_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_5948_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendXBOXLiveConnectRequestOnBehalfOf) \
 	{ \
@@ -14362,7 +14362,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendXBOXLiveConnectRequestOnBehalfOf) \
 	{ \
@@ -14404,7 +14404,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSXBOXLiveConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSXBOXLiveConnectRequest_Statics; \
@@ -14413,7 +14413,7 @@ public: \
 	DECLARE_SERIALIZER(UGSXBOXLiveConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSXBOXLiveConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSXBOXLiveConnectRequest_Statics; \
@@ -14422,7 +14422,7 @@ public: \
 	DECLARE_SERIALIZER(UGSXBOXLiveConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSXBOXLiveConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSXBOXLiveConnectRequest) \
@@ -14435,7 +14435,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSXBOXLiveConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -14448,7 +14448,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSXBOXLiveConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSXBOXLiveConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__displayName() { return STRUCT_OFFSET(UGSXBOXLiveConnectRequest, displayName); } \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSXBOXLiveConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSXBOXLiveConnectRequest, doNotLinkToCurrentPlayer); } \
@@ -14463,30 +14463,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSXBOXLiveConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSXBOXLiveConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6004_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6004_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6007_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSendXboxOneConnectRequestOnBehalfOf) \
 	{ \
@@ -14528,7 +14528,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSendXboxOneConnectRequestOnBehalfOf) \
 	{ \
@@ -14570,7 +14570,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGSXboxOneConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSXboxOneConnectRequest_Statics; \
@@ -14579,7 +14579,7 @@ public: \
 	DECLARE_SERIALIZER(UGSXboxOneConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS \
 private: \
 	static void StaticRegisterNativesUGSXboxOneConnectRequest(); \
 	friend struct Z_Construct_UClass_UGSXboxOneConnectRequest_Statics; \
@@ -14588,7 +14588,7 @@ public: \
 	DECLARE_SERIALIZER(UGSXboxOneConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSXboxOneConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSXboxOneConnectRequest) \
@@ -14601,7 +14601,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGSXboxOneConnectRequest(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -14614,7 +14614,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSXboxOneConnectRequest); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGSXboxOneConnectRequest)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__doNotCreateNewPlayer() { return STRUCT_OFFSET(UGSXboxOneConnectRequest, doNotCreateNewPlayer); } \
 	FORCEINLINE static uint32 __PPO__doNotLinkToCurrentPlayer() { return STRUCT_OFFSET(UGSXboxOneConnectRequest, doNotLinkToCurrentPlayer); } \
 	FORCEINLINE static uint32 __PPO__errorOnSwitch() { return STRUCT_OFFSET(UGSXboxOneConnectRequest, errorOnSwitch); } \
@@ -14629,31 +14629,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGSXboxOneConnectRequest); \
 	FORCEINLINE static uint32 __PPO__playerId() { return STRUCT_OFFSET(UGSXboxOneConnectRequest, playerId); }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6101_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6101_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h_6104_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GSApi_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

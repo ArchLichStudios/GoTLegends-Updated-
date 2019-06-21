@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-GameSparks.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\SKIT\Intermediate\Build\Win64\Space_CradleEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.cpp.obj"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.1_of_3.cpp.obj"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.2_of_3.cpp.obj"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\PCLaunch.rc.res"
-/OUT:"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\UE4Editor-GameSparks.lib"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Intermediate\Build\Win64\GoTLegendsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.cpp.obj"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.1_of_3.cpp.obj"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.2_of_3.cpp.obj"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\PCLaunch.rc.res"
+/OUT:"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\UE4Editor-GameSparks.lib"

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GAMESPARKS_GameSparksComponent_generated_h
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_59_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_59_DELEGATE \
 struct GameSparksComponent_eventOnGameSparksLogEvent_Parms \
 { \
 	FString logMessage; \
@@ -26,7 +26,7 @@ static inline void FOnGameSparksLogEvent_DelegateWrapper(const FMulticastScriptD
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_53_DELEGATE \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_53_DELEGATE \
 struct GameSparksComponent_eventOnGameSparksAvailable_Parms \
 { \
 	bool available; \
@@ -39,7 +39,7 @@ static inline void FOnGameSparksAvailable_DelegateWrapper(const FMulticastScript
 }
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execIsAvailable) \
 	{ \
@@ -126,7 +126,7 @@ static inline void FOnGameSparksAvailable_DelegateWrapper(const FMulticastScript
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execIsAvailable) \
 	{ \
@@ -213,7 +213,7 @@ static inline void FOnGameSparksAvailable_DelegateWrapper(const FMulticastScript
 	}
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS_NO_PURE_DECLS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGameSparksComponent(); \
 	friend struct Z_Construct_UClass_UGameSparksComponent_Statics; \
@@ -222,7 +222,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksComponent)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesUGameSparksComponent(); \
 	friend struct Z_Construct_UClass_UGameSparksComponent_Statics; \
@@ -231,7 +231,7 @@ public: \
 	DECLARE_SERIALIZER(UGameSparksComponent)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_STANDARD_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameSparksComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksComponent) \
@@ -244,7 +244,7 @@ private: \
 public:
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_ENHANCED_CONSTRUCTORS \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGameSparksComponent(UGameSparksComponent&&); \
@@ -255,32 +255,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameSparksComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameSparksComponent)
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_7_PROLOG
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_GENERATED_BODY_LEGACY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_7_PROLOG
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_STANDARD_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_GENERATED_BODY \
+#define GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS_NO_PURE_DECLS \
-	SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_ENHANCED_CONSTRUCTORS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_PRIVATE_PROPERTY_OFFSET \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_INCLASS_NO_PURE_DECLS \
+	GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID SKIT_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h
+#define CURRENT_FILE_ID GoTLegends_4_21_Plugins_GameSparks_Source_GameSparks_Private_GameSparksComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -24,13 +24,13 @@
 /wd4838
 /we4668
 /I .
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src\GameSparks
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src\cjson
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src\easywsclient
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src\google
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src\mbedtls
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\src
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparks\Private
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src\GameSparks"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src\cjson"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src\easywsclient"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src\google"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src\mbedtls"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\src"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparks\Private"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -429,23 +429,23 @@
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces
-/I D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks
-/I D:\SKIT\Plugins\GameSparks\Source
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparksBaseSDK\include
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparks\Public
-/I D:\SKIT\Plugins\GameSparks\Source\GameSparks
-/I "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\winrt"
-/FI"D:\SKIT\Intermediate\Build\Win64\Space_CradleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\SKIT\Intermediate\Build\Win64\Space_CradleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\SKIT\Intermediate\Build\Win64\Space_CradleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp"
-/FI"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Definitions.GameSparks.h"
-/Fo"D:\SKIT\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Inc\GameSparks"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparksBaseSDK\include"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparks\Public"
+/I "C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Source\GameSparks"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Intermediate\Build\Win64\GoTLegendsEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Intermediate\Build\Win64\GoTLegendsEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Intermediate\Build\Win64\GoTLegendsEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp"
+/FI"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Definitions.GameSparks.h"
+/Fo"C:\Users\Ertie\Documents\Unreal Projects\GoTLegends-Updated-\GoTLegends 4.21\Plugins\GameSparks\Intermediate\Build\Win64\UE4Editor\Development\GameSparks\Module.GameSparks.gen.3_of_3.cpp.obj"
 /TP
 /GR-
 /W4
