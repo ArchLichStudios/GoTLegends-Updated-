@@ -20,6 +20,10 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Android/GoTLegends-armv7-es2.so",
 			"Type": "Executable"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Android/GoTLegends-arm64-es2.so",
+			"Type": "Executable"
 		}
 	],
 	"RuntimeDependencies": [
@@ -28,7 +32,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/MobileUtils/MobileUtils.uplugin",
+			"Path": "$(ProjectDir)/Plugins/GameSparks/GameSparks.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -37,10 +41,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/GameSparks/GameSparks.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -1217,10 +1217,6 @@
 		}
 	],
 	"AdditionalProperties": [
-		{
-			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Marketplace\\MobileUtils\\Source\\MobileUtils\\MobileUtils_UPL_Android.xml"
-		},
 		{
 			"Name": "AndroidPlugin",
 			"Value": "D:\\GoTLegends-Updated-\\GoTLegends 4.21\\Plugins\\GameSparks\\Source\\GameSparks\\GameSparks_APL.xml"
