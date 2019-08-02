@@ -15,12 +15,8 @@
 		"BuildId": "4541578",
 		"BuildVersion": ""
 	},
-	"Launch": "$(ProjectDir)/Binaries/Android/GoTLegends-armv7-es2.so",
+	"Launch": "$(ProjectDir)/Binaries/Android/GoTLegends-arm64-es2.so",
 	"BuildProducts": [
-		{
-			"Path": "$(ProjectDir)/Binaries/Android/GoTLegends-armv7-es2.so",
-			"Type": "Executable"
-		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Android/GoTLegends-arm64-es2.so",
 			"Type": "Executable"
