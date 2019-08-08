@@ -57,7 +57,7 @@
 #define USE_NULL_RHI 0
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define ORIGINAL_FILE_NAME "GoTLegends-arm64-es2.so"
+#define ORIGINAL_FILE_NAME "GoTLegends-armv7-es2.so"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME GoTLegends
 #define GS_BUILDING_MODULE 1
