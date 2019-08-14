@@ -1,0 +1,3 @@
+- Added Ability Mats To Reward Systems
+- Ability Mat rewards added to Campaign Missions Auto Sim
+- Ability Mat Requirement Checks now active
