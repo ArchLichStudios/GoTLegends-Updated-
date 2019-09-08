@@ -1,3 +1,9 @@
-- Added Ability Mats To Reward Systems
-- Ability Mat rewards added to Campaign Missions Auto Sim
-- Ability Mat Requirement Checks now active
+Reworked Mail System
+Fixed XP Overlevel Bug
+Added Hero Select Artwork for The Night King and Wight
+Added Player Portrait Options for The Night King and Wight
+Fixed Issue where tutorial pointer hand wouldnt go away after completing section of tutorial
+Fixed Issue Where players would recieve arena rewards even if they hadnt unlocked arena.
+Fixed display issue where if a user changed their Username, the client wouldnt update the display variable for said username until the game was restarted.
+Fixed a mistake where shards of the Night King were accidentally left in Early Starter Test Pack #2 from a development test.
+Added Grenn's "The Shield That Guards The Realms of Men" Passive Ability.
