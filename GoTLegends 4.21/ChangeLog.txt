@@ -7,3 +7,6 @@ Fixed Issue Where players would recieve arena rewards even if they hadnt unlocke
 Fixed display issue where if a user changed their Username, the client wouldnt update the display variable for said username until the game was restarted.
 Fixed a mistake where shards of the Night King were accidentally left in Early Starter Test Pack #2 from a development test.
 Added Grenn's "The Shield That Guards The Realms of Men" Passive Ability.
+Added New Guild Select UI
+Added functionality for guilds to begin collecting raid tickets.
+Added functionality for guilds to begin accumulating "Guild Power"
