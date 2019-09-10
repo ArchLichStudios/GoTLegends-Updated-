@@ -10,3 +10,4 @@ Added Grenn's "The Shield That Guards The Realms of Men" Passive Ability.
 Added New Guild Select UI
 Added functionality for guilds to begin collecting raid tickets.
 Added functionality for guilds to begin accumulating "Guild Power"
+Fixed a bug with the new fix for the overlevel bug that was causing the Guild Unlock dialogue screen to pop up again after hitting level 11 as well as level 10, and causing the Arena Unlock dialogue screen to pop up again after hitting level 21 as well as level 20.
