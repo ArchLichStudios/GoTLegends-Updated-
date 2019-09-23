@@ -1,0 +1,4 @@
+[/Script/UnrealEd.LevelEditorPlaySettings]
+; custom screen resolutions helpful for multi-client debugging
++MonitorScreenResolutions=(Description="1440x3040",Width=1440,Height=3040,AspectRatio="19:9")
++MonitorScreenResolutions=(Description="3040x1440",Width=3040,Height=1440,AspectRatio="19:9")

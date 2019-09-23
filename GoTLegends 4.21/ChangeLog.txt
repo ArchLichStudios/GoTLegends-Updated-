@@ -16,4 +16,7 @@ Added notifications to the player roster screen and main menu when a character i
 Added "Winterfell Crypts" Map
 Added Footstep Sounds on a per map basis
 Added Menu Hit Sounds
-
+Began Experimental Phase of adding in support for specific phone resolutions
+Fixed a bug where XP values were not saving on the server if the player did not level up.
+Began Reworks of various "under the hood" functions, to smooth out and udate old code, and help optimize performance.
+Added New Sigils & Crests to the Guild Creation options.
